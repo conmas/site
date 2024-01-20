@@ -5,7 +5,7 @@ layout: home
 
 <div class="box">
 
-![](headshot.jpeg)
+<img class="headshot" src="./images/headshot.jpeg" alt="Headshot image of Connor Mason, caucasian man wearing a blazer, looking to the left, laughing.">
 
 # Hi, I’m Connor<span class="dot">.</span>
 
