@@ -1,0 +1,131 @@
+@import url(https://rsms.me/inter/inter.css);
+
+// Size classes
+@mixin size($class) {
+  @if $class == ultrawide {
+	@media (min-width: 1851px) {
+	  @content;
+	}
+  }@else if $class == wide {
+	@media (max-width: 1850px) {
+	  @content;
+	}
+  }@else if $class == extralarge {
+	@media (max-width: 1600px) {
+	  @content;
+	}
+  }@else if $class == large {
+	@media (max-width: 1350px) {
+	  @content;
+	}
+  }@else if $class == medium {
+	@media (max-width: 1100px) {
+	  @content;
+	}
+  }@else if $class == small {
+	@media (max-width: 850px) {
+	  @content;
+	}
+  }@else if $class == mobile {
+	@media (max-width: 600px) {
+	  @content;
+	}
+  }
+}// Dark mode
+@mixin theme($theme) {
+  @if $theme == dark {
+	@media (prefers-color-scheme: dark) {
+	  @content;
+	}
+  }
+}
+:root {	// Fonts
+  font-family: ui-rounded, -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+
+	// Colors
+  color-scheme: light dark;
+  --box: #f1f1f1;
+  --accent: #00c490;
+  --accent-hover: #00915D;
+  --accent-press: #005E2A;
+  --secondary: #989898;
+  @include theme(dark) {
+	--box: black;
+	--accent: #e7126e;
+	--accent-hover: #B4003B;
+	--accent-press: #810008;
+  }
+}
+body {
+  height: 100%;
+  margin: 0;
+  @include size(ultrawide) {
+	padding: 10rem 30rem 1rem 30rem;
+  }
+  @include size(wide) {
+	padding: 10rem 25rem 1rem 25rem;
+  }
+  @include size(extralarge) {
+	padding: 5rem 20rem 1rem 20rem;
+  }
+  @include size(large) {
+	padding: 5rem 15rem 1rem 15rem;
+  }
+  @include size(medium) {
+	padding: 5rem 10rem 1rem 10rem;
+  }
+  @include size(small) {
+	padding: 1rem;
+  }
+}
+.box {
+  background: var(--box);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 2rem;
+  padding: 5rem;
+  @include size(mobile) {
+	padding: 3rem;
+  }
+}
+.headshot {
+  height: 7.5rem;
+  width: 7.5rem;
+  border-radius: 1rem;
+  outline: none;
+}
+h1 {
+  line-height: 1em;
+  font-weight: 700;
+  font-size: 2.5em;
+  @include size(small) {
+	font-size: 2em;
+  }
+  @include size(mobile) {
+	font-size: 1.75em;
+  }
+  .dot {
+	color: var(--accent);
+  }
+}
+a {
+  color: var(--accent);
+  text-decoration: none;
+  &:hover,
+  &:focus {
+	color: var(--accent-hover);
+  }
+  &:active {
+	color: var(--accent-press);
+  }
+}
+.footer {
+  font-size: 0.75em;
+  letter-spacing: -0.01em;
+  color: var(--secondary);
+  margin-top: 5em;
+  margin-bottom: -2em;
+}
+.links {
+  white-space: nowrap;
+}

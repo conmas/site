@@ -1,0 +1,117 @@
+@import url(https://rsms.me/inter/inter.css);
+:root {
+  font-family: ui-rounded, -apple-system, BlinkMacSystemFont, "Inter", sans-serif;
+  color-scheme: light dark;
+  --box: #f1f1f1;
+  --accent: #00c490;
+  --accent-hover: #00915D;
+  --accent-press: #005E2A;
+  --secondary: #989898;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --box: black;
+    --accent: #e7126e;
+    --accent-hover: #B4003B;
+    --accent-press: #810008;
+  }
+}
+
+body {
+  height: 100%;
+  margin: 0;
+}
+@media (min-width: 1851px) {
+  body {
+    padding: 10rem 30rem 1rem 30rem;
+  }
+}
+@media (max-width: 1850px) {
+  body {
+    padding: 10rem 25rem 1rem 25rem;
+  }
+}
+@media (max-width: 1600px) {
+  body {
+    padding: 5rem 20rem 1rem 20rem;
+  }
+}
+@media (max-width: 1350px) {
+  body {
+    padding: 5rem 15rem 1rem 15rem;
+  }
+}
+@media (max-width: 1100px) {
+  body {
+    padding: 5rem 10rem 1rem 10rem;
+  }
+}
+@media (max-width: 850px) {
+  body {
+    padding: 1rem;
+  }
+}
+
+.box {
+  background: var(--box);
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 2rem;
+  padding: 5rem;
+}
+@media (max-width: 600px) {
+  .box {
+    padding: 3rem;
+  }
+}
+
+.headshot {
+  height: 7.5rem;
+  width: 7.5rem;
+  border-radius: 1rem;
+  outline: none;
+}
+
+h1 {
+  line-height: 1em;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+@media (max-width: 850px) {
+  h1 {
+    font-size: 2em;
+  }
+}
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.75em;
+  }
+}
+h1 .dot {
+  color: var(--accent);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover, a:focus {
+  color: var(--accent-hover);
+}
+a:active {
+  color: var(--accent-press);
+}
+
+.footer {
+  font-size: 0.75em;
+  letter-spacing: -0.01em;
+  color: var(--secondary);
+  margin-top: 5em;
+  margin-bottom: -2em;
+}
+
+.links {
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=styles.css.map */
