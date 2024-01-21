@@ -9,7 +9,7 @@ permalink: /
 
 I’m a product leader in Chicago with a background in design and mobile. Today, I work at McDonald’s on industry-leading software used by millions of customers every day.
 
-More [about me](/about). See what I’m up to [now](/now).
+More <a class="internal-link" href="/about">about me</a>. See what I’m up to <a class="internal-link" href="/now">now</a>.
 
 ## Recently updated notes
 
