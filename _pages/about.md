@@ -4,9 +4,7 @@ title: About
 permalink: /about
 ---
 
-<div style="display: flex; justify-content: left; align-items: left">
-	<img src="assets/headshot.jpeg" style="text-align: left; height: 7.5rem; width: 7.5rem; border-radius: 1rem" alt="Headshot image of Connor Mason, caucasian man wearing a blazer, looking to the left, laughing.">
-</div>
+![Headshot of Connor Mason.](assets/headshot.jpeg)
 
 # Hi, I’m Connor.
 
