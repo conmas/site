@@ -2,7 +2,7 @@ $color-primary: hsl(0, 0%, 10%);
 $color-text: hsl(0, 0%, 20%);
 $color-subtext: hsl(0, 0%, 30%);
 $color-border: hsl(0, 0%, 85%);
-$color-accent: #00c490;
+$color-accent: #007a5a;
 $color-box-background: mix($color-primary, white, 4%);
 $border-radius: 4px;
 $font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
@@ -17,7 +17,7 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
-  max-width: 32em;
+  max-width: 42em;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -83,7 +83,7 @@ a {
   color: $color-accent;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: #ebfffa;
   }
   &:after {
     position: relative;

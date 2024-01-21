@@ -26,6 +26,6 @@ I’m passionate about accessibility, data privacy, and em dashes. I rarely use 
 
 <style>
   .wrapper {
-    max-width: 46em;
+    max-width: 32em;
   }
 </style>
