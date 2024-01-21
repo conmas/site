@@ -1,6 +1,6 @@
 $color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
+$color-text: hsl(0, 0%, 30%);
+$color-subtext: hsl(0, 0%, 50%);
 $color-border: hsl(0, 0%, 85%);
 $color-accent: #00e0a5;
 $color-box-background: mix($color-primary, white, 4%);
@@ -17,7 +17,7 @@ body {
   overflow-x: hidden;
   color: $color-text;
   font-size: 1rem;
-  max-width: 42em;
+  max-width: 32em;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
