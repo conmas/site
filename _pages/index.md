@@ -13,13 +13,13 @@ I want to make [wonderful](https://bit.ly/3HiCadM) products. Shipping useful too
 
 I’m passionate about accessibility, data privacy, and em dashes. I rarely use social media, but when I do, I post about Apple, productivity apps, and smart home platforms. Otherwise, you’ll typically find me drinking coffee and talking with my hands. 
 
-<strong>Recently updated notes</strong>
+## Recently updated notes
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 5 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      {{ note.last_modified_at | date: "%Y-%m-%d" }} <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
