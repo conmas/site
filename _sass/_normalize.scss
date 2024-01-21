@@ -1,4 +1,4 @@
- html {
+html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%; 
 }
@@ -18,13 +18,9 @@ hr {
   overflow: visible;
 }
 
-pre {
-  font-size: 1em;
-}
+pre { font-size: 1em; }
 
-a {
-  background-color: transparent;
-}
+a { background-color: transparent; }
 
 abbr[title] {
   border-bottom: none;

@@ -23,9 +23,3 @@ I’m passionate about accessibility, data privacy, and em dashes. I rarely use 
     </li>
   {% endfor %}
 </ul>
-
-<style>
-  .wrapper {
-    max-width: 32em;
-  }
-</style>
