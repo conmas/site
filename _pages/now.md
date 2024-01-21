@@ -5,7 +5,9 @@ permalink: /now
 ---
 
 # Now
-Last updated 2024-01-20.
+Last updated January 20, 2024. This page is inspired by the [`/now`](https://nownownow.com/about) page project.
+
+<script>document.write(`Currently <span class="js-age">${(new Date()-new Date("1991-07-26T13:44:00Z"))/1000/60/60/24/365.25}</span> years and counting.`)</script>
 
 ## Work
 
