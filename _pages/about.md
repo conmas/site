@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<img src="headshot.jpeg" alt="Headshot image of Connor Mason, caucasian man wearing a blazer, looking to the left, laughing.">
+<img src="assets/headshot.jpeg" alt="Headshot image of Connor Mason, caucasian man wearing a blazer, looking to the left, laughing.">
 
 # Hi, I’m Connor.
 
