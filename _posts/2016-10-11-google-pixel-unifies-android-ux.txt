@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “With its new Pixel, Google unifies Android user experience”
+title: "With its new Pixel, Google unifies Android user experience"
 author: Connor Mason 
 date: 2016-10-11
 

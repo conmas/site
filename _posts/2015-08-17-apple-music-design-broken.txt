@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Apple Music’s design is broken—here’s how Apple is fixing it”
+title: "Apple Music’s design is broken—here’s how Apple is fixing it"
 author: Connor Mason
 date: 2015-08-17
 

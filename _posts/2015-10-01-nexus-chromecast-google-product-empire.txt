@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “With Nexus and Chromecast, Google has built a product empire”
+title: "With Nexus and Chromecast, Google has built a product empire"
 author: Connor Mason
 date: 2015-10-01 
 

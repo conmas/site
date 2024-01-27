@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Android Everywhere: Google redesigns Android, one app at a time”
+title: "Android Everywhere: Google redesigns Android, one app at a time"
 author: Connor Mason
 date: 2014-11-13
 

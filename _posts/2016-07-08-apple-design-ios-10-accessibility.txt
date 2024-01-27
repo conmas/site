@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple’s new design style in iOS 10 is a statement on accessibility
+title: "Apple’s new design style in iOS 10 is a statement on accessibility"
 author: Connor Mason 
 date: 2016-07-08
 

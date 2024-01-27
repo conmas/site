@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Accessible design in modern app navigation—beyond the static web”
+title: "Accessible design in modern app navigation—beyond the static web"
 author: Connor Mason 
 date: 2017-01-17
 
