@@ -43,13 +43,13 @@ But as Steve Jobs would say, “design isn’t what it looks like. Design is how
 
 > “Project Butter really just smoothed things out, made things a bit faster. Android really needed that at the time. It was a drastic change, and helped Android keep up with iOS in regards to feel and responsiveness.”
 >
-> Nick Achtien, Android Developer
+> [Nick Achtien](https://github.com/nachtien)
 
 With Android 4.1 Jelly Bean in 2012, Google announced a broad-ranging initiate to improve animation quality and fluidity across the operating system. For years, iOS had earned a reputation for its springy animations and silk-smooth scrolling, while Android had been maligned for its lagging responsiveness. With a series of improvements it called “Project Butter,” Google invested in a number of under-the-hood refinements to enhance Android’s visual and touch performance. Among other things, the company included triple-buffering graphics, locked all drawing to a 16-second refresh time, and significantly overhauled the touch input system. The changes improved Android’s reputation for responsiveness, but the operating system still wasn’t quite there: it lacked some of iOS’s visual flourishes that helped make the software *seem* snappier and more responsive.
 
 > “Really, the reason iOS seems so snappy versus Android is in large part because of the transitions. Things can load in the background during transitions, whereas on Android you just see a loading screen. With Material Design, you have transitions that help the OS seem snappier to users.”
 >
-> Nick Achtien, Android Developer
+> [Nick Achtien](https://github.com/nachtien)
 
 First among these was transition animations. On iOS, transitions between applications were marked with lengthy and dramatic transition screens, which obscured the loading process from users. Meanwhile on Android, such visual feedback was avoided in preference for more honest loading screens, which served to slow down the user flow and imply operational slowness relative to iOS. In some cases, Android phones that were significantly more powerful *felt* slower versus older iPhones because of these animation tricks. With Material Design, Google is moving to standardize a number of interface animations that will help bridge that gap and help Android match its Cupertino competitor in terms of not only actual speed, but apparent speed, as well.
 
