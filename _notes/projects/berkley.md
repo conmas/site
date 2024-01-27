@@ -5,7 +5,7 @@ id: berkley
 permalink: /projects/berkley
 
 type: client
-date: 2017–2018
+date: 2018-10-14
 ---
 
 Berkley One
