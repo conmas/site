@@ -3,13 +3,9 @@ layout: post
 title: "Accessible design in modern app navigation—beyond the static web"
 author: Connor Mason 
 date: 2017-01-17
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2017/01/HR-in-the-21st-century-e1484686093937.jpg)
-
-# Accessible design in modern app navigation—beyond the static web
 
 > This blog post was originally published on [punchkick.com](https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web).
 

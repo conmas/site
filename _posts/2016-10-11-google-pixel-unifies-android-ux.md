@@ -3,13 +3,9 @@ layout: post
 title: "Google unifies Android user experience with Pixel"
 author: Connor Mason 
 date: 2016-10-11
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2016/10/google-assistant-pixel.jpeg)
-
-# Google unifies Android user experience with Pixel
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience).
 

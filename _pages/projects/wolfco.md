@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: page
 title: WolfCo
 id: wolfco
 permalink: /projects/wolfco

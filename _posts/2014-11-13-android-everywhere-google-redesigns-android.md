@@ -3,13 +3,9 @@ layout: post
 title: "Google redesigns Android, one app at a time"
 author: Connor Mason
 date: 2014-11-13
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2014/11/style_color_introduction.png)
-
-# Android Everywhere: Google redesigns Android, one app at a time
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/13/android-everywhere-google-redesigns-android-one-app-at-a-time).
 

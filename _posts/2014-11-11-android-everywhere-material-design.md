@@ -3,13 +3,9 @@ layout: post
 title: "Android Material Design wipes the slate clean"
 author: Connor Mason
 date: 2014-11-11
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2014/11/style_imagery_introduction.png)
-
-# Android Everywhere: Material Design wipes the slate clean
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/11/android-everywhere-material-design-wipes-the-slate-clean).
 

@@ -3,13 +3,9 @@ layout: post
 title: "Google builds its a product empire with Nexus and Chromecast"
 author: Connor Mason
 date: 2015-10-01 
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2015/10/HARDWARE-MONTAGE_V1b_NW_cropped.jpg)
-
-# Google builds its a product empire with Nexus and Chromecast
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/10/01/with-nexus-and-chromecast-google-has-built-a-product-empire).
 

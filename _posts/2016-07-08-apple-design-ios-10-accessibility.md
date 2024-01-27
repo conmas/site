@@ -3,13 +3,9 @@ layout: post
 title: "Apple’s new design style in iOS 10 is a statement on accessibility"
 author: Connor Mason 
 date: 2016-07-08
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2016/07/ios10accessibility2.png)
-
-# Apple’s new design style in iOS 10 is a statement on accessibility
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility).
 

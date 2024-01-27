@@ -1,5 +1,5 @@
 ---
-layout: note
+layout: page
 title: Berkley One
 id: berkley
 permalink: /projects/berkley

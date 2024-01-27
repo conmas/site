@@ -3,13 +3,9 @@ layout: post
 title: "Android Lollipop makes Google’s case for unity"
 author: Connor Mason
 date: 2014-11-23
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2014/11/lollipop-promo-hero.jpeg)
-
-# Android Everywhere: Lollipop makes Google’s case for unity
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/23/android-everywhere-lollipop-makes-googles-case-for-unity).
 

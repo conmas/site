@@ -3,13 +3,9 @@ layout: post
 title: "Apple Music’s design is broken—here’s how Apple is fixing it"
 author: Connor Mason
 date: 2015-08-17
-
-status: #republish
 ---
 
 ![](https://wp.punchkick.com/wp-content/uploads/2015/08/apple-music-multiple-devices.png)
-
-# Apple Music’s design is broken—here’s how Apple is fixing it
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).
 
