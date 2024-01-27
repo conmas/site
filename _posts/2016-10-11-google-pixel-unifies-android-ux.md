@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2016-10-11
 ---
 
-![](/assets/google-assistant-pixel.jpeg)
+![Photograph of a person using Google Assistant on an Android phone to check traffic on their route to work.](/assets/google-assistant-pixel.jpeg)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience).
 
@@ -20,6 +20,7 @@ Enter Pixel: the first smartphone designed by Google and manufactured with a sin
 Google doesn’t want to leave Android user experience up to a handful of companies interested in racing to the bottom in terms of price and racing to the absurd in terms of the processor arms race. It views Android as a premium operating system befitting of a premium handset, and Pixel does well to represent that perspective. The fresh coat of paint applied to Pixel’s launcher in Android 7.1 Nougat makes the operating system feel more dynamic and proactive than ever, [automatically surfacing relevant services and recommendations](https://www.punchkick.com/blog/2016/10/06/google-assistant-will-give-android-app-developers-ai-superpowers) based on user input and on-screen content. But Google Assistant is only part of a story that Google hopes will unify its OS and hardware ventures as its platforms evolve.
 
 ## Pixel is the vanguard for the next big platform—virtual reality
+
 Pixel is among the first Daydream-ready smartphones to enter the market, a standard put forth by Google to support its virtual reality initiatives. With standards around screen fidelity and processor performance, Daydream-ready smartphones can power immersive VR experiences without an expensive gaming PC setup. Google believes that virtual reality is the next big operating system evolution, and has positioned its products to be among the first to really deliver on that goal.
 
 > Android Daydream is perhaps the first entrant in mobile’s next big platform evolution—and Pixel is positioned to power it from day one.
@@ -27,6 +28,7 @@ Pixel is among the first Daydream-ready smartphones to enter the market, a stand
 But Daydream is bigger than Pixel, and instead is a hardware specifications baseline that all Android OEMs can now strive for. To be compatible with Daydream, the VR environment that will soon be ubiquitous among Nougat-powered Android devices, smartphones need to achieve certain minimums for processors, display resolution and performance, and internal sensors. For Android app developers—even those not currently interested in building virtual reality apps—this level of standardization is a welcome addition to the platform. 
 
 ## Google has unified its hardware teams—and isn’t sitting still
+
 Beyond Pixel and its Daydream View VR headset, Google has begun organizing its hardware products into a cohesive product story. With Google Home—the Amazon Echo–lookalike that offers Google Assistant throughout the home—new product lines like Google Wifi, and new additions like the 4K–ready Chromecast Ultra, Google doesn’t only want to become the only web services company customers need, it also wants to become the only hardware company customers need.
 
 Apple has long been a company that differentiates itself by seamlessly integrating hardware and software, versus giants like 1990s Microsoft who licensed Windows to OEMs building Intel-powered PCs, or Google in the 2000s open-sourcing Android for smartphone vendors. But now Google seems intent on offering the same degree of cohesion across Android and Chrome product families, and seeks to deliver a consistent user experience across Android- and Google-powered hardware offerings.
