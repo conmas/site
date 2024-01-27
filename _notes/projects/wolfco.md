@@ -8,4 +8,4 @@ type: freelance
 date: 2020-04-13
 ---
 
-WolfCo
+Case study coming soon. Return [home](/).

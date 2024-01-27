@@ -21,3 +21,14 @@ More <a class="internal-link" href="/about">about me</a>. See what I’m up to <
     </li>
   {% endfor %}
 </ul>
+
+## Recently migrated blog posts
+
+<ul>
+  {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" | reverse %}
+  {% for post in recent_posts limit: 10 %}
+    <li>
+      {{ post.last_modified_at | date: "%Y-%m-%d" }} <a class="internal-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

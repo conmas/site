@@ -8,4 +8,4 @@ type: client
 date: 2018-09-27
 ---
 
-Atlas Financial
+Case study coming soon. Return [home](/).
