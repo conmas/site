@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2016-10-11
 ---
 
-![](https://wp.punchkick.com/wp-content/uploads/2016/10/google-assistant-pixel.jpeg)
+![](/assets/google-assistant-pixel.jpeg)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience).
 

@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2014-11-13
 ---
 
-![](https://wp.punchkick.com/wp-content/uploads/2014/11/style_color_introduction.png)
+![](/assets/material-design-style-color.png)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/13/android-everywhere-google-redesigns-android-one-app-at-a-time).
 
@@ -13,7 +13,7 @@ Even before its release in 2008, Android’s only constant has been reinvention.
 
 Android Lollipop represents Google asserting control of its platform, and its intention to bring its singular vision for Android to every connected device in your life. Welcome to Android everywhere.
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/11/N6-purchaseflow-1200.jpg)
+![](/assets/google-nexus-6.jpg)
 
 ## Material Design, Part 2
 
@@ -23,13 +23,13 @@ Motorola wasn’t the only manufacturer altering the Android user interface. In 
 
 As Apple routinely drove updates to its iOS software to iPhone and iPad users over the air, Android was frequently stuck in neutral. Because carriers and OEM partners could determine for themselves when their phones received Android system updates—or, if they received them at all—many users continued running 2.3 Froyo for years after 4.0 Ice Cream Sandwich became available. Manufacturers worked to update their custom interface skins to be compatible with new Android versions, but this development lead-time often took months or more after Google first unveiled the platform’s next iteration. Fragmentation became a real problem for Android, and severely impacted not only Google’s ability to innovate, but also developers’ ability to feasibly design their apps to run on a majority of Android handsets. Google had lost control of its platform, and was beholden in many ways to its partners to ensure adoption.
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/11/style_imagery_principles5.png)
+![](/assets/material-design-image-principles-now-playing.png)
 
 To amend this in the short term, Google began releasing its popular Nexus line of smartphones and tablets, built alongside manufacturing partners and designed to run the latest and greatest versions of Android. Nexus phones received over-the-air Android version updates as soon as they became available, and remained completely under Google’s control in terms of capabilities and software compatibility. Nexus devices offered a solution to fragmentation for consumers buying new hardware, and allowed Android fans to take advantage of the shiny new things announced at every Google I/O developer conference. Google even expanded this approach to the Google Play Edition program, which offered manufacturing partners’ flagship devices—like the Samsung Galaxy S5 or HTC One—running “stock Android” at an “unlocked” premium price on the Google Play Store. But Nexus and Google Play Editions weren’t a solution to Android’s fragmentation ills for all Android-kind, and simply represented a proverbial “city on a hill” for OEM partners to aspire to. The wider Android ecosystem remained outside of Google’s direct control, and its users couldn’t take advantage of the platform’s latest features. Thankfully, Google itself had already developed an escape hatch: the Google Play Store.
 
 Through the Google Play Store, Google could push updates to core apps and services without requiring users to first perform system updates. Apps like Gmail, Hangouts, and more could run on older OS versions without incident, allowing Google to push its latest design aesthetic and ideas to as wide a range of customers as possible. When Google began rolling out the first updates for Material Design this fall, even users on 4.4 KitKat and above could take advantage. Google Calendar, Gmail, and Hangouts all saw Material Design updates in the Google Play store weeks before Android 5.0 Lollipop was released, allowing users on older and non-Nexus handsets to adopt the company’s new design philosophy immediately. Unlike Apple and iOS, users didn’t need to upgrade an entire version number just to use a hot new feature in Mail. If Google wanted to remain sole steward of its platform, it needed to reach even the furthest among its flock—and the independent app update strategy allowed Google to infect older phones with its design aesthetic one app at a time, adding Material interfaces to core products without needing a system-wide Lollipop overhaul. In short, it solved for fragmentation: while Android’s user base lagged behind on version updates due to tedious partner holdups, Google could forge ahead into new territory and cast a shadow of designs and features backward to the outdated masses.
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/11/layout_metrics_incremental4.png)
+![](/assets/material-design-layout-metrics.png)
 
 ### App updates are time travelers
 
@@ -37,15 +37,17 @@ Earlier this fall, Google unveiled an all-new take on its Calendar app for Andro
 
 In fact, Material Design informed the direction for a brand new initiative from Google’s Gmail team. Having acquired the talent behind a novel take on Gmail management called Sparrow, the company spent years of research and product development on a new approach to Gmail inbox management. Borrowing liberally from inbox triage products like Mailbox on mobile, Google Inbox applies task management philosophies within a Material Design framework. Organizing messages into intelligent “bundles” and allowing users to snooze conversations for later, Inbox builds upon a foundational Google service and reimagines it for Material Design. Expanding and transforming Gmail’s primary feature set, Inbox represents a Material Design remake of Google’s most popular and broad-ranging product. Google knows that design isn’t just what it looks like, and Inbox redefines how email works within a Material Design context. But Google wasn’t replacing the venerable Gmail—it was just getting started.
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/10/inbox.jpg)
+![](/assets/google-inbox-mobile.jpg)
 
 The longstanding Gmail Android client was next, adopting a red accent color and material elements from the company’s comprehensive guidelines. Most interestingly about Gmail was its surprise inclusion of POP and IMAP support, allowing users to add non-Gmail email accounts to the app and receive their Outlook or Yahoo messages in parallel. This move suggests that the Gmail app is intended to replace Android’s longstanding email client for third-party mail services, and could grow to encompass Exchange and other email server types in coming versions. Google was moving to replace core Android system services—calendar management, email clients, and more—with Google-specific application products like Calendar and Gmail. For many, this approach has been polarizing: whereas previous versions of Android have seen new versions of apps fully open and adaptable to any company’s varying intention, recent incarnations have seen little improvement to those underlying apps in favor of shiny new renditions of Google’s core product family.
 
-> “Google has Gmail, Calendar, Google Camera—all these were core components of the Android operating system—and they’ve turned them into Google-branded apps. They’re turning core components of the OS into ‘apps,’ which can be independently updated.” —Nick Achtien, Android Developer
+> “Google has Gmail, Calendar, Google Camera—all these were core components of the Android operating system—and they’ve turned them into Google-branded apps. They’re turning core components of the OS into ‘apps,’ which can be independently updated.”
+>
+> Nick Achtien, Android Developer
 
 Of course, Android still exists as an operating system that manufacturing partners can iterate and remix. HTC, Samsung, and others have built their own custom interfaces and apps on top of the core Android layer. But Google’s stock offering—the variant of Android that ships with Nexus products and is available from Google’s developer website—is overcome with Google-specific applications. Of course, this approach makes business sense: Android is free, Google services are free, and a wider user base allows Google to show more advertisements and monetize its cloud service creations. Google Chrome is perhaps the quintessential example: the Android browser lives on, largely unaltered since its Holo-style redesign under Ice Cream Sandwich. But Chrome, meanwhile, has been reinvented with Material Design and takes advantage of new Lollipop-specific features, like separating tabs into distinct cards in 5.0’s multitasking views. This strategy is neither good nor bad for Android—rather, it tweaks Android’s perception as an open-source project and solidifies Google’s investment in the platform as a product. Android is perhaps the largest smash-hit in the history mobile industry, and Google is rightfully staking its claim.
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/11/layout_structure_toolbars4.png)
+![](/assets/material-design-layout-structure-toolbars.png)
 
 ### Material everywhere
 
@@ -57,10 +59,12 @@ The design prescriptions in Google’s Material Design guidelines are specific, 
 
 Not only is Material Design compatible with brand standards across a myriad of industries, but it also might be beneficial for brand designers to explore. Because compliance and modern design practices go a long way to inspire user trust, adopting Material Design components can help brand designers capitalize on the operating system’s new look and encourage users to feel comfortable with their apps. “If I download a Chase app onto my Android phone, and it references some of the nicer aspects of the platform, like the animations and the subtle cues for depth, it helps me feel like it belongs on my phone,” Detskas explains. “The polish helps me trust it. So if a solid design engenders trust, it’s in a company’s best interest to leverage those guidelines wherever they don’t conflict with their brand.”
 
-![](https://www.punchkickinteractive.com/content/uploads/2014/11/whatismaterial_3d_relationship2.png)
+![](/assets/material-design-floating-action-buttons.png)
 
 Like Google, third-party Android developers can take advantage of backwards-compatibility though Google Play Services. As Google fights fragmentation by opening new APIs and features to older versions of Android, developers have new opportunities to reach ever larger audiences of Android users. As Material Design works its way backwards and crops up on older devices and among older interface techniques, developers can modernize their apps with greater agility and still maintain a level of consistency. Google has made strides against not only Android version fragmentation, but also interface design fragmentation brought on by disparate interface strategies and customizations by Android hardware manufacturers. Gmail, updated with Material Design, runs the same on multiple years’ worth of Android versions and on interface skins maintained by HTC, Samsung, Motorola, and others. Third parties, too, can begin shipping consistently designed apps across versions and interface modifications.
 
-> “These different Android skins impact development. Sometimes, standardization can be a good thing for developers, because that’s less variance that you have to account for. That kind of segmentation is where bugs start to occur, because developers can’t account for that wide variance. When Google standardizes, the development target becomes a lot smaller.” —Harold Merrell, Android Developer
+> “These different Android skins impact development. Sometimes, standardization can be a good thing for developers, because that’s less variance that you have to account for. That kind of segmentation is where bugs start to occur, because developers can’t account for that wide variance. When Google standardizes, the development target becomes a lot smaller.”
+>
+> Harold Merrell, Android Developer
 
 Material Design is only part of Google’s play to tackle fragmentation, easily the largest issue facing its leading platform from developers’ perspective. Google is simplifying the Android development process—both by standardizing design aesthetics and by minimizing the number of Android flavors that require distinct versions of third-party apps—which will attract another class of developers. With Android, Google cast a wide net to achieve unprecedented market adoption—but in so doing, made concessions to carriers and manufacturers on design and upgradability that have crippled some aspects of the platform. Now, with Material Design updates assisted by Google Play Services, Google has begun standardizing its platform and aligning its billion-plus customers to be ready for what’s next. And what’s next will fundamentally alter how customers perceive Android and define the platform’s trajectory into the next decade.

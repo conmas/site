@@ -11,7 +11,7 @@ date: 2014-11-23
 
 Even before its release in 2008, Android’s only constant has been reinvention. What began as a basic operating system for feature phones has exploded into the top mobile platform on the planet, with the industry’s largest touch screens and most extreme hardware capabilities. Android became a diverse and robust ecosystem of smartphones and tablets, with custom designs and features for each distinct manufacturer. The core of Android remained strong, but its influence was waning: as Google iterated its platform with new features and versions, carriers and OEM partners were sloth to adopt. When Google looked to expand Android onto types of devices—like wearables, televisions, and cars—it came time to pull the reins harder.
 
-Android Lollipop represents Google asserting control of its platform, and its intention to bring its singular vision for Android to every connected device in your life. Welcome to [Android everywhere](http://www.punchkickinteractive.com/topic/androideverywhere).
+Android Lollipop represents Google asserting control of its platform, and its intention to bring its singular vision for Android to every connected device in your life. Welcome to Android everywhere.
 
 ## Lollipop, Part 1
 
@@ -53,14 +53,11 @@ Android was one of the first mobile operating systems to include multitasking fu
 
 In iOS 4, Apple took a stab at multitasking on the iPhone, and introduced a slide-up overview shelf that allowed users to view recently used apps and dismiss them if necessary. Rather than allowing apps to constantly run, draining battery and eating up processor cycles, Apple’s approach instead saved app states and screens for users to resume at some future point. (Certain app types, like audio streamers and navigation apps, were allowed to truly remain running in the background.) But users were still confused by the interface design: even experienced iPhone customers would routinely double-tap their home buttons to “quit” these apps and dismiss them from the shelf, fearing the battery drain and processor slowdown that might result. Neither company had clarified the true nature of multitasking on their platforms, and Android needed a new solution that matched Material Design’s simplicity and elegance.
 
-![](http://www.droid-life.com/wp-content/uploads/2014/07/android-l-multitasking.jpg)
-*Source: [Droid Life](http://www.droid-life.com/wp-content/uploads/2014/07/android-l-multitasking.jpg)*
+![](/assets/android-lollipop-multitasking.jpg)
 
 Google’s solution not only simplified the task management process on Android, but also introduced new functionality and clarity around how apps and processes behave and interact. Dubbed “Overview,” the new multitasking interface incorporated a Material Design–inspired scrolling stack of cards for each open application. The interface leans on apps’ most prominent color to inform a title bar for each card, becoming a beautiful scrolling rolodex of colorful application processes. Users can simply and easily swipe away unnecessary app screens when they become irrelevant, and can universally access the Overview mode from anywhere, system-wide, using the squarish Overview button in Lollipop.
 
 But Overview doesn’t stop at a basic re-skinning of the Android multitasking interface. Android Lollipop introduces a new functionality for document-based applications that allows them to submit multiple cards into the Overview mode. Now, the Chrome web browser can appear with distinct Overview cards for each of its open tabs, and documents in Google Docs or drafted messages in Gmail can each live in Overview alongside their host application views. The introduction of more than one card for compatible apps will help users better understand the various tasks their Android devices are simultaneously managing, and will allow battery- or power-conscious users increased flexibility and control over their devices’ performance.
-
-![](/assets/android-lollipop-multitasking.jpg)
 
 ### Android to go
 

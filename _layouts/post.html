@@ -7,7 +7,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   
   <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-	  Published {{ page.date | date: "%B %-d, %Y" }}
+	  {{ page.date | date: "%B %-d, %Y" }}
   </time>
   
   <content>

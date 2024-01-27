@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2017-01-17
 ---
 
-![](https://wp.punchkick.com/wp-content/uploads/2017/01/HR-in-the-21st-century-e1484686093937.jpg)
+![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)
 
 > This blog post was originally published on [punchkick.com](https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web).
 
