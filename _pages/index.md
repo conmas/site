@@ -13,6 +13,8 @@ More <a href="/about">about me</a>. See what I’m up to <a href="/now">now</a>.
 
 ## Legacy blog posts
 
+I’m in the process of migrating old blog posts from Medium and other sites into this new home. Check out some of the ones from 2014–2017 that have been carried over so far. (Some links and assets aren’t working yet, but I’m in the process of restoring them.)
+
 <ul>
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" | reverse %}
   {% for post in recent_posts limit: 10 %}
