@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: note
 title: Atlas Financial
 id: atlas
 permalink: /projects/atlas

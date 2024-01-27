@@ -140,14 +140,13 @@ a {
     color: black !important;
     background: #ebfffa;
   }
-  &:after {
+  &.ext:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
     color: #aaaaaa;
   }
-  &.internal-link:after,
   &.footnote:after,
   &.reversefootnote:after {
     content: "";

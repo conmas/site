@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+	<h1>{{ page.title }}</h1>
+	<time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+	  Published {{ page.date | date: "%B %-d, %Y" }}
+	</time>
+  </div>
+
+  <div id="notes-entry-container">
+	<content>
+	  {{ content }}
+	</content>
+  </div>
+</article>
+
+<hr>
