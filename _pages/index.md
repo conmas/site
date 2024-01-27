@@ -19,7 +19,7 @@ I’m in the process of migrating old blog posts, articles, and ebooks from Medi
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" | reverse %}
   {% for post in recent_posts limit: 10 %}
     <li>
-      {{ post.date | date: "%Y-%M" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+      <time>{{ post.date | date: "%Y" }}</time> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
     </li>
   {% endfor %}
 </ul>
