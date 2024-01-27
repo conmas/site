@@ -9,6 +9,10 @@ status: #republish
 
 ![](https://wp.punchkick.com/wp-content/uploads/2015/08/apple-music-multiple-devices.png)
 
+# Apple Music’s design is broken—here’s how Apple is fixing it
+
+> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).
+
 Apple’s new streaming service launched to massive hype this summer, bringing a [new Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against [growing streaming companies like Spotify](https://www.punchkick.com/blog/2013/12/13/top-music-services-for-streaming-radio-discovery-and-on-demand), and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
 But the service and its apps—the refreshed Music app on iOS and iTunes on desktop–have garnered negative attention for their confusing layouts and bloated feature sets. In the weeks since its June 30 debut, Apple has already begun tweaking how Apple Music works to address some of the major issues, with iOS 9 beta builds and iTunes 12.2.2 already introducing some adjustments. 

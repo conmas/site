@@ -9,6 +9,8 @@ status: #republish
 
 ![](https://wp.punchkick.com/wp-content/uploads/2016/07/ios10accessibility2.png)
 
+# Apple’s new design style in iOS 10 is a statement on accessibility
+
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility).
 
 When iOS 7 was first previewed to the public at WWDC 2013, it seemed Apple was obsessed with extending its devices’ thinness to its software. Fonts were ultralight, barely legible against semitransparent backgrounds, neon color themes, and bright-white toolbars. Even for an eagle-eyed user, the text and animations made certain apps and screens difficult to read—but for users with accessibility needs, critics argued that it was nearly impossible.
