@@ -11,15 +11,15 @@ I’m a product leader in Chicago with a background in design and mobile. Today,
 
 More <a href="/about">about me</a>. See what I’m up to <a href="/now">now</a>.
 
-## Legacy blog posts
+## Legacy writing
 
-I’m in the process of migrating old blog posts from Medium and other sites into this new home. Check out some of the ones from 2014–2017 that have been carried over so far. (Some links and assets aren’t working yet, but I’m in the process of restoring them.)
+I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. Some links and assets aren’t working yet, but I’m in the process of restoring them.
 
 <ul>
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" | reverse %}
   {% for post in recent_posts limit: 10 %}
     <li>
-      {{ post.date | date: "%Y" }} • <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+      {{ post.date | date: "%Y-%M" }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
     </li>
   {% endfor %}
 </ul>

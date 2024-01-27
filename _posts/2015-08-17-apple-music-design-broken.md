@@ -9,26 +9,27 @@ date: 2015-08-17
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).
 
-Apple’s new streaming service launched to massive hype this summer, bringing a [new Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against [growing streaming companies like Spotify](https://www.punchkick.com/blog/2013/12/13/top-music-services-for-streaming-radio-discovery-and-on-demand), and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
+Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
 But the service and its apps—the refreshed Music app on iOS and iTunes on desktop–have garnered negative attention for their confusing layouts and bloated feature sets. In the weeks since its June 30 debut, Apple has already begun tweaking how Apple Music works to address some of the major issues, with iOS 9 beta builds and iTunes 12.2.2 already introducing some adjustments. 
 
 Apple Music’s successes and failures in user-experience design represent one of the industry’s smartest companies experimenting and pivoting in the market, and their swift changes in direction demonstrate some of the Cupertino giant’s design thinking. Here are some of the biggest lessons we noticed from Apple Music’s early evolutions.
 
-### On-boarding is critical.
-When users first open the Music app after [updating to iOS 8.4](https://www.punchkick.com/blog/2015/04/17/apple-watch-orders-ios-8-4-music-app-android-wear-more-the-friday-5), they are immediately presented with an all-new design featuring five tabs: For You, New, Radio, Connect, and My Music. The functionality from iOS 8.3 and before, the features that users have become accustomed to, have been collapsed into the My Music tab and now hide behind a singular drop-down view control. The other  tabs present newcomers with a sign-up form for a free three-month trial of Apple Music.
+### Onboarding is critical.
+
+When users first open the Music app after updating to iOS 8.4, they are immediately presented with an all-new design featuring five tabs: For You, New, Radio, Connect, and My Music. The functionality from iOS 8.3 and before, the features that users have become accustomed to, have been collapsed into the My Music tab and now hide behind a singular drop-down view control. The other tabs present newcomers with a sign-up form for a free three-month trial of Apple Music.
 
 ![](/assets/apple-music-onboarding.png)
 
-One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its on-boarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
+One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its onboarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
 
 ![](https://vimeo.com/132839044)
 
-These selections inform all the customized content and recommendations that follow, but represent the strongest and, frankly, only component of Apple Music’s on-boarding process. Users are dumped into an interface that does little to explain itself beyond a notification that appears if they select the heart button on a track, album, or playlist. 
+These selections inform all the customized content and recommendations that follow, but represent the strongest and, frankly, only component of Apple Music’s onboarding process. Users are dumped into an interface that does little to explain itself beyond a notification that appears if they select the heart button on a track, album, or playlist. 
 
 > I’m trapped in Apple Music and no one will help me.
 
-Apple’s approach for familiarizing users with the app and its interface depends on users’ willingness to try poking buttons they don’t understand, and leaves some of Apple Music’s most helpful features buried within obscure menus and deep within complex user paths. For reasons that will become apparent, this reliance on users’ self-determination can only breed more confusion, and more comprehensive on-boarding screens or coach marks could help alleviate this concern.
+Apple’s approach for familiarizing users with the app and its interface depends on users’ willingness to try poking buttons they don’t understand, and leaves some of Apple Music’s most helpful features buried within obscure menus and deep within complex user paths. For reasons that will become apparent, this reliance on users’ self-determination can only breed more confusion, and more comprehensive onboarding screens or coach marks could help alleviate this concern.
 
 ### Breadcrumbs matter.
 Organizing every song ever recorded is a tough problem, so it should come as no surprise that one of the toughest parts to understand about Apple Music is its navigational structure. Apple’s reliance on a tab navigation for Apple Music, versus a hamburger menu that might be able to contain more options, has made for a confusing interface due to oversimplified and mysteriously named sections.
