@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Material Design wipes the slate clean"
+title: "Material Design wipes the slate clean"
 author: Connor Mason
 date: 2014-11-11
 ---
