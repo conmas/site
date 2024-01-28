@@ -16,7 +16,7 @@ Apple course-corrected some of these design decisions even before iOS 7’s rele
 With iOS 10, Apple is taking this refinement several massive steps further, undoing many of the user experience missteps that have plagued the operating system for years. Buttons look like buttons. Fonts and labels are easy to read—and hard to miss. Apple has brought the iOS 7 aesthetic into 2016 in a big way, and has deployed the new style across some of its flagship products and services first. But fonts and buttons seem like little tweaks, not a measured strategic direction. Why do they matter?
 
 ![Three iPhones showing screenshots of iOS 7.](/assets/ios-7-design.png)
-*The software design aesthetic introduced with iOS 7 emphasized minimalism, clean lines, light typography, and bold colors—much like Apple’s hardware design always has.*
+<span class="caption">The software design aesthetic introduced with iOS 7 emphasized minimalism, clean lines, light typography, and bold colors—much like Apple’s hardware design always has.</span>
 
 ## A better button to button
 
