@@ -21,7 +21,7 @@ The company’s online Google Store has never been more packed with products and
 Google’s Nexus handsets have long been the company’s outlet to showcase cutting-edge Android software features and capabilities, and this year’s offerings are no exception. The new Nexus 5X and Nexus 6P spearhead all-new hardware features like Android Sensor Hub—an all-in-one destination for sensor data from across the system, somewhat akin to [Apple’s M9 motion co-processor](https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters) in iPhones—and significantly improved camera systems. But outside of specs, the Nexus phones are the lynchpin of Google’s product strategy to attract quality-conscious smartphone buyers to the platform.
 
 ![Photograph of a white Google Nexus 5X device resting on a table, flanked by plants.](/assets/google-nexus-5x.jpeg)
-<span class="caption">The gorgeous new Nexus 5X. (Image: [Google Store](https://store.google.com/))</span>
+<div class="caption">The gorgeous new Nexus 5X. (Image: [Google Store](https://store.google.com/))</div>
 
 The inception of the Nexus family was the product of a frustrating industry environment for Android fans—the first, Nexus One, was a rallying cry to contemporary Android smartphone OEMs to focus on making high-quality, high-capability devices. But beyond the call for craft was a declaration of independence from carriers, as Google sought to sell its device direct to consumers, circumventing service contracts and bloatware that have become common headaches at some of the largest carriers. But while the fight it picked with carriers in 2009 ultimately became more trouble than it was worth, a new initiative unique to the Nexus family could provide the disruption that Google was aiming for in the first place.
 
@@ -43,7 +43,7 @@ Google’s [consistent focus on Chromecast](https://www.punchkick.com/blog/2013/
 This week’s enhancements come mostly in the form of software updates, enabling new proactive downloading of certain video content and dual-screen video games on Android. But Chromecast’s app integrations—with partners like Hulu, Showtime, Netflix, and now Spotify—help users to discover the Google Cast platform and begin to imagine themselves using it. And why wouldn’t they? At $35, Chromecast is neatly half the price of the low-end Apple TV, and while AirPlay is better integrated across iOS, Google Cast has saddled itself to many of the core apps users will want to show on their TVs most often.
 
 ![Image of Chromecast devices in three colors, yellow, black, and red.](/assets/chromecast-colors.png)
-<span class="caption">Chromecast in Lemonade, Black, and Coral. (Image: [Google Store](https://store.google.com/product/chromecast_2015))</span>
+<div class="caption">Chromecast in Lemonade, Black, and Coral. (Image: [Google Store](https://store.google.com/product/chromecast_2015))</div>
 
 For Apple, the future of TV is apps. While its AirPlay casting feature is a great way to share content from iPhone to the largest screen in the home, Apple is betting on rich native app experiences to populate [tvOS on the new Apple TV](https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night). For Google, the future of TV is both apps and casting. Android TV is a content-first OS for TVs, and Chromecast fills out the tiny price umbrella left by the $99 Nexus Player. It seems that Google is eager to release hardware for any use case and see what sticks.
 
@@ -56,13 +56,13 @@ The sheer scale of Google’s myriad product offerings is staggering, especially
 In fact, Google’s wireless offerings are now directly competitive with some of Apple’s lesser-known peripherals. Following the [addition of audio support to Google’s Cast](https://www.punchkick.com/blog/2015/01/05/streaming-apps-take-note-google-cast-now-supports-audio) platform, the new Chromecast Audio is similar to the age-old AirPort Express, both of which enable users to retrofit their speaker systems to live in the audio streaming world. It’s a subtle difference in the positioning of each product, but consumer interest in updating their audio equipment for a wireless era seems as relevant now as it did [in 2004](http://www.apple.com/pr/library/2004/06/07Apple-Unveils-AirPort-Express-for-Mac-PC-Users.html).
 
 ![An image of Android and Chromecast streaming devices, remotes, and game controllers arranged in a grid.](/assets/android-streaming-devices.png)
-<span class="caption">Google dives deep into the stream of TV and audio with Chromecast, Chromecast Audio, Nexus Player, and NVIDIA Shield.</span>
+<div class="caption">Google dives deep into the stream of TV and audio with Chromecast, Chromecast Audio, Nexus Player, and NVIDIA Shield.</div>
 
 ### Smaller than the eye can C
 Pixel has been the codename for Google’s line of premium and high-powered Chrome OS notebooks, and Tuesday’s event expanded the Pixel family to include a new transformable tablet-and-keyboard product called the Pixel C.[^7] Pixel C is a powerful Android tablet designed to snap into a magnetic keyboard accessory, much like the Microsoft Surface or Surface Pro, an inspiration shared by Apple’s new iPad Pro. Pixel C is expensive for an Android tablet at $499, but showcases Google’s intention for Android to power premium workplace computer solutions alongside Chrome OS, which has come to dominate the education space.
 
 ![Photograph of three people collaborating in a workplace environment with a Chromebook Pixel laptop in front of them.](/assets/chromebook-pixel-google.png)
-<span class="caption">Image: [Google Store](https://store.google.com/magazine/chromebook_pixel_2015_magazine)</span>
+<div class="caption">Image: [Google Store](https://store.google.com/magazine/chromebook_pixel_2015_magazine)</div>
 
 What is Google’s play with the Pixel C? Certainly it can’t just be ticking off one more product category it had previously ignored. The Nexus 9 remains a strong Android tablet offering, although this year’s lack of a hardware update will make the performance difference an issue. Why introduce an entirely new product, with complex magnetic interaction modes and an aspect ratio modeled after A4 paper? Why not just update the Nexus 9 for USB-C and be done with it?[^8]
 

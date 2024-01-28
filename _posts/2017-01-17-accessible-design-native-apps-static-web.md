@@ -26,7 +26,7 @@ Product designers can’t claim to fully embrace user-centric design unless they
 There are many paradigms and best practices for how mobile and web experiences to offer fluid into navigation. On mobile devices, standards put forth by Apple and Google help ensure that navigation is consistent between apps and predictable for new experiences. In many cases, simply complying with Apple's Human Interface Guidelines or Google's Material Design best practices can ensure an accessible experience of the box. However, there are some common themes that can help any kind of application or user experience prevent alienating the users who depend upon them.
 
 ![Switch Control allows iOS users to navigate apps and the whole operating system through a Bluetooth-connected switch.](https://www.punchkick.com/wp-content/uploads/2017/01/switch-control-ios-image.002.jpeg)
-<span class="caption">Source: [Apple](https://support.apple.com/en-us/HT201370)</span>
+<div class="caption">Source: [Apple](https://support.apple.com/en-us/HT201370)</div>
 
 For navigation, it's essential that the app's many feature areas are as accessible as possible. In most cases, this needs making them visible the moment the user opens the app, potentially in a tab bar at the bottom of the screen. Google's Material Design best practices even recently adopted the bottom tab bar as a recommended navigation option, shifting away from its previous stance of hamburger menus.
 

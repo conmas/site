@@ -56,7 +56,7 @@ One area of unnecessary complexity that Apple is actively correcting are context
 In iOS 8.4, this menu with its myriad of options essentially took over the screen. In early betas of iOS 9, with the new spacing and typography added to contextual menus, the menu was too large for the screen. Apple quickly course-corrected and offered a condensed and simplified range of options in [more recent versions of the iOS 9 beta](https://www.punchkick.com/videos/2015/07/10/iphone-6s-orders-ios-9-beta-showtime-more-the-friday-five), demonstrating an awareness of problem areas and a willingness to find a creative solution.
 
 ![](/assets/apple-music-context-menu-ios-9-10.jpg)
-<span class="caption">Before and after of menus in Apple Music on iOS 9 beta releases.</span>
+<div class="caption">Before and after of menus in Apple Music on iOS 9 beta releases.</div>
 
 Rather than traditional context menus that present a list of text-based options, the new Apple Music menu includes a fully custom area for actions with additional options. A new section at the top of the menu features album artwork and simple icons for “love” (the service’s on-off mechanic to inform recommendations), radio options, and sharing options. The remaining text-based items never overtake the screen, and vary based on the individual list the item appears within. 
 
@@ -70,7 +70,7 @@ It goes without saying that Apple Music isn’t Apple’s first music product. T
 The Apple Music library is not a one-to-one match for the iTunes Store library, due to various licensing and contractual complications. While some users might only worry about not being able to stream The Beatles as part of their Apple Music subscription, the deeper issue is how to surface users’ purchased items while maintaining the context of the My Music library within the broader Apple Music and iTunes libraries.
 
 ![](/assets/apple-music-ipad-beats-one.png)
-<span class="caption">Apple Music’s target persona permanently has paint-spattered hands.</span>
+<div class="caption">Apple Music’s target persona permanently has paint-spattered hands.</div>
 
 Users maintain a library of content sourced from both Apple Music—which can be added to the My Music tab from anywhere—and from historical iTunes purchases. (In addition, subscribers to Apple’s iTunes Match service have a library of files uploaded to iCloud from their personal iTunes libraries, which may or may not match up to content included in either the Apple Music or iTunes libraries. But while iTunes Match and Apple Music will coexist for the foreseeable future, these complications are another problem altogether.) This content coexists within the singular My Music tab in the iOS app as part of what Apple calls each user’s iCloud Music Library, and can equally be used to create playlists or radio stations. 
 

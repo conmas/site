@@ -16,7 +16,7 @@ Apple’s announcement at WWDC 2018 that four new apps—News, Voice Memos, Home
 Developers investigated macOS 10.14 Mojave and learned a great deal about how these apps worked, and what it indicated for the future. Evidence suggested that this internal project was codenamed Marzipan, and some of the system files that OS sleuths uncovered confirmed it. There were, and are, a ton of hiccups with the UIKit apps as they stand today—suffice it to say they're decidedly not Mac-like in many respects. But with Microsoft and Google both making it easier to develop cross-platform apps, or run mobile apps in a desktop context, Apple needed to do something to make its Mac App Store and macOS ecosystem feel as much of a first-class citizen as iOS.
 
 ![Portrait of Apple software executive Craig Federighi.](/assets/craig-federighi-hair-force-one.webp)
-<span class="caption">Hair Force One himself, Craig Federighi. Be still my beating heart. Photo credit Fast Company.</span>
+<div class="caption">Hair Force One himself, Craig Federighi. Be still my beating heart. Photo credit Fast Company.</div>
 
 From a strategic standpoint, this makes a world of sense for today's Apple. Rather than spreading its developer resources thin by creating both an AppKit version and a UIKit version of any of its new ideas, they'd be able to leverage the same code across both platforms with greatly reduced effort. One app for Apple News and its new magazine subscription service. One app for Apple TV+ when it launches. Presumably one app for each new game published under the Apple Arcade program and created by third-party developers, meaning their content can be enjoyed across iOS, macOS, and tvOS from day one. This isn't just a developer curiosity, it's good business.
 
@@ -27,7 +27,7 @@ But this approach also leaves a ton of questions. What happens to established Ap
 This month, iOS developer celebrities [Steve Troughton-Smith](https://twitter.com/stroughtonsmith/status/1114261872029700098) and [Guilherme Rambo](https://9to5mac.com/2019/04/10/macos-10-15-itunes-standalone-apps/) uncovered evidence that Apple intended to replace iTunes with a suite of new Catalyst apps for Podcasts, Music, and TV in this fall's release of macOS 10.15. According to the pair, Apple Books for macOS would also be replaced by a Catalyst port of its iOS app, which was redesigned in version 11.3. This is the long-heralded break-up of iTunes, which Mac enthusiasts have been clamoring about for more than a decade. But at what cost?
 
 ![Screenshot of the iTunes app, showing an array of tiles promoting its replacement, Apple Music.](/assets/itunes-apple-music.webp)
-<span class="caption">With all these Apple Music banners and promotions, it seems like even iTunes is wondering why in the hell you're using iTunes.</span>
+<div class="caption">With all these Apple Music banners and promotions, it seems like even iTunes is wondering why in the hell you're using iTunes.</div>
 
 iTunes on the Mac facilitates a ton of legacy functionality and power-user features that can't be squared with the current versions of Music, TV, and Podcasts for iOS. Macworld shared a [helpful overview](https://www.macworld.com/article/3388936/the-itunes-break-up-what-will-happen-to-our-favorite-features.html) of what features might be left behind in the trade, including iOS and iPod device management, Smart Playlists, music file metadata management, and Genius among them. Many of these features likely aren't important to Apple's strategy looking ahead, and there might be a transition period where iTunes remains available to alleviate the functional gap, but this got me thinking.
 
@@ -48,12 +48,12 @@ This is an obvious one, and not only because it's reportedly already slated for 
 As Macworld pointed out, there are a plethora of more advanced features that make use of the macOS file system to allow power users to manage their music library. The iTunes media folder isn't a monolithic database that presents to users as a single file like Photos, Photo Booth, or iMovie—it's a full directory of all their artists, albums, and songs, beckoning them to drag in their high-fidelity files from other sources. Users can manage track and album metadata to add dates, composers, genres, and more, and they can organize tracks within a multi-disc album, add album art, or even manually add lyrics.
 
 ![Screenshot of a smart playlist configuration screen, showing a range of advanced options and filters.](/assets/itunes-smart-playlist.webp)
-<span class="caption">You can create a Smart Playlist with "Movement Name" as one of the filtering criteria. You know, for all of those classical music playlists you love featuring movements that share a name and a common BPM.</span>
+<div class="caption">You can create a Smart Playlist with "Movement Name" as one of the filtering criteria. You know, for all of those classical music playlists you love featuring movements that share a name and a common BPM.</div>
 
 Further, users can shop for music on the iTunes Store, something that is still relegated to an awkward purple app on iOS. Given that purchasing and downloading TV shows and movies are blessedly covered by the new Apple TV app, I suspect this is a gap that will be short-lived, and likely glossed over by iOS 13 this summer. But there are also media formats native to iTunes that aren't yet supported by the Apple Music app, like iTunes LP. (Hopefully, iTunes Extras will be fully supported by the Catalyst TV app.) iTunes also has a bunch of other often-overlooked features from its days as the flagship Apple software product, like internet radio and Home Sharing—not to mention the ability to manage content and operating system updates for every iPod, iPhone, iPad, and Apple TV ever built. It's a [Cronenberg monster](https://rickandmorty.fandom.com/wiki/Cronenbergs?file=S1e6_cronenberg_russia.png) of every one of Apple's Next Big Things™ since 2003.
 
 ![Screenshot of the iTunes track metadata editor with lots of fields and options. The track is “In the Flowers” by Animal Collective.](/assets/itunes-track-metadata-editor.webp)
-<span class="caption">Someone from the future who has only ever known the world of Spotify and Apple Music would think this info panel is insane. Why would you need to modify the track's metadata? Hasn't the platform provider already handled that for you? Why would you even need to think about the fact that the song you're listening to is a file in a computer at all?</span>
+<div class="caption">Someone from the future who has only ever known the world of Spotify and Apple Music would think this info panel is insane. Why would you need to modify the track's metadata? Hasn't the platform provider already handled that for you? Why would you even need to think about the fact that the song you're listening to is a file in a computer at all?</div>
 
 > Where does all this stuff go if Apple Music is ported as a Catalyst app?
 
@@ -68,7 +68,7 @@ I'll come right out and say it, Apple Mail is both my favorite and least favorit
 But this isn't about Mail versus other clients, it's about Mail for Mac versus Mail for iOS. They're pretty similar in terms of design, and for the most part check all the boxes your average email user might demand. But they're from two completely different decades, and it shows.
 
 ![Screenshot of the Apple Mail preferences screen, showing different layout, fonts, and color options.](/assets/apple-mail-font-settings.webp)
-<span class="caption">The option to change the message list font may seem like a vestigial organ here, but that's because I have the modern three-column layout applied to Mail. The "Classic Layout" from Mac OS X 10.0 Cheetah, when it was still called MailViewer.</span>
+<div class="caption">The option to change the message list font may seem like a vestigial organ here, but that's because I have the modern three-column layout applied to Mail. The "Classic Layout" from Mac OS X 10.0 Cheetah, when it was still called MailViewer.</div>
 
 Mail for macOS was designed for email as it was in 2002—if not from a technical perspective, then certainly from a user experience perspective. All of your messages are downloaded to your file system, and, in the event you don't want to synchronize your messages or folders to the server, you can even make use of “On My Mac” folders within Mail like some kind of monster.
 
@@ -81,7 +81,7 @@ Unless the Catalyst version of Mail can support this ecosystem of plug-ins, I si
 Contacts is different in that its core functionality is already pretty well matched across both platforms. You can create and manage contacts, add fields and photos, or share a contact whether you're on a Mac, iPad, or iPhone. It's not going to change the world, but it's a pretty nifty app.
 
 ![Screenshot of the Contacts app preferences window on macOS, showing advanced vCard template options.](/assets/apple-contacts-template.webp)
-<span class="caption">You can modify default fields to appear on a new contact record, which is handy, I guess. You can also select the vCard Format you're using on the next tab (3.0 or 2.1), something I suspect people asked each other all the time back when this app was called Address Book.</span>
+<div class="caption">You can modify default fields to appear on a new contact record, which is handy, I guess. You can also select the vCard Format you're using on the next tab (3.0 or 2.1), something I suspect people asked each other all the time back when this app was called Address Book.</div>
 
 There are a few Mac-specific features, however, that have never made their way to iOS since this app first debuted on iPhone OS 1.0. These include looking for and resolving duplicates, creating, managing, and deleting contact groups, and modifying the vCard template that Contacts uses for new records. You can also opt not to share specific items from your own vCard when sharing it, which isn't possible on iOS. These things are differences, but they're not insurmountable, and I really think Contacts might be a likely candidate for UIKit.
 
@@ -92,12 +92,12 @@ Frankly, while Contacts might seem like low-hanging fruit for a Catalyst replace
 Like Contacts, this is an area where the two apps are incredibly close, with only a handful of power-user features dividing them. Both apps allow you to create, manage, and delete calendars and events. The more advanced stuff comes in when you begin to consider the various third-party services that Calendar needs to contend with, and where Apple has prioritized delivering the pro-adjacent features that many people rely on.
 
 ![Screenshot of the Apple Calendar app pane for scheduling a meeting, visualizing attendees’ availability. Three names are visible, Connor Mason, Billy Collins, and Daniel Wolf.](/assets/apple-calendar-scheduling.webp)
-<span class="caption">This feature is great. On iOS, it's really, really not great. (Hi [Billy Collins](https://www.wipfli.com/about-wipfli/partners-and-associates/billy-collins) and [Daniel Wolf](https://www.wolfco.us/about).)<span class="caption">
+<div class="caption">This feature is great. On iOS, it's really, really not great. (Hi [Billy Collins](https://www.wipfli.com/about-wipfli/partners-and-associates/billy-collins) and [Daniel Wolf](https://www.wolfco.us/about).)<div class="caption">
 
 One great example of this disparity is calendar delegation, a feature which allows you to view other users' calendars within the same interface, and use this information when scheduling meetings with team members within your organization. Outlook and Google Calendars make this a core feature, and it's incredibly useful on the macOS version of Calendar. Without it, on iOS, scheduling a meeting can become a maddening experience, trying to guess what times of day might work for your colleagues' schedules and checking to see if they're free. It's bad enough that I'll frequently put down my iPad or iPhone and decide that I'll schedule the meeting later, if I even need to at all.
 
 ![Screenshot of the preferences window for the Calendar app on macOS, showing delegation and calendar-sharing options for work accounts.](/assets/apple-calendar-delegation.webp)
-<span class="caption">Calendar Delegation in Calendar for macOS. I'm going to be honest, I don't know if I'm enough of a pro to actually use everything that calendar services have to offer.</span>
+<div class="caption">Calendar Delegation in Calendar for macOS. I'm going to be honest, I don't know if I'm enough of a pro to actually use everything that calendar services have to offer.</div>
 
 Adding this level of support to the iOS version of Calendar would be a win for business users, an audience that Apple is always interested in courting to adopt iOS in the enterprise. More advanced calendar features like these are already common on third-party calendar apps, including Outlook and Google Calendar themselves, so perhaps it's not an imperative for Apple to address the gap. Maybe like Contacts, this is another example where doing nothing isn't all that bad. But it *would* make me sublimely happy.
 
@@ -106,7 +106,7 @@ Adding this level of support to the iOS version of Calendar would be a win for b
 Aside from iTunes, this might be the app most likely to benefit from a Catalyst transition. Having once been relegated to living in a corner of the Mail app, its fonts and torn paper serving as more of a showcase for the Apple of that era's penchant for skeuomorphic nonsense than a useful feature, Notes evolved over time and was ultimately reborn as a powerful Evernote replacement in iOS 9 and OS X El Capitan.
 
 ![Screenshot of the Apple Notes preferences window, which has very limited options and differs in design from other stock Mac apps.](/assets/apple-notes-preferences.webp)
-<span class="caption">The spartan Preferences pane for Notes might lead one to conclude that this is a Catalyst app already.</span>
+<div class="caption">The spartan Preferences pane for Notes might lead one to conclude that this is a Catalyst app already.</div>
 
 With the importance of iPad's Apple Pencil features, Notes has seen a lot of attention and iteration over the last few years, and these additions have (for the most part) been brought to both macOS and iOS incarnations of the app. Checklists, links, attachments, photos, password-protected notes, and tables are all available across platforms, and collaboration features in iCloud have made this a go-to note sharing service for many.
 
@@ -125,7 +125,7 @@ Full disclosure, I love Safari. It's fast, capable, and doesn't spy on me. But u
 Aside from the state of the web on iOS, Safari for each platform is pretty similar. Both have Reader Mode, Reading List, Private Browsing, iCloud Tabs, iCloud Keychain, Apple Pay, and great new privacy features like Intelligent Tracking Prevention. Check, check, check.
 
 ![Screenshot of Responsive Design Mode in Safari for Mac, with an iPhone breakpoint view of this article in the center.](/assets/safari-responsive-design-mode.webp)
-<span class="caption">I’d love to see how Responsive Design Mode works on an iPhone SE. By which I mean, I am a crazy person who wants to watch the world burn.</span>
+<div class="caption">I’d love to see how Responsive Design Mode works on an iPhone SE. By which I mean, I am a crazy person who wants to watch the world burn.</div>
 
 The main differences they do have point to the different use cases that exist for Macs and iOS devices, the differences between the proverbial cars and trucks. Safari for Mac is a download manager, whereas Safari for iOS doesn't handle more than one file download at a time. Safari for Mac has Web Inspector, and a whole suite of web developer features that I'm not qualified to quantify. There's simply no comparison.
 
@@ -136,7 +136,7 @@ Safari Extensions are an entire ecosystem unto themselves, and there's no way we
 One exception to this rule are Progressive Web Apps, which Safari for iOS is slowly beginning to take more seriously. Since iPhone OS 1.1 in January 2008, users could add Web Clips to their iPhone's home screen, a stopgap to satisfy developer interest until the nascent native SDK that would come later that year. After some time, websites could load up a slightly customized UI, abandoning the Safari chrome and adopting a more app-like experience. (I've heard a lot of people credit Apple with inventing Progressive Web Apps because of this, which is patently absurd.) More recently, support for Service Workers has meant that these PWAs can have more offline capabilities, and feel more like native apps overall. They're kind of neat.
 
 ![Screenshot of Chrome OS running the Spotify progressive web app.](/assets/chromeos-progressive-web-app.webp)
-<span class="caption">Here's Chrome OS running a few Progressive Web Apps, including ones from Spotify, Starbucks, and Twitter. I suspect this is what [John Gruber](https://www.daringfireball.com/) sees in his nightmares. Photo credit [Engadget](https://www.engadget.com/2018/06/08/chrome-os-progressive-web-apps/).</span>
+<div class="caption">Here's Chrome OS running a few Progressive Web Apps, including ones from Spotify, Starbucks, and Twitter. I suspect this is what [John Gruber](https://www.daringfireball.com/) sees in his nightmares. Photo credit [Engadget](https://www.engadget.com/2018/06/08/chrome-os-progressive-web-apps/).</div>
 
 For many companies who want to explore other technology stacks, progressive web apps have become the name of the game, and developers like Twitter, [Starbucks](https://app.starbucks.com/), and the [Financial Times](https://app.ft.com/index_page/home) have rethought their web experiences around PWAs. On other platforms like Windows and Chrome OS, users can install these progressive web apps as real apps, and they launch in their own windows with their own colorful app chrome. No part of me ever expects Apple to adopt this for macOS—something like an “Add to Launchpad” button, for instance—but I mention them because this functionality exists in some form on iOS, and I sort of which they would consider it on the Mac.
 
@@ -145,7 +145,7 @@ The idea of a Catalyst version of Safari for macOS isn't something I can imagine
 ## Maps
 
 ![Screenshot of Apple Maps for Mac, zoomed into downtown Chicago. A small pane for weather conditions and air quality is shown at the top right.](/assets/apple-maps-chicago.webp)
-<span class="caption">Did you know that you can enable Weather Conditions and AQI data to appear at the top right? Neither did I! Seems like they're disabled by default, but the options are in the View menu, check it out. And yes, it's snowing in April in Chicago.</span>
+<div class="caption">Did you know that you can enable Weather Conditions and AQI data to appear at the top right? Neither did I! Seems like they're disabled by default, but the options are in the View menu, check it out. And yes, it's snowing in April in Chicago.</div>
 
 This one really seems like low-hanging fruit-it already looks and acts like a Catalyst app, and there's virtually no Mac-exclusive functionality that would be left behind in the exchange. Despite the fact that the Maps app was rumored to be built using the “UXKit” shim that Apple used to build Photos for Mac a few years ago, the iOS app is more up-to-date, more feature-rich, and better designed already, so adapting it for UIKit on the Mac would be great.
 
@@ -156,12 +156,12 @@ Part of me wonders why Apple doesn't just build a Maps web app using [MapKit JS]
 Photos for Mac has always been kind of an odd duck, in my opinion. Introduced in months after OS X Yosemite's initial release with the 10.10.3 update and intended to replace both iPhoto and Aperture, it always seemed like a concession versus an app that Apple was really excited about. Fine, we made a new photos app for you Mac people. You can shut up about iPhoto now. No, we don't know anyone named iLife.
 
 ![Screenshot of photo editing features in Apple Photos for Mac, editing a photo of a Japanese temple.](/assets/apple-photos-editor.webp)
-<span class="caption">If Apple could bring all of this to Photos for iOS, it'd be revolutionary for my Instagram followers. Plus, I wouldn't have to use my Mac just to retouch my selfies anymore.</span>
+<div class="caption">If Apple could bring all of this to Photos for iOS, it'd be revolutionary for my Instagram followers. Plus, I wouldn't have to use my Mac just to retouch my selfies anymore.</div>
 
 Combine this with the reports that Photos isn't based solely on AppKit, but rather makes use of a new framework called UXKit that allows Apple to reuse large portions of its iOS codebase for the Mac version, and it begins to look like more of an experiment in cross-platform development technologies than an intentional direction for the product. I'm certainly not the only one who draws connections between what Apple was doing with UXKit in 2014 and what they're doing with Catalyst today.
 
 ![Screenshot of Apple Photos, showing features to adjust date, time, and location metadata for a photo.](/assets/apple-photos-location-date-time-metadata.webp)
-<span class="caption">This feature alone is the main reason I ever have to launch Photos for Mac. Not to be that guy, but if you ever use your iPhone for photos on an international trip, it can get very confused about time zones, and it's a headache to get your photos in the right order.</span>
+<div class="caption">This feature alone is the main reason I ever have to launch Photos for Mac. Not to be that guy, but if you ever use your iPhone for photos on an international trip, it can get very confused about time zones, and it's a headache to get your photos in the right order.</div>
 
 All of that said, Photos for Mac is decidedly more capable and powerful than its iOS forebear. The app inherited all of the comprehensive photo editing and retouching features built into iPhoto, and a handful of the features included with Aperture. Unlike Photos for iOS, you can adjust photo metadata like location, date, and time in Photos for Mac, which would require a third-party app (typically of suspicious quality and revenue model) to achieve the same thing on iOS.
 
@@ -174,7 +174,7 @@ Normally I would have suggested that this would be among the next apps to receiv
 ## Messages
 
 ![Screenshot of Messages for Mac, with blank spaces for content from the Activity app that it can’t handle.](/assets/messages-mac-workouts.webp)
-<span class="caption">Messages for Mac has absolutely no idea what to do with Activity messages that you can send from Apple Watch. This is particularly frustrating for me, because I like to send my friends the meanest suggestions in the list whenever I can.</span>
+<div class="caption">Messages for Mac has absolutely no idea what to do with Activity messages that you can send from Apple Watch. This is particularly frustrating for me, because I like to send my friends the meanest suggestions in the list whenever I can.</div>
 
 Ooh, boy. This one needs something new. Messages is a fantastic app, don't get me wrong, but the functional gap between Messages on an iPad and Messages on a Mac is wide enough for iTunes to fit into it. Core features of iOS 10 and 11 like iMessage effects, iMessage apps, and Apple Pay Cash have never made their way to Messages for Mac, and look awkward when they appear within the conversation thread. It's a disjointed experience, and it's surprising considering Messages is the number one most used app on iOS.
 
@@ -205,7 +205,7 @@ No, probably not. But something like that wouldn't completely shock me. Maybe th
 Or is it Settings? This is an interesting one, because the differences between Settings and System Preferences represent two different approaches to the two platforms. On iOS, most app settings were traditionally expected to exist within the centralized Settings app, and all app permissions, like notifications and access to location, are managed there after being granted or denied. On macOS, each app has its own Preferences pane, where accounts can be configured, interface options adjusted, and more. This idea is anathema to iOS, and also wouldn't particularly translate to the context, given that iOS apps take up the full screen and typically have fewer preference options.
 
 ![Screenshot of the System Preferences app as it was on older versions of macOS.](/assets/system-preferences.webp)
-<span class="caption">If all they did was rename this app to Settings, I'd say that's significant enough to warrant an Apple Newsroom push notification.</span>
+<div class="caption">If all they did was rename this app to Settings, I'd say that's significant enough to warrant an Apple Newsroom push notification.</div>
 
 I would love to see some of the properties of the iOS Settings app come to System Preferences, however. For one thing, Settings is much more logically organized for the way people use computing devices today—we don't think about things in terms of Internet Accounts or Network settings or Sharing settings. These could be nicely reorganized, using an interface and terms familiar to iOS users, and I don't think too many Mac users would complain.
 

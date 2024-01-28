@@ -33,8 +33,12 @@ time {
 
 .caption {
   color: $color-subtext;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
+  line-height: 1.25;
   text-align: center;
+  text-align: -moz-center;
+  text-align: -webkit-center;
+  max-width: 30em;
 }
 
 footer {
