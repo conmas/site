@@ -68,12 +68,10 @@ Just as the explosion of mobile upended the industry in the 2010s, trends are co
 
 As these trends continue to accelerate, and as new players like Facebook and Uber begin to make enormous strategic moves, the 2020s promise to be a more volatile and interesting time for technology than even the 2010s were.
 
+---
+
 [^1]: Among what are ostensibly five product families—iPhone, Mac, iPad, Apple Watch, and Apple TV—the company maintains four full operating systems (iOS, macOS, tvOS, and watchOS), five ARM–based chip families (not to mention Intel chips in Macs), six styles of anodized aluminum finishes (Space Gray, Black, Jet Black, Gold, Rose Gold, and Silver), and a family of 17 dongles to support its teeter-totter ambitions with Thunderbolt, Lightning, and USB-C. And we haven’t even mentioned iPod.
-
 [^2]: iPad and iPhone have the A-series chips, which have come to set the standard for mobile device performance and power efficiency. Apple took that team and introduced the M7 motion co-processor, the S1 and S2 for Apple Watch, and the W1 to power AirPods and Beats headphones. And with last week’s MacBook Pro introduction, the company introduced a Touch Bar that necessitates a new dedicated operating system based on watchOS and a brand-new ARM chipset called the T1.
-
 [^3]: One such hire was [Andrew Kim](https://allsideswater.com), a young industrial designer whose branding ideas for Microsoft itself went massively viral and ultimately helped land him a [job at the company](https://news.microsoft.com/stories/people/andrew-kim.html). Kim’s work was first seen in the redesigned Xbox One S, and he’s also part of the team bringing HoloLens to life.
-
 [^4]: Not coincidence was the fact that PixelSense was originally named “Surface,” but its legs as a $10,000+ table-sized computer system were understandably limited in the consumer space. Many of the innovations that made the original Microsoft Surface table so compelling were its interactions with real-world objects, a trend that was reinvigorated with the Surface Dial alongside the new Surface Studio desktop. For its part, he rebranded PixelSense displays live on within cable newsrooms, however, letting newscasters physically annotate election maps and data visualizations.
-
 [^5]: Alongside the Surface are Microsoft’s Lumia handsets, a line inherited from Nokia that feature enormous camera systems and serve as the flagship models for the mobile version of Windows 10. Microsoft has since evolved its Surface lineup to include a Pro variant, an innovative detachable hinge-keyboard form factor in the Surface Book, and a revolutionary sliding desktop form factor with a 28-inch drafting-table display called the Surface Studio.

@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2016-07-08
 ---
 
-![An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.](/assets/ios-10-apple-music-iphone-6s.png)
+![An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.](/assets/ios-10-apple-music-iphone-6s.jpg)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility).
 
@@ -42,7 +42,7 @@ In addition, Apple is evolving their design style across its newest apps—inclu
 
 San Francisco was a font custom-designed for Apple's purposes, starting with watchOS in 2014 and extending to all Apple's operating systems in 2015. Now, the "black" variant rears its enormous and weighty head, gracing titles and subtitles in apps like News and Music. The new font weights are a stark contrast to the slender fonts that Apple employs across all its other apps, and it marks a strong and confident new personality for the apps that use it.
 
-![An image of Apple Music running on an iPad in iOS 10, showing large header text and larger touch targets than previous designs.](/assets/apple-music-ios-10-ipad.png)
+![An image of Apple Music running on an iPad in iOS 10, showing large header text and larger touch targets than previous designs.](/assets/apple-music-ios-10-ipad.webp)
 
 Fonts are important—they imbue an interface with content and personality. But beyond that, the types of fonts that populate an interface can make the difference between something that's legible to every user and something that alienates some. Heavy fonts are easier to read, and they're certainly easier for customers with vision problems to see. But beyond that, these alterations make Apple Music and Apple News subject to users' settings with Dynamic Type, an accessibility preference that scales the interface depending on the user's vision capabilities. And this is perhaps the crux of Apple's new crusade to bulk up and button down parts of iOS 10—these changes ensure that every user can enjoy it.
 

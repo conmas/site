@@ -61,7 +61,7 @@ In fact, Google’s wireless offerings are now directly competitive with some of
 ### Smaller than the eye can C
 Pixel has been the codename for Google’s line of premium and high-powered Chrome OS notebooks, and Tuesday’s event expanded the Pixel family to include a new transformable tablet-and-keyboard product called the Pixel C.[^7] Pixel C is a powerful Android tablet designed to snap into a magnetic keyboard accessory, much like the Microsoft Surface or Surface Pro, an inspiration shared by Apple’s new iPad Pro. Pixel C is expensive for an Android tablet at $499, but showcases Google’s intention for Android to power premium workplace computer solutions alongside Chrome OS, which has come to dominate the education space.
 
-![Photograph of three people collaborating in a workplace environment with a Chromebook Pixel laptop in front of them.](/assets/chromebook-pixel-google.png)
+![Photograph of three people collaborating in a workplace environment with a Chromebook Pixel laptop in front of them.](/assets/chromebook-pixel-google.webp)
 <div class="caption">Image: [Google Store](https://store.google.com/magazine/chromebook_pixel_2015_magazine)</div>
 
 What is Google’s play with the Pixel C? Certainly it can’t just be ticking off one more product category it had previously ignored. The Nexus 9 remains a strong Android tablet offering, although this year’s lack of a hardware update will make the performance difference an issue. Why introduce an entirely new product, with complex magnetic interaction modes and an aspect ratio modeled after A4 paper? Why not just update the Nexus 9 for USB-C and be done with it?[^8]

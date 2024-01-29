@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2014-11-23
 ---
 
-![](/assets/android-lollipop.jpeg)
+![](/assets/android-lollipop.webp)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/23/android-everywhere-lollipop-makes-googles-case-for-unity).
 
@@ -15,7 +15,7 @@ Android Lollipop represents Google asserting control of its platform, and its in
 
 ## Lollipop, Part 1
 
-![](/assets/android-lollipop-devices.jpeg)
+![](/assets/android-lollipop-devices.webp)
 
 Android’s newest incarnation, version 5.0 Lollipop, comes at the end of Google’s stutter-step legacy of subtle refinement and dramatic reinvention. Through its 10 dessert-themed updates, Google has expanded the platform’s scope from a Linux-based feature phone OS to a sprawling ecosystem of connected smartphones, tablets, and wearables. But each move Google has made to perfect its vision for mobile has come at the cost of numerous concessions and compromises with the manufacturers and carrier partners that delivered Android to the world. For users, this meant a wide variety of divergent Android experiences across myriad form factors and designs. For Google, and for developers, these allowances began to introduce problems of version fragmentation and inconsistency. In order to reach a user base of more than one billion, Google needed strong partnerships and design collaboration with more established mobile brands. But now that Android has conquered the smartphone industry and established itself as the world’s most popular mobile platform, Google is poised to take control back.
 
@@ -27,7 +27,7 @@ Lollipop already runs on a handful of Android devices from LG and Motorola, and 
 
 Lollipop represents the company’s latest effort to mainstream the core Android experience and encourage OEM partners to tread close to the prescribed route. Motorola, as one example, has modernized its Android strategy on the Moto X to tweak very few interface elements and instead [add valuable consumer features](http://www.punchkick.com/blog/2014/09/08/motorola-stuns-new-moto-360-moto-x-moto-hint) exclusive to its product family. While Samsung and others have traditionally modified the Android interface and included numerous features above and beyond Google’s baseline, the changes to Google’s and many third-party brands’ apps with Material Design might encourage its designers to fall more closely in line. Lollipop is the beginning of standardization on the Android platform, an initiative designed to highlight the best that Android has to offer and to curtail the frustrations of interface and version diversity. Google is taking command of the Android experience, starting with a design statement on the platform’s most important property. With [Android 4.4 KitKat last fall](http://www.punchkick.com/blog/2013/10/28/google-nexus-5-and-android-4-4-kitkat-within-reach), Google sought to make the latest version of Android as widely available as possible. With KitKat, more phones than ever could get up to speed. Now, with the design and feature additions in Lollipop, more customers than ever will want to.
 
-![](/assets/android-lock-screen-notifications.jpeg)
+![](/assets/android-lock-screen-notifications.webp)
 
 ### Notify better
 
@@ -39,7 +39,7 @@ With Lollipop, Google revisited the notification interaction design in major new
 
 But the notification additions aren’t limited to the lock screen. The delivery and behavior of notifications were rethought throughout the operating system in the interest of better clarity and accessibility. Now, high-priority notifications like user-defined alarms and incoming phone calls appear in an animated material banner at the top of the screen rather than a screen-takeover modal that demanded immediate action. Messages and emails, which once delivered a subtle (and easily ignorable) line of text in the status bar, now leverage the same material banners to attract quick glances without taking attention away from tasks at hand.
 
-![](/assets/android-lollipop-notification-bar.jpeg)
+![](/assets/android-lollipop-notification-bar.webp)
 
 But Lollipop also provides greater control and contextual customization for customizations for any app. New settings for “interruptions” help users define when and where they’d like to be notified of different messages, and allow for a greater degree of control and privacy over the operating system’s behavior. A new Priority Mode option lets Android users disable distracting notifications for a set time duration or from certain sources. The functionality is great for movie theaters and meetings, or for when Android devices begin to run low on battery power, and matches behaviors like [Do Not Disturb in iOS](http://www.punchkick.com/blog/2014/10/20/ios-8-in-context-imessage-evolves-beyond-the-text-message). What’s more, new app-specific notifications preferences in the system Settings allow users to define priority and sensitivity assignments, determining when and where notifications are delivered or visible. (For example, work emails might always come through because of their priority settings, but messages from a dating app might not be visible to the world on the lock screen for increased privacy.) Refining the behaviors of notifications are one subtle user experience tweak Google included with Lollipop, but underscore its commitment to streamlining and perfecting every aspect of the operating system with this new version.
 
@@ -53,7 +53,7 @@ Android was one of the first mobile operating systems to include multitasking fu
 
 In iOS 4, Apple took a stab at multitasking on the iPhone, and introduced a slide-up overview shelf that allowed users to view recently used apps and dismiss them if necessary. Rather than allowing apps to constantly run, draining battery and eating up processor cycles, Apple’s approach instead saved app states and screens for users to resume at some future point. (Certain app types, like audio streamers and navigation apps, were allowed to truly remain running in the background.) But users were still confused by the interface design: even experienced iPhone customers would routinely double-tap their home buttons to “quit” these apps and dismiss them from the shelf, fearing the battery drain and processor slowdown that might result. Neither company had clarified the true nature of multitasking on their platforms, and Android needed a new solution that matched Material Design’s simplicity and elegance.
 
-![](/assets/android-lollipop-multitasking.jpg)
+![](/assets/android-lollipop-multitasking.webp)
 
 Google’s solution not only simplified the task management process on Android, but also introduced new functionality and clarity around how apps and processes behave and interact. Dubbed “Overview,” the new multitasking interface incorporated a Material Design–inspired scrolling stack of cards for each open application. The interface leans on apps’ most prominent color to inform a title bar for each card, becoming a beautiful scrolling rolodex of colorful application processes. Users can simply and easily swipe away unnecessary app screens when they become irrelevant, and can universally access the Overview mode from anywhere, system-wide, using the squarish Overview button in Lollipop.
 
@@ -65,7 +65,7 @@ One of the most harrowing processes for mobile customers, even seven years into 
 
 A new process called Tap and Go allows Android customers to quickly and easily initiate the transfer and restore process between two Android devices. While users can still restore data from the cloud using their Google accounts, Tap and Go enables device-to-device transfer of installed applications and preferences immediately during setup. After pairing the two Android phones via NFC, the old device informs the target device of installed apps to download from the Google Play Store and of interface preferences like app layout and wallpaper selection. The addition promises to make the initial configuration and setup processes for Android products simpler and more efficient, and Google services’ deep reliance on the cloud for user data will assist in the restoration of photos and messages after setup is complete.
 
-![](/assets/android-nexus-tap-and-go.jpg)
+![](/assets/android-nexus-tap-and-go.webp)
 
 But Lollipop doesn’t stop there. In tune with Google’s intent to take command of its platform and remove dependencies on carrier partners, the new version of Android ships with a feature called Play Auto Installs that directly addresses the matter of preinstalled carrier software. Whereas Android customers have historically been frustrated with some of the preinstalled software decisions from their selected carrier, which are effectively built into some Android devices and impossible to uninstall, Play Auto Installs formalizes the installation process for carrier-specified apps and gives users greater control. 
 

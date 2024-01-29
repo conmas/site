@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2014-11-13
 ---
 
-![](/assets/material-design-style-color.png)
+![](/assets/material-design-style-color.jpg)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/13/android-everywhere-google-redesigns-android-one-app-at-a-time).
 
@@ -23,7 +23,7 @@ Motorola wasn’t the only manufacturer altering the Android user interface. In 
 
 As Apple routinely drove updates to its iOS software to iPhone and iPad users over the air, Android was frequently stuck in neutral. Because carriers and OEM partners could determine for themselves when their phones received Android system updates—or, if they received them at all—many users continued running 2.3 Froyo for years after 4.0 Ice Cream Sandwich became available. Manufacturers worked to update their custom interface skins to be compatible with new Android versions, but this development lead-time often took months or more after Google first unveiled the platform’s next iteration. Fragmentation became a real problem for Android, and severely impacted not only Google’s ability to innovate, but also developers’ ability to feasibly design their apps to run on a majority of Android handsets. Google had lost control of its platform, and was beholden in many ways to its partners to ensure adoption.
 
-![](/assets/material-design-image-principles-now-playing.png)
+![](/assets/material-design-image-principles-now-playing.webp)
 
 To amend this in the short term, Google began releasing its popular Nexus line of smartphones and tablets, built alongside manufacturing partners and designed to run the latest and greatest versions of Android. Nexus phones received over-the-air Android version updates as soon as they became available, and remained completely under Google’s control in terms of capabilities and software compatibility. Nexus devices offered a solution to fragmentation for consumers buying new hardware, and allowed Android fans to take advantage of the shiny new things announced at every Google I/O developer conference. Google even expanded this approach to the Google Play Edition program, which offered manufacturing partners’ flagship devices—like the Samsung Galaxy S5 or HTC One—running “stock Android” at an “unlocked” premium price on the Google Play Store. But Nexus and Google Play Editions weren’t a solution to Android’s fragmentation ills for all Android-kind, and simply represented a proverbial “city on a hill” for OEM partners to aspire to. The wider Android ecosystem remained outside of Google’s direct control, and its users couldn’t take advantage of the platform’s latest features. Thankfully, Google itself had already developed an escape hatch: the Google Play Store.
 
