@@ -6,6 +6,7 @@ updated: January 22, 2024
 ---
 
 # Now
+
 Last updated January 21, 2024. This page is inspired by the [`/now`](https://nownownow.com/about) page project, which focuses on life updates that are more generalized than social media status updates or posts, and instead cover things you’d tell a friend you hadn’t seen in a while.
 
 ## Work

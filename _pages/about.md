@@ -13,3 +13,6 @@ I’m a product and engineering leader in Chicago with a background in design, p
 I want to make [wonderful](https://bit.ly/3HiCadM) products. Shipping useful tools or thoughtful designs is like writing love letters to a billion strangers. This keeps product work fun, but also reminds me to obsess over the details.
 
 I’m passionate about accessibility, data privacy, and em dashes. I rarely use social media, but when I do, I post about Apple, productivity apps, and smart home platforms. Otherwise, you’ll typically find me drinking coffee and talking with my hands. 
+
+- [Now](/now)
+- [Colophon](/colophon)
