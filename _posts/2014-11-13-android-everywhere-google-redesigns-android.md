@@ -5,7 +5,7 @@ author: Connor Mason
 date: 2014-11-13
 ---
 
-![](/assets/material-design-style-color.jpg)
+![](/assets/material-design-style-color.jpeg)
 
 > This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/13/android-everywhere-google-redesigns-android-one-app-at-a-time).
 
