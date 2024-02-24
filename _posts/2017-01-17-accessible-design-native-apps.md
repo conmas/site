@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accessible design in modern app navigation—beyond the static web
+title: Accessible design in modern app navigation
 date: 2017-01-17
 ---
 ![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)

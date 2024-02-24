@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The new Apple TV invites Siri and the App Store to movie night
+title: Apple TV invites Siri and the App Store to movie night
 date: 2015-09-10
 ---
 ![](/assets/apple-tvos.png)

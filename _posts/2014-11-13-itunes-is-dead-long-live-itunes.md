@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "iTunes is dead, long live iTunes: Apple is phasing out Beats Music"
+title: iTunes is dead, long live iTunes
 date: 2014-11-13
 ---
 ![](/assets/itunes-store.png)

@@ -1,6 +1,6 @@
 ---
 date: 2014-11-17
-title: Comparing HealthKit & Core Motion for step-counting iOS apps
+title: Comparing HealthKit & Core Motion
 layout: post
 ---
 

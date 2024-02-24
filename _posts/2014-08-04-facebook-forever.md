@@ -5,10 +5,6 @@ date: 2014-08-04
 ---
 Until as recently as last year, Mark Zuckerberg thought of Facebook as a web company. Now, he says, mobile is the company’s “big focus” moving forward. In this series, we’ll examine Facebook’s strategic positioning to become a conglomeration of great mobile experiences, offer a wealth of features to displace competitors, and build a next-generation mobile platform designed to replace the web.
 
-- [[#Assimilating every great mobile experience]]
-- [[#Growing mobile features to include everything]]
-- [[#A wearable platform to replace the web]]
-
 ![An image of Facebook CEO Mark Zuckerberg presenting at a conference, with a large visualization of the Facebook social graph behind him.](/assets/zuckerberg-facebook-social-graph.jpg)
 
 ## Assimilating every great mobile experience 

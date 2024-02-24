@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Music’s design is broken—here’s how Apple is fixing it
+title: Apple Music’s design is broken
 date: 2015-08-17
 ---
 ![](/assets/apple-music-devices.jpeg)
