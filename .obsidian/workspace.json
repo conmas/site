@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
+                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a5f0f03ddaa29db0",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
+                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
+                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/wip/What to expect at Apple’s October 16 iPad event.md"
+                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md"
               }
             }
           }
@@ -174,20 +173,23 @@
   },
   "active": "08677e049115188d",
   "lastOpenFiles": [
-    "_posts/wip/2014-11-17-healthkit-core-motion-ios-step-counting.md",
+    "_posts/2014-11-13-itunes-is-dead-long-live-itunes.md",
+    "_posts/2014-11-11-android-everywhere.md",
+    "_posts/2014-08-27-all-banking-is-mobile.md",
+    "_posts/2014-08-04-facebook-forever.md",
     "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
+    "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
+    "_posts/wip/2014-11-17-healthkit-core-motion-ios-step-counting.md",
     "assets/healthkit-apps.png",
     "assets/healthkit_more.png",
     "assets/health-ios-8.png",
     "assets/health_hero.png",
-    "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
     "_posts/wip/Extensibility.md",
     "_posts/wip/CloudKit.md",
     "_pages/index.md",
     "_pages/now.md",
     "_pages/colophon.md",
     "_pages/about.md",
-    "_posts/2014-08-27-all-banking-is-mobile.md",
     "assets/google-wallet-contactless.jpg",
     "assets/google-wallet-in-action1.jpg",
     "assets/simple-bank.jpg",
@@ -202,11 +204,8 @@
     "_posts/wip/Apple TV, home fitness, and the future of the workout video.md",
     "_posts/2015-09-10-apple-tv-siri-app-store.md",
     "_posts/2016-11-22-android-nougat.md",
-    "_posts/2014-11-11-android-everywhere.md",
-    "_posts/2014-11-13-itunes-is-dead-long-live-itunes.md",
     "_posts/wip/What’s next from Google.md",
     "_posts/2015-08-17-apple-music-design-broken.md",
-    "_posts/2014-08-04-facebook-forever.md",
     "_posts/wip/All banking is mobile banking.docx",
     "_posts/wip/How can print publishers continue to adapt to mobi.docx",
     "_posts/wip/What does Google_s Material Design mean for consum.docx",

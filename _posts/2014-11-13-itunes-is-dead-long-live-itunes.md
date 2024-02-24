@@ -3,7 +3,7 @@ layout: post
 title: "iTunes is dead, long live iTunes: Apple is phasing out Beats Music"
 date: 2014-11-13
 ---
-![[itunes-store.png]]
+![](assets/itunes-store.png)
 
 When digital music first entered the mainstream in the early 2000s, there were very few reputable and legal ways to download coveted MP3 files. Countless gray-area download services and file sharing communities sprouted up, not because of some malcontent or ill will toward the record industry, but because obtaining digital music legitimately was complicated and difficult. Apple sought to fill the void with its iTunes Store, and in so doing managed to upend the record industry forever. iTunes didn’t just distribute music: it offered new ways to discover and enjoy music across all of users’ digital devices. The service soon became the number one music retailer in the United States, besting brick-and-mortar CD sales from retail giants. But its days were numbered: as streaming advanced and companies began taking advantage of modern web technologies, iTunes lost its edge. As users’ expectations around music consumption shifted, the industry began to adopt a new perspective: the future of music is about providing *access* to content, not ownership. Despite its missteps, Apple is beginning to make plays that will ensure iTunes maintains its dominant position well into the future.
 
@@ -19,18 +19,18 @@ In fact, Apple was among those companies most tuned into the future of music. Th
 
 In the mid-2000s, a small Swedish company took the next leap in democratizing music access. Spotify launched first in Europe, bringing millions of music fans direct access to a cloud library of thousands of albums. Its deals with record labels and artists helped drive prices down, allowing subscribers to stream unlimited plays from millions of tracks for as little as $10 a month. The approach was soon imitated by a number of smaller products, and user adoption spoke to its audience resonation: millions of people streamed or subscribed, boosting Spotify’s user base to more than 40 million listeners.
 
-![[beats-music.jpeg]]
+![](assets/beats-music.jpeg)
 ### Long live iTunes
 
 Apple took note. Alongside iCloud in 2011, Apple debuted a new cloud-based music storage and synchronization service called iTunes Match. Modeled in part after Google’s Music Manager software, which allowed users to upload their MP3 collection to the cloud, iTunes Match enabled intelligent matching of users’ CD-sourced libraries to the iTunes Store’s collection of millions of tracks. (Any files that couldn’t be matched—say, your cousin’s demo tape—would be uploaded.) The files were then accessible from iOS devices and connected Macs or PCs running iTunes. Costing only $25 per year, Apple considered iTunes Match a sure bet against competition from smaller companies like Spotify, Rdio, and Google’s burgeoning interest in the space. Unfortunately for iTunes Match, users disagreed.
 
-![[itunes-radio.jpg]]
+![](assets/itunes-radio.jpg)
 
 Apple needed a win to compete with Spotify, and to modernize its service to compete with the next wave of cloud-enabled streaming apps. The company’s answer was iTunes Radio alongside iOS 7, a product designed to encourage additional music downloads and propped up by advertisements. (Users could opt into a premium ad-free version as part of the $25 iTunes Match subscription.) Apple aimed for Spotify, but either its lack of knowledge or of focus yielded a product more rightfully aimed at Pandora. It became clear that, even if a music streaming service to rival Spotify could come from within Apple, it wasn’t going to happen in time.
 
 Earlier this year, when Apple moved to acquire Beats Electronics—makers of pricey headphones and audio accessories—it also absorbed the company’s fledgling media streaming product, Beats Music. In truth, the purchase of the latter could have a more critical impact on the future trajectory of Apple’s cloud-enabled services. Beats Music was born of Beats’s acquisition of MOG, a popular music streaming website from the late 2000s. At the core of the Beats Music product is curation: a dedicated team of music experts hand-selected tracks to collate into genre- or mood-specific playlists, which offered a level of professional suggestion uncommon among competitive streaming products. In addition, fun user interface flourishes like “the sentence”—which allows listeners to hear exactly the right music for when they’re “feeling like jamming” while “in the car” with “their in-laws”—gave Beats Music a personality and utility all its own.
 
-![[beats-music.png]]
+![](assets/beats-music.png)
 
 > Beats Music is much more important to Apple than Beats headphones.
 
