@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2014-08-04-facebook-forever.md",
+                "file": "_pages/now.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-08-04-facebook-forever.md",
+                "file": "_pages/now.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2014-08-04-facebook-forever.md",
+                "file": "_pages/now.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-08-04-facebook-forever.md"
+                "file": "_pages/now.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f96aed2c5feedc3",
+  "active": "e0889f596a78a991",
   "lastOpenFiles": [
+    "_pages/projects/wolfco.md",
+    "_pages/projects/berkley.md",
+    "_pages/projects/atlas.md",
+    "_posts/2014-11-11-android-everywhere-material-design.md",
+    "_posts/2014-08-04-facebook-forever.md",
     "assets/Apple Calendar scheduling.webp",
     "assets/chromebook-pixel-google.webp",
     "assets/zuckerberg-facebook-social-graph.jpg",
@@ -158,14 +163,11 @@
     "assets/chromecast-colors.png",
     "assets/apple-music-ipad-beats-one.jpg",
     "assets/android-streaming-devices.png",
-    "assets/apple-music-promo.jpeg",
     "backlog.md",
     "_posts/2019-04-14-apple-replace-macos-apps-marzipan.md",
-    "_posts/2014-08-04-facebook-forever.md",
     "_posts/2014-11-23-android-everywhere-lollipop-unity.md",
     "_posts/2014-11-13-android-everywhere-google-redesigns-android.md",
     "assets/favicon.ico",
-    "_posts/2014-11-11-android-everywhere-material-design.md",
     "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
     "_posts/2015-08-17-apple-music-design-broken.md",
     "_posts/2016-11-08-google-pixel-microsoft-surface.md",
@@ -186,9 +188,6 @@
     "_pages/about.md",
     "_pages/colophon.md",
     "_config.yml",
-    "_includes/footer.html",
-    "_pages/projects/atlas.md",
-    "_pages/projects/berkley.md",
-    "_pages/projects/wolfco.md"
+    "_includes/footer.html"
   ]
 }
