@@ -20,6 +20,7 @@ In fact, Apple was among those companies most tuned into the future of music. Th
 In the mid-2000s, a small Swedish company took the next leap in democratizing music access. Spotify launched first in Europe, bringing millions of music fans direct access to a cloud library of thousands of albums. Its deals with record labels and artists helped drive prices down, allowing subscribers to stream unlimited plays from millions of tracks for as little as $10 a month. The approach was soon imitated by a number of smaller products, and user adoption spoke to its audience resonation: millions of people streamed or subscribed, boosting Spotify’s user base to more than 40 million listeners.
 
 ![](assets/beats-music.jpeg)
+
 ### Long live iTunes
 
 Apple took note. Alongside iCloud in 2011, Apple debuted a new cloud-based music storage and synchronization service called iTunes Match. Modeled in part after Google’s Music Manager software, which allowed users to upload their MP3 collection to the cloud, iTunes Match enabled intelligent matching of users’ CD-sourced libraries to the iTunes Store’s collection of millions of tracks. (Any files that couldn’t be matched—say, your cousin’s demo tape—would be uploaded.) The files were then accessible from iOS devices and connected Macs or PCs running iTunes. Costing only $25 per year, Apple considered iTunes Match a sure bet against competition from smaller companies like Spotify, Rdio, and Google’s burgeoning interest in the space. Unfortunately for iTunes Match, users disagreed.

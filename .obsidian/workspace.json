@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
+                "file": "_posts/2016-11-22-android-nougat.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
+                "file": "_posts/2016-11-22-android-nougat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
+                "file": "_posts/2016-11-22-android-nougat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md"
+                "file": "_posts/2016-11-22-android-nougat.md"
               }
             }
           }
@@ -173,11 +173,11 @@
   },
   "active": "08677e049115188d",
   "lastOpenFiles": [
-    "_posts/2014-11-13-itunes-is-dead-long-live-itunes.md",
     "_posts/2014-11-11-android-everywhere.md",
+    "_posts/2014-11-13-itunes-is-dead-long-live-itunes.md",
+    "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
     "_posts/2014-08-27-all-banking-is-mobile.md",
     "_posts/2014-08-04-facebook-forever.md",
-    "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
     "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
     "_posts/wip/2014-11-17-healthkit-core-motion-ios-step-counting.md",
     "assets/healthkit-apps.png",
