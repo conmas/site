@@ -1,10 +1,8 @@
 ---
 layout: post
 title: What if Apple replaced all its Mac apps with Catalyst?
-author: Connor Mason 
 date: 2019-04-14
 ---
-
 ![An image of a laptop in the dark, half closed, with the backlight from the screen illuminating its keyboard and the surrounding surface.](/assets/laptop-marzipan.webp)
 
 Of course they shouldn’t do it. But what if they did? What features would they leave behind, or bring to iOS? Where does it make sense for them to do this, and where would it never work?

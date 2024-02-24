@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Apple Music’s design is broken—here’s how Apple is fixing it"
-author: Connor Mason
+title: Apple Music’s design is broken—here’s how Apple is fixing it
 date: 2015-08-17
 ---
-
-![](/assets/apple-music-devices.jpg)
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).
+![](/assets/apple-music-devices.jpeg)
 
 Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
@@ -19,11 +15,11 @@ Apple Music’s successes and failures in user-experience design represent one o
 
 When users first open the Music app after updating to iOS 8.4, they are immediately presented with an all-new design featuring five tabs: For You, New, Radio, Connect, and My Music. The functionality from iOS 8.3 and before, the features that users have become accustomed to, have been collapsed into the My Music tab and now hide behind a singular drop-down view control. The other tabs present newcomers with a sign-up form for a free three-month trial of Apple Music.
 
-![](/assets/apple-music-onboarding.jpg)
+![](/assets/apple-music-onboarding.jpeg)
 
 One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its onboarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
 
-![](https://vimeo.com/132839044)
+![][https://vimeo.com/132839044]
 
 These selections inform all the customized content and recommendations that follow, but represent the strongest and, frankly, only component of Apple Music’s onboarding process. Users are dumped into an interface that does little to explain itself beyond a notification that appears if they select the heart button on a track, album, or playlist. 
 
@@ -46,7 +42,7 @@ The situation only gets more complicated. A search icon appears on each tab of t
 
 At a certain point, users can have clicked through several levels of content—from a playlist in to an artist in that playlist, to associated artists, to albums by each artist—without the tab navigation changing or showing the path they took to get there. And each tab on Apple Music remembers its state: so as users pop between tabs, they could be a dozen screens deep into a specific artist they were investigating, and the only sign of where they are is a Back button. Breadcrumbs are invisible, leading users to reverse-engineer the path they took to get to any one screen on their own.
 
-![](/assets/apple-music-promo.jpg)
+![](/assets/apple-music-promo.jpeg)
 
 The problem of organizing a near-infinite library of content is certainly not unique to Apple Music, but Apple’s insistence on tab-based navigation as the primary navigational structure certainly is. Spotify and Rdio both succumbed to a sidebar menu of available options, allowing them to organize features into buckets numbering more than five. Both Spotify and Rdio also prioritize search as a primary navigational mode, which may be contrary to Apple’s core experience of curation and discovery, but also addresses the problem of massive data sets better.
 
@@ -85,3 +81,5 @@ As Apple Music evolves and iTunes services are transformed to fall in line with 
 > Despite its early challenges, Apple Music is here to stay, and promises to serve as Apple’s media platform for the next decade.
 
 Despite any UX considerations to be made in future releases, Apple Music is already off to a runaway start, with 11 million subscribers already opted into the service after less than two months. iTunes has been Apple’s media backbone for over a decade, and has already begun passing the baton to Apple Music. All that remains is a television streaming service to complete Apple’s streaming transition.
+
+> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).

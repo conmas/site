@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Augmented reality is Apple's next revolution"
-author: Connor Mason
+title: Augmented reality is Apple's next revolution
 date: 2017-03-23
 ---
-
 ![Photograph of a child playing with augmented reality features on an iPad, showing Lego characters on the screen as he points the camera to a Lego city in the real world.](/assets/apple-arkit-2-lego-ipad.jpg)
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/software/2017/03/23/ar-is-apples-next-revolution-and-brands-should-follow-suit).
 
 If recent rumors about this summer's iOS 11 announcement and this fall's iPhone hardware refresh are to be believed, Apple is going to be betting big on augmented reality. From iPhones without bezels to new Maps features that make use of the smartphone camera, theories abound about what Apple's AR solution might ultimately look like. Customers are excited about what Apple might introduce, but completely at a loss as to what this new feature might actually feel like to use.
 
@@ -36,3 +32,5 @@ For brands, there's an enormous opportunity to capture users' existing behaviors
 > If Apple is successful in making augmented reality a staple of smartphone users' lives, the technology will become an essential new avenue to connect with users in a new context. 
 
 AR can become positioned as one of those rare places where the priorities of a user and the brand trying to reach them overlap. Customers want information about your business, your product, or your services in the context they're in at this exact moment. As they are considering what to do or buy next, brands have an opportunity to provide welcome assistance within the customer's AR experience. If Apple is successful in making augmented reality a staple of smartphone users' lives, the technology will become an essential new avenue to connect with users in a new context. If not, then perhaps Google Glass will earn a new comrade in the AR graveyard.
+
+> This post was originally published on [punchkick.com](https://www.punchkick.com/software/2017/03/23/ar-is-apples-next-revolution-and-brands-should-follow-suit).

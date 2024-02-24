@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Accessible design in modern app navigation—beyond the static web"
-author: Connor Mason 
+title: Accessible design in modern app navigation—beyond the static web
 date: 2017-01-17
 ---
-
 ![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)
-
-> This blog post was originally published on [punchkick.com](https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web).
 
 Accessibility is a topic that in many ways is as old as the web. Because designers and developers have been focused on making digital products accessible for decades, there are many guidelines, standards, and even automated assessment tools that already exist to ensure websites are accessible. There are also regulations that many companies need to comply with, including the Americans with Disabilities Act, which has been updated to include digital product guidelines.
 
@@ -42,3 +38,5 @@ Considering the unique needs of mobile users with disabilities can have a halo e
 > Accessible design delivers benefits for all users—disabled or not—by making the app easier to understand and simpler to use.
 
 There are many areas of accessible design that need to be reevaluated for the unique needs and considerations of modern mobile users. However, whether for compliance with federal regulations or for the betterment of all audience members, employing accessible design in mobile app design and development is a surefire way to make your app more usable and more fundamental to your users' lives.
+
+> This blog post was originally published on [punchkick.com](https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web).

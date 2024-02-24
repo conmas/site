@@ -1,13 +1,9 @@
 ---
 layout: post
-title: "Google builds its a product empire with Nexus and Chromecast"
-author: Connor Mason
-date: 2015-10-01 
+title: Google builds its a product empire with Nexus and Chromecast
+date: 2015-10-01
 ---
-
 ![An image showing Android phones and Chromecast devices arranged in a spiral pattern.](/assets/google-nexus-chromecast-hardware.jpg)
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/10/01/with-nexus-and-chromecast-google-has-built-a-product-empire).
 
 This week’s Nexus event represented the final chapter in Google’s transition from a web services business into a consumer electronics company. It’s no exaggeration—while Google has been traditionally treated like a search company with spurious extensions into the consumer software and hardware arenas, the company’s enduring focus on product offerings that directly challenge its strongest competition indicates a trend. Google sees the value in selling beautiful gadgets that run [native software](/2014/11/11/android-everywhere-material-design)—even if it is in service of getting its search ads in front of more eyeballs. 
 
@@ -77,6 +73,8 @@ But Google’s eagerness to strut its industrial design stuff with ambitious new
 > Google wants to become your one-stop shop for technology.
 
 Google is a company with a lot of spinning plates, spanning diverse industries and categories—an approach it formalized with its inside-out transformation into Alphabet. But these once-scattershot ventures into the world of hardware have begun to materialize into a more coherent vision in recent years. Google wants to deliver on the vision of one company for all customer needs—from affordable, beautiful hardware to free, reliable web services and [gorgeous mobile apps](https://www.punchkick.com/blog/2014/07/31/what-does-googles-material-design-mean-for-consumer-brand-apps). Google wants to be the one company that cheaply connect customers to the web, via cellular or Fiber or [balloons](http://www.google.com/loon/). And it can be the one company that provides the router, and the tablet, and the OS, and the browser, and the web apps that started it all. All you need to do is look at some ads.
+
+> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/10/01/with-nexus-and-chromecast-google-has-built-a-product-empire).
 
 [^1]: [Mobile virtual network operator](https://en.wikipedia.org/wiki/Mobile_virtual_network_operator), if you’re interested.
 [^2]: Or Apple. Building an MVNO would be a great opportunity to get more mileage out of that AppleTalk trademark, guys.

@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Facebook forever"
-author: Connor Mason
+title: Facebook forever
 date: 2014-08-04
 ---
-> This post was originally published as a [three](https://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience)-[part](https://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything) [series](https://www.punchkickinteractive.com/blog/2014/08/12/facebook-forever-a-mobile-and-wearable-platform-to-replace-the-web-part-iii) on punchkick.com.
-
 Until as recently as last year, Mark Zuckerberg thought of Facebook as a web company. Now, he says, mobile is the company’s “big focus” moving forward. In this series, we’ll examine Facebook’s strategic positioning to become a conglomeration of great mobile experiences, offer a wealth of features to displace competitors, and build a next-generation mobile platform designed to replace the web.
+
+- [[#Assimilating every great mobile experience]]
+- [[#Growing mobile features to include everything]]
+- [[#A wearable platform to replace the web]]
 
 ![An image of Facebook CEO Mark Zuckerberg presenting at a conference, with a large visualization of the Facebook social graph behind him.](/assets/zuckerberg-facebook-social-graph.jpg)
 
-## Part 1: assimilating every great mobile experience 
+## Assimilating every great mobile experience 
 
 In 2008, Facebook released the first version of their iOS app to coincide with the launch of the App Store. The app’s interface was built to match the glossy buttons of iOS (then called iPhone OS) 2.0, but featured clunky web views of the News Feed and spotty performance issues as a result. Facebook has reinvented their flagship app some half-dozen times in the years since then, but recently the company has begun concentrating their efforts on a new mobile strategy: conglomeration.
 
@@ -40,7 +41,7 @@ Facebook wants to have as large of a presence on your smartphone’s home screen
 
 ![A stylized photograph of Mark Zuckerberg holding a microphone and speaking.](/assets/zuckerberg-microphone.jpg)
 
-## Part 2: growing mobile features to include everything
+## Growing mobile features to include everything
 
 Like many mobile giants, Facebook wants to be an integral part of as many of your mobile experiences as possible. They’re looking to increase their presence on your phone not only through strategic acquisitions and conglomeration, but also by reducing the number of apps you need to accomplish any task. Facebook is looking to increase the functionality and usefulness of their mobile offerings so that users will need fewer and fewer icons on their home screens—and the remaining icons are made by Facebook.
 
@@ -72,7 +73,7 @@ Messenger is a prime example of Facebook’s aim to displace core functions of y
 
 As Facebook splices up its mobile offerings into more and more single-purpose or targeted apps, it becomes increasingly easy to replace many of your smartphone’s functions with complementary Facebook solutions. When everything you want to do can be done with a Facebook app or service, the company is closer to achieving their goal of building their own cohesive mobile platform. In part 3, we’ll examine the building blocks of Facebook’s next chapter—a mobile and wearable platform that could replace the web altogether.
 
-## Part 3: a wearable platform to replace the web
+## A wearable platform to replace the web
 
 In just over a decade, Facebook has grown its user base to unimaginable heights and has built an empire that dominates the web. As the company has begun to set its sights on mobile in recent years, it has also started considering what comes next—and making tactical plays to ensure its future success. Going beyond [strategic acquisitions](http://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience) and [the addition of competitive features](http://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything), Facebook has been laying the foundation for a mobile and wearable platform that will outlast the web, and perhaps guarantee the company’s continued dominance for the next decade.
 
@@ -100,3 +101,5 @@ Technology, as an industry, will never stop evolving. Just as the market has piv
 Despite having yet to release a physical product beyond prototypes and development kits, Facebook acquired Oculus VR for $2 billion based on the promise of their Oculus Rift headset. Using binocular screens in a head-mounted enclosure, the system emulates three-dimensional environments and adds an immersive degree of realism to video games. But the future of virtual reality promises more—much more—and Facebook is keen to realize that potential. Just as the web browser is the vehicle that enabled the web, and as the capacitive touch screen gave life to smart phones, so too will Oculus Rift’s innovative binocular approach give rise to the next big industry of virtual reality apps and services. As the visor crawls toward productization, Facebook is doubtless hard at work finding ways to add virtual reality development and distribution tools to their Platform.
 
 Springboarding off of Facebook’s immense development resources and deep pockets, Oculus could spawn an entirely new ecosystem of virtual environments, all connected and curated by Facebook. The company imagines new generation of immersive games and virtual meeting places for users to share and communicate, all built on Facebook’s infrastructure and crafted using Facebook’s development tools. It’s a long play—and by no means a sure bet—but if virtual reality sees the widespread public adoption that pundits have long predicted it will, Facebook could see their user empire extend beyond the web or mobile and into a new frontier that could absorb them both. Virtual reality isn’t science fiction anymore—it’s a business plan.
+
+> This post was originally published as a [three](https://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience)-[part](https://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything) [series](https://www.punchkickinteractive.com/blog/2014/08/12/facebook-forever-a-mobile-and-wearable-platform-to-replace-the-web-part-iii) on punchkick.com.
