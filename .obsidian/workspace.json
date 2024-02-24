@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2016-11-22-android-nougat.md",
+                "file": "_posts/2019-04-14-apple-macos-apps-marzipan.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2016-11-22-android-nougat.md",
+                "file": "_posts/2019-04-14-apple-macos-apps-marzipan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2016-11-22-android-nougat.md",
+                "file": "_posts/2019-04-14-apple-macos-apps-marzipan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2016-11-22-android-nougat.md"
+                "file": "_posts/2019-04-14-apple-macos-apps-marzipan.md"
               }
             }
           }
@@ -173,11 +173,16 @@
   },
   "active": "08677e049115188d",
   "lastOpenFiles": [
+    "_posts/2014-08-04-facebook-forever.md",
+    "_posts/2014-08-27-all-banking-is-mobile.md",
     "_posts/2014-11-11-android-everywhere.md",
     "_posts/2014-11-13-itunes-is-dead-long-live-itunes.md",
     "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
-    "_posts/2014-08-27-all-banking-is-mobile.md",
-    "_posts/2014-08-04-facebook-forever.md",
+    "_posts/2015-08-17-apple-music-design-broken.md",
+    "_posts/2015-09-10-apple-tv-siri-app-store.md",
+    "_posts/2016-07-08-apple-design-ios-10-accessibility.md",
+    "_posts/2017-01-17-accessible-design-native-apps-static-web.md",
+    "_posts/2016-11-22-android-nougat.md",
     "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
     "_posts/wip/2014-11-17-healthkit-core-motion-ios-step-counting.md",
     "assets/healthkit-apps.png",
@@ -202,19 +207,14 @@
     "_posts/wip/More Android than Android- Google launches Nexus 6 as Android’s.md",
     "_posts/wip/More Android than Android- Google announces Nexus 9 to counter.md",
     "_posts/wip/Apple TV, home fitness, and the future of the workout video.md",
-    "_posts/2015-09-10-apple-tv-siri-app-store.md",
-    "_posts/2016-11-22-android-nougat.md",
     "_posts/wip/What’s next from Google.md",
-    "_posts/2015-08-17-apple-music-design-broken.md",
     "_posts/wip/All banking is mobile banking.docx",
     "_posts/wip/How can print publishers continue to adapt to mobi.docx",
     "_posts/wip/What does Google_s Material Design mean for consum.docx",
     "_posts/wip/Metal and SceneKit.md",
     "_posts/wip/Messages.md",
-    "_posts/wip/iCloud Drive.md",
     "_posts/wip",
     "_posts/untitled folder",
-    "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
     "assets/favicon.ico",
     "_includes/link-previews.html",
     "_sass/_code.scss",

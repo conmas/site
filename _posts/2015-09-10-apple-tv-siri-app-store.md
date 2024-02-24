@@ -3,7 +3,7 @@ layout: post
 title: The new Apple TV invites Siri and the App Store to movie night
 date: 2015-09-10
 ---
-![[apple-tvos.png]]
+![](assets/apple-tvos.png)
 
 The biggest news from the Apple event doesn’t run iOS. Alongside massive enhancements to its iPhone and iPad product family, Apple today focused on a product it once publicly considered a “hobby.” 
 
@@ -15,7 +15,7 @@ Gone are the days of Apple TV being an awkward “fourth peg” on Steve Jobs’
 
 Like watchOS, tvOS is based on iOS and heavily reliant on existing user interface paradigms. It inherits many of the same APIs and frameworks that have made iOS so successful for third-party developers. But unlike [watchOS 1](https://www.punchkick.com/videos/2015/05/13/white-paper-how-to-design-watchkit-apps-for-apple-watch), tvOS is launching with an App Store on day one. And just as Apple facilitated the walled garden that allowed third-party developers to build upon the iPhone, tvOS will facilitate the next generation of experiences in the living room.
 
-![[movies-grid.jpg]]
+![](assets/movies-grid.jpg)
 ### An OS for all *seasons*
 For all of Apple’s quotes about apps being the future of TV, the current state of tvOS is centered around content. Movies and TV shows are given customized, highly visual landing pages that provide context for the actors and directors who created them. On this page, users can see synopses, read reviews, and click around to associated content.
 
@@ -32,7 +32,7 @@ Based on the interface and content source labels, it’s easy to imagine a futur
 ### Siri is your co-*pilot*
 If content is the backbone of the operating system’s information architecture, a basic grid of icons can’t be the best way to navigate it. In the vein of [Amazon Fire TV](https://www.punchkick.com/blog/2014/04/02/amazon-enters-streaming-video-box-arena-with-fire-tv) and in keeping with its recent focus on proactive virtual assistant services, Apple leans on Siri as the primary navigation paradigm for tvOS.
 
-![[siri-waveform.png]]
+![](assets/siri-waveform.png)
 
 The new Apple TV remote has physical buttons and a slick new multi-touch directional pad. But its most significant addition is a microphone through which users can make plain-English requests of Siri.
 
@@ -53,7 +53,7 @@ tvOS comes with an App Store for third-party developers to build apps. The next 
 
 Games are the obvious example for what makes for logical living room apps, and Apple hasn’t been shy about building tools for game developers. [Metal, Apple’s graphics technology that facilitates powerful 3D gaming on iOS](https://www.punchkick.com/blog/2014/10/13/ios-8-in-context-metal-and-scenekit-take-game-development-to-the-next-level) and now on the Mac, will power the first tvOS games. The Siri Remote’s motion sensitivity will enable Wii-style swings and swipes. (Apple even developed a wrist strap to prevent the remote from careening across the room.)[^3]
 
-![[tvos-gaming.jpeg]]
+![](assets/tvos-gaming.jpeg)
 
 But it’s not even just games—nearly any app that could have a living room component now has the tools necessary to reach their users in that arena. Shopping app Gilt demoed their Apple TV app, which allowed users to browse and purchase clothes and accessories on their cinematic HDTV. Airbnb has already announced a tvOS app for discovering rental destinations and browsing photos in HD. 
 

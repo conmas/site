@@ -3,7 +3,7 @@ layout: post
 title: Apple Music’s design is broken—here’s how Apple is fixing it
 date: 2015-08-17
 ---
-![](/assets/apple-music-devices.jpeg)
+![](assets/apple-music-devices.jpeg)
 
 Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
