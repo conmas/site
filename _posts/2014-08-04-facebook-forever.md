@@ -4,7 +4,6 @@ title: "Facebook forever"
 author: Connor Mason
 date: 2014-08-04
 ---
-
 > This post was originally published as a [three](https://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience)-[part](https://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything) [series](https://www.punchkickinteractive.com/blog/2014/08/12/facebook-forever-a-mobile-and-wearable-platform-to-replace-the-web-part-iii) on punchkick.com.
 
 Until as recently as last year, Mark Zuckerberg thought of Facebook as a web company. Now, he says, mobile is the company’s “big focus” moving forward. In this series, we’ll examine Facebook’s strategic positioning to become a conglomeration of great mobile experiences, offer a wealth of features to displace competitors, and build a next-generation mobile platform designed to replace the web.

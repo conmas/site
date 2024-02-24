@@ -1,11 +1,10 @@
 ---
 layout: project
 title: WolfCo
-id: wolfco
 permalink: /projects/wolfco
-
-type: freelance
 date: 2020-04-13
+tags:
+  - Project
+  - Freelance
 ---
-
 Case study coming soon. Return [home](/).

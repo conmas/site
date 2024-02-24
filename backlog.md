@@ -1,0 +1,2 @@
+- [ ] Update css styles for captions to target block quotes that follow images 
+- [ ] Investigate how to use Jekyll post templates to automatically generate permalinks, h1 titles, etc based on file name and date property

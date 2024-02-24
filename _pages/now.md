@@ -2,11 +2,10 @@
 layout: page
 title: Now
 permalink: /now
-updated: January 22, 2024
+date: 2024-01-20
+tags:
+  - Meta
 ---
-
-# Now
-
 <time>Updated January 21, 2024</time>
 
 This page is inspired by the [`/now`](https://nownownow.com/about) page project, which focuses on life updates that are more generalized than social media status updates or posts, and instead cover things you’d tell a friend you hadn’t seen in a while.

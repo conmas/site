@@ -2,12 +2,11 @@
 layout: page
 title: Colophon
 permalink: /colophon
+tags:
+  - Meta
 ---
-
-# Colophon
-
 This site is designed, developed, written, and published by [Connor Mason](/about) in the suburbs of Chicago. 
 
-Posts and pages are written in [Markdown](https://daringfireball.net/projects/markdown/) using [iA Writer](https://ia.net/writer). Templates, layouts, and development files are written and managed using [Nova](https://nova.app).
+Posts and pages are written in [Markdown](https://daringfireball.net/projects/markdown/) using [Obsidian](https://obsidian.md) and [iA Writer](https://ia.net/writer). Templates, layouts, and development files are written and managed using [Nova](https://nova.app).
 
 The site is hosted on GitHub Pages using [Jekyll](https://jekyllrb.com). The Jekyll template is adapted and customized from [this one](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt, and the general layout and structure of the site was inspired by [Steph Ango](https://stephango.com).
