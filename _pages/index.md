@@ -4,7 +4,6 @@ title: Home
 id: home
 permalink: /
 ---
-
 # Hi, I’m Connor.
 
 I’m a product leader in Chicago with a background in design and mobile. Today, I work at McDonald’s on industry-leading software used by millions of customers every day.
