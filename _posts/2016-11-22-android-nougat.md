@@ -4,7 +4,7 @@ date: 2016-11-22
 title: What’s new in Android Nougat
 ---
 
-![](assets/android-nougat.jpg)
+![](/assets/android-nougat.jpg)
 
 ## How we got here
 
@@ -52,7 +52,7 @@ The multi-window and multitasking features represent the maturation of Android a
 
 As Google's ongoing product strategy [[2016-10-11-google-pixel-unifies-android-ux|comes into focus]], it's apparent that the company sees Android as the platform that will support all of its divergent endeavors into virtual reality, laptop computers, wearables, televisions, and more. But as the company continues to make Android more and more sophisticated to support these new product categories, millions of Android users and developers—particularly those focused on tablets—will reap the collateral benefits of Google's projects.
 
-![](assets/android-nougat-notifications.jpg)
+![](/assets/android-nougat-notifications.jpg)
 
 ## Delivering smarter, more powerful interactive notifications on Android
 
@@ -92,7 +92,7 @@ Considering that messaging apps account for the majority of users' behavior on t
 
 In essence, these enhancements to the notification function on Android 7 indicate Google's embrace of the notifications trend mobile has seen over the past few years. With an increasing number of extension points across both the iOS and Android platforms—from [dynamic widgets](https://www.punchkick.com/blog/2016/09/27/widgets-in-ios-10-make-your-iphone-feel-more-like-an-apple-watch) and [wearable versions of an app](https://www.punchkick.com/blog/2016/10/18/how-to-build-more-useful-and-engaging-apple-watch-apps-with-watchos-3) to [extensions within system apps](https://www.punchkick.com/blog/2016/09/20/whats-new-for-maps-in-ios-10-and-why-marketers-should-care) and richer interactive notifications—there are fewer reasons than ever for a user to actually need to open an app. On a platform where ease of use and process efficiency are everything, this trend of app decentralization is a massive benefit to users and an enormous opportunity for Android developers.
 
-![Promotional image of a woman wearing an Android Daydream virtual reality headset, looking out at a stylized cartoon forest, holding a controller.](assets/android-daydream.png)
+![Promotional image of a woman wearing an Android Daydream virtual reality headset, looking out at a stylized cartoon forest, holding a controller.](/assets/android-daydream.png)
 
 ## Android becomes a virtual reality platform with Daydream
 
