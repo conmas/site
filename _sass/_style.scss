@@ -192,10 +192,15 @@ nav {
   }
 }
 
+#mastodon a {
+  padding: 5px 0 5px 0;
+}
+
 #mastodon a article {
+  color: var(--color-text);
   background-color: var(--color-inset);
   border-radius: $border-radius;
-  padding: 10px 0 10px 0;
+  margin: 0 1em 0 1em;
 }
 
 #mastodon a article h3 {
