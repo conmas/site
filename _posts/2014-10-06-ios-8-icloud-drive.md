@@ -1,4 +1,5 @@
 ---
+layout: post
 title: iCloud Drive demystifies backup
 date: 2014-10-06
 permalink: /ios-8-icloud-drive

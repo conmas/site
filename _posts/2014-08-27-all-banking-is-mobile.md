@@ -1,7 +1,7 @@
 ---
+layout: post
 date: 2014-08-27
 title: All banking is mobile banking
-layout: post
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Extensibility broadens the horizon for third-party apps
 date: 2014-10-07
 permalink: /ios-8-extensibility
