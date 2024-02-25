@@ -27,11 +27,11 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
-  line-height: 1.5;
+  line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: var(--text);
-  font-size: 0.9rem;
+  font-size: 1rem;
   max-width: 38em;
   @media (min-width: 820px) { font-size: 1.2rem; }
 }
@@ -44,7 +44,7 @@ time {
 
 .caption {
   color: var(--subtext);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: 1.5;
   padding: 0em 4vw 2em;
   text-align: center;
@@ -54,7 +54,7 @@ time {
 
 .footnotes, .toot-details {
   color: var(--subtext);
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 
