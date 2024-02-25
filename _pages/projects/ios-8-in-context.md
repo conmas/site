@@ -31,8 +31,6 @@ The truth is that, while the expert showmanship of previous WWDC keynotes has ca
 - [Swift](/ios-8-swift)
 - [Conclusion](#conclusion)
 
-{%}
-
 ## Conclusion
 
 When Apple introduced OS X Snow Leopard in 2009, Steve Jobs adopted a curious marketing strategy. The operating system loudly boasted zero new features, in stark contrast to the hundreds of minor redesigns and added functions in Leopard two years prior. What changes Snow Leopard did have, however, were as significant as they were invisible: the Finder was rewritten in Cocoa, Apple added OpenCL for better processor utilization, and smarter storage utilization gifted Mac users up to 11 gigabytes back on their hard drives. The story with Leopard was features, impressive effects with Dock reflectiveness and Time Machine’s animated galaxies that have long since been forgotten. But Snow Leopard reworked the very plumbing of OS X, and its impact is still felt in every subsequent release.
