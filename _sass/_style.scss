@@ -171,9 +171,9 @@ nav { margin: 1em 0 3em; }
   }
 }
 
-.toot { margin-bottom: 1em; }
-.toot-body p { margin-bottom: none; }
-.toot-details { margin-top: none; }
+.toot { padding-bottom: 1em; }
+.toot-body p { padding-bottom: none; }
+.toot-details { padding-top: none; }
 
 table { text-align: left; font-size: 0.75em; }
 th { margin-top: 5px !important; }
