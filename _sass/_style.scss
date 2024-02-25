@@ -184,9 +184,9 @@ table {
   font-size: 0.75em;
 }
 
-th { margin-top: 5px; }
-tr { border-top: 1px solid #444444; }
-td { margin-right: 5px; }
+th { margin-top: 5px !important; }
+tr { border-top: 1px solid #444444 !important; }
+td { margin-right: 5px !important; }
 
 .backlink-box {
   background: $color-box-background;
