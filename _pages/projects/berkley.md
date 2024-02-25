@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: post
 title: Berkley One
-permalink: /projects/berkley
+permalink: /berkley
 date: 2018-10-14
 tags:
   - Client

@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: post
 title: WolfCo
-permalink: /projects/wolfco
+permalink: /wolfco
 date: 2020-04-13
 tags:
   - Project

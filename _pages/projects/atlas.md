@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: post
 title: Atlas Financial
-permalink: /projects/atlas
+permalink: /atlas
 date: 2018-09-27
 tags:
   - Client
