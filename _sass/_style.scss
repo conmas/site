@@ -5,9 +5,8 @@
   --color-text: #100F0F;
   --color-subtext: #575653;
   --color-accent: #3AA99F;
+  --color-inset: #e7e4da;
 }
-
-$color-box-background: mix(var(--color-text)), var(--color-paper), 5%);
 
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
@@ -16,6 +15,7 @@ $color-box-background: mix(var(--color-text)), var(--color-paper), 5%);
     --color-text: #CECDC3;
     --color-subtext: #B7B5AC;
     --color-accent: #24837B;
+    --color-inset: #343331;
   }
 }
 
@@ -81,7 +81,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: $color-box-background;
+  background: var(--color-inset);
   border-radius: $border-radius;
   p {
     margin: 0;
