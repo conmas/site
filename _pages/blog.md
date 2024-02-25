@@ -12,7 +12,7 @@ I’m in the process of migrating old blog posts, articles, and ebooks from Medi
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" %}
   {% for post in recent_posts %}
 	<li>
-	  <span style="color:hsl(0, 0%, 50%)">{{ post.date | date: "%Y-%m" }} •</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+	  <span style="color:hsl(0, 0%, 50%);font-size:.8rem;padding-right:.25em;">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
 	</li>
   {% endfor %}
 </ul>

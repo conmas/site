@@ -27,11 +27,11 @@ body {
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
-  line-height: 1.7;
+  line-height: 1.5;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: var(--text);
-  font-size: 1rem;
+  font-size: 0.9rem;
   max-width: 38em;
   @media (min-width: 820px) { font-size: 1.2rem; }
 }
