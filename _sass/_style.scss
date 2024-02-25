@@ -65,7 +65,7 @@ time {
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: mix(var(--color-text), white, 80%);
+  color: var(--color-subtext);
   padding-top: 1em;
 }
 
@@ -166,7 +166,8 @@ a {
   text-decoration: none;
   color: var(--color-accent);
   &:hover {
-    background: #ebfffa;
+    color: var(--color-text);
+    background: var(--color-inset);
   }
 }
 
