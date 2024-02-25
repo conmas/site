@@ -2,6 +2,9 @@
 layout: post
 date: 2016-11-22
 title: What’s new in Android Nougat
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2016/11/22/designing-android-apps-to-fit-every-screen-and-half-screen
 ---
 
 ![](/assets/android-nougat.jpg)
@@ -139,8 +142,6 @@ With Android Nougat, Google has more stridently than ever set out to define Andr
 Whereas [Apple seems intent on developing independent operating systems](/2016/11/08/google-pixel-microsoft-surface) for each of its product lines, Google is confident that Android is versatile enough to power all of its initiatives in the coming decade. From Android Auto to Android Wear, Android TV to Daydream, the operating system has grown to encompass every element of what Google's promise of the future includes.
 
 For Android developers of all stripes, Google's bullishness on the platform is something of a dream come true. The same applications that offer great mobile user experiences can share code with ones that run on TVs, and cars, and watches, and VR headsets. As Android continues to evolve and define the user experience of more of Google's product lines, the opportunities for Android developers will only come into sharper focus. And until that point, Android developers can continue to prioritize mobile user experiences that work well together, while they might not be the same.
-
-> This post was originally published as a three-part series on [punchkick.com](https://www.punchkick.com/blog/2016/11/22/designing-android-apps-to-fit-every-screen-and-half-screen).
 
 [^1]: Before its ill-fated 7th iteration.
 [^2]: Which is admittedly silly given that most Android Wear devices have a screen smaller than two inches.

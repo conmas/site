@@ -3,6 +3,9 @@ layout: post
 title: Apple’s new design style in iOS 10 is a statement on accessibility
 permalink: /ios-10-a11y
 date: 2016-07-08
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility
 ---
 ![An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.](/assets/ios-10-apple-music-iphone-6s.jpeg)
 
@@ -54,5 +57,3 @@ With iOS 10, Apple recognizes that its commitment to some of its Human Interface
 Accessibility means more than being compliant with online guidelines and evaluating whether your app is compatible with screen reading technologies. It means rethinking core parts of your app's branding, personality, and navigation to ensure that it isn't alienating the users who rely on it. Following Apple's accessibility guidelines and using core technologies like UIKit can help solve many of these problems out of the box, but apps with customized interfaces will need more effort to optimize for accessibility.
 
 It’s a strategic direction that many interface designers and UX designers should incorporate into their applications. Apple is sure to revisit other apps in coming releases—including text-heavy apps like Phone, Calendar, Weather, and Reminders—and these tweaks will set a new tone for the operating system. If iOS apps of the future want to fit into the personality of iOS, they too should adopt this button-friendly and heavy-font–heavy style. If this is the case, it would seem that while future iPhones might be slimmer, future iPhone _apps_ will be a heck of a lot fatter.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility).

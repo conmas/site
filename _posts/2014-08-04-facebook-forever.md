@@ -3,6 +3,9 @@ layout: post
 title: Facebook forever
 permalink: /facebook-forever
 date: 2014-08-04
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience
 ---
 Until as recently as last year, Mark Zuckerberg thought of Facebook as a web company. Now, he says, mobile is the company’s “big focus” moving forward. In this series, we’ll examine Facebook’s strategic positioning to become a conglomeration of great mobile experiences, offer a wealth of features to displace competitors, and build a next-generation mobile platform designed to replace the web.
 
@@ -102,5 +105,3 @@ Technology, as an industry, will never stop evolving. Just as the market has piv
 Despite having yet to release a physical product beyond prototypes and development kits, Facebook acquired Oculus VR for $2 billion based on the promise of their Oculus Rift headset. Using binocular screens in a head-mounted enclosure, the system emulates three-dimensional environments and adds an immersive degree of realism to video games. But the future of virtual reality promises more—much more—and Facebook is keen to realize that potential. Just as the web browser is the vehicle that enabled the web, and as the capacitive touch screen gave life to smart phones, so too will Oculus Rift’s innovative binocular approach give rise to the next big industry of virtual reality apps and services. As the visor crawls toward productization, Facebook is doubtless hard at work finding ways to add virtual reality development and distribution tools to their Platform.
 
 Springboarding off of Facebook’s immense development resources and deep pockets, Oculus could spawn an entirely new ecosystem of virtual environments, all connected and curated by Facebook. The company imagines new generation of immersive games and virtual meeting places for users to share and communicate, all built on Facebook’s infrastructure and crafted using Facebook’s development tools. It’s a long play—and by no means a sure bet—but if virtual reality sees the widespread public adoption that pundits have long predicted it will, Facebook could see their user empire extend beyond the web or mobile and into a new frontier that could absorb them both. Virtual reality isn’t science fiction anymore—it’s a business plan.
-
-> This post was originally published as a [three](https://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience)-[part](https://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything) [series](https://www.punchkickinteractive.com/blog/2014/08/12/facebook-forever-a-mobile-and-wearable-platform-to-replace-the-web-part-iii) on punchkick.com.

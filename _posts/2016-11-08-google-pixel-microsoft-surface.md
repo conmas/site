@@ -2,6 +2,9 @@
 layout: post
 title: Pixel and Surface are turning the electronics industry on its head
 date: 2016-11-08
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2016/11/08/pixel-and-surface-are-turning-the-electronics-industry-on-its-head
 ---
 ![A photograph of someone using a Microsoft Surface device with a stylus in tablet orientation.](/assets/microsoft-surface-book.jpeg)
 
@@ -63,8 +66,6 @@ Just as the explosion of mobile upended the industry in the 2010s, trends are co
 > - Microsoft has taken the baton of hardware design innovation, while positioning itself not to miss the boat on the next big technology revolution like it did with mobile.
 
 As these trends continue to accelerate, and as new players like Facebook and Uber begin to make enormous strategic moves, the 2020s promise to be a more volatile and interesting time for technology than even the 2010s were.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/11/08/pixel-and-surface-are-turning-the-electronics-industry-on-its-head).
 
 [^1]: Among what are ostensibly five product families—iPhone, Mac, iPad, Apple Watch, and Apple TV—the company maintains four full operating systems (iOS, macOS, tvOS, and watchOS), five ARM–based chip families (not to mention Intel chips in Macs), six styles of anodized aluminum finishes (Space Gray, Black, Jet Black, Gold, Rose Gold, and Silver), and a family of 17 dongles to support its teeter-totter ambitions with Thunderbolt, Lightning, and USB-C. And we haven’t even mentioned iPod.
 [^2]: iPad and iPhone have the A-series chips, which have come to set the standard for mobile device performance and power efficiency. Apple took that team and introduced the M7 motion co-processor, the S1 and S2 for Apple Watch, and the W1 to power AirPods and Beats headphones. And with last week’s MacBook Pro introduction, the company introduced a Touch Bar that necessitates a new dedicated operating system based on watchOS and a brand-new ARM chipset called the T1.

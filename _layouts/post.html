@@ -22,4 +22,16 @@ layout: default
 	  {{ content }}
   </content>
   
+  <div class="attribution">
+    {% if page.attribution %}
+      {% if page.original_site and page.original_url %}
+        <p>This post was originally published on <a href="{{ page.original_url }}">{{ page.original_site }}</a>.</p>
+      {% elsif page.original_site %}
+        <p>This post was originally published on {{ page.original_site }}.</p>
+      {% else %}
+        <p>This post was originally published elsewhere.</p>
+      {% endif %}
+    {% endif %}
+  </div>
+  
 </article>

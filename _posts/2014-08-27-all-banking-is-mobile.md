@@ -2,6 +2,9 @@
 date: 2014-08-27
 title: All banking is mobile banking
 layout: post
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile
 ---
 ![](/assets/google-wallet-iphone.jpg)
 
@@ -28,5 +31,3 @@ But what about simplifying the transaction process further—what if transaction
 With other obstacles removed, some of the largest internet companies are exploring new ways to make the business of money even more transparent. [Google Wallet](http://www.google.com/wallet) offers straightforward payment options and even its own balance much like PayPal, but goes one step further—the app for Android leverages many devices’ built-in NFC chips to replace the need for a wallet altogether. By linking their credit cards or drawing from their Google Wallet account balances, users can make payments in thousands of stores with the touch of their smartphone to terminals that support [MasterCard PayPass](http://www.mastercard.us/paypass.html) or [Visa PayWave](http://usa.visa.com/personal/security/card-technology/visa-paywave.jsp) NFC technologies. Coupled with a free debit card available at each users’ request, Google Wallet members can use the service almost entirely in lieu of traditional banks, although a regular checking account would still be required for direct or check deposit.
 
 All of these new products seem to make the banking experience cleaner and simpler for a generation enamored with mobile but standoffish toward traditional banking institutions. Apps like [Level](https://levelmoney.com/) even aim to water the message down to a single number—here’s the amount you can spend today. But this move toward obviousness doesn’t exclude longstanding banks with complex account systems, but rather offers financial businesses a unique opportunity to reexamine their products for mobile and engage with fresh customers. Just as mobile check deposit and ATM finder maps became the price of entry for new banking apps, soon users will expect new ways to think about their money wrapped up in elegant, slimmed-down user experiences—and every bank will need to adopt a mobile strategy to remain relevant.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile).

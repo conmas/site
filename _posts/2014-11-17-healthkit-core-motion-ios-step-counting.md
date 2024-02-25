@@ -2,7 +2,12 @@
 date: 2014-11-17
 title: Comparing HealthKit &amp; Core Motion
 layout: post
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters
 ---
+
+> This post was co-written with [Sean Samocki](http://www.runningincode.com).
 
 ![](/assets/health-ios-8.png)
 
@@ -202,8 +207,6 @@ One interesting piece of information we found is that the less time a device has
 ## Conclusion
 
 HealthKit is a powerful framework, but may not always be the best choice in all scenarios. When tracking anything aside from steps, distance, or stairs, developers will need to use HealthKit. For measuring any of those three items from the M7 or M8 coprocessor, Core Motion is the optimal route—unless developers want to specifically use another data source, connect to a wearable device, or access data older than seven days. The processor will always be lightning quick compared to accessing the Health datastore. The performance of more complicated HealthKit queries can drastically change the performance of an application. This is critical for developers, who would never want this performance to effect the user experience. Steps is a unique health data type—it’s unlikely that anything else in HealthKit will come close to storing the same number of records. By understanding the performance differences and implications of HealthKit and Core Motion, developers can optimize their apps for the best and worst case scenarios to create the greatest experience for everyone.
-
-> This post was written in partnership with [Sean Samocki](http://www.runningincode.com) and originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters).
 
 [^1]: Unfortunately, the Health app and HealthKit API are not available on iPads quite yet. For this reason, there is no supported functionality to sync data across devices.
 [^2]: Query durations shown in seconds.

@@ -2,6 +2,9 @@
 layout: post
 title: Accessible design in modern app navigation
 date: 2017-01-17
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web
 ---
 
 ![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)
@@ -24,9 +27,7 @@ There are many paradigms and best practices for how mobile and web experiences t
 
 ![Image of an iPhone using Switch Control. The Home Screen is shown, with the App Store app selected, and an overlay for Switch Control shows options for refining selection and media controls.](https://support.apple.com//library/content/dam/edam/applecare/images/en_US/iOS/ios13-iphone-xs-settings-accessibility-switch-control-use-point-scanning-action-menu.jpg)
 
-> Switch Control allows iOS users to navigate apps and the whole operating system through a Bluetooth-connected switch. 
-> 
-> Source: [Apple](https://support.apple.com/en-us/HT201370)
+> Switch Control allows iOS users to navigate apps and the whole operating system through a Bluetooth-connected switch. Source: [Apple](https://support.apple.com/en-us/HT201370)
 
 For navigation, it's essential that the app's many feature areas are as accessible as possible. In most cases, this needs making them visible the moment the user opens the app, potentially in a tab bar at the bottom of the screen. Google's Material Design best practices even recently adopted the bottom tab bar as a recommended navigation option, shifting away from its previous stance of hamburger menus.
 
@@ -39,5 +40,3 @@ Considering the unique needs of mobile users with disabilities can have a halo e
 > Accessible design delivers benefits for all users—disabled or not—by making the app easier to understand and simpler to use.
 
 There are many areas of accessible design that need to be reevaluated for the unique needs and considerations of modern mobile users. However, whether for compliance with federal regulations or for the betterment of all audience members, employing accessible design in mobile app design and development is a surefire way to make your app more usable and more fundamental to your users' lives.
-
-> This blog post was originally published on [punchkick.com](https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web).

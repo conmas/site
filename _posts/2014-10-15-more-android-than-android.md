@@ -3,6 +3,9 @@ layout: post
 title: More Android than Android
 permalink: /more-android-than-android
 date: 2014-10-15
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/10/17/more-android-than-android-nexus-player-targets-the-living-room
 ---
 ![](/assets/nexus-6.jpg)
 
@@ -105,5 +108,3 @@ Alongside the company’s new Nexus 6 and Nexus 9, and to coincide with the laun
 The Nexus Player borrows voice search capabilities from Amazon’s  Fire TV and offers a standalone video game controller for separate purchase, powering a fledgling ecosystem of Android-based console games. Coupled with playhead synchronization features to allow viewers to pick up where they left off on any of their connected Android devices, the Nexus Player occupies a desperately needed middle ground to pull Google’s media offerings closer together.
 
 There’s no telling whether Nexus Player will see the widespread success of Chromecast or follow in the footsteps of its Google TV predecessors, but the new iteration fills a blind spot for Google Play’s up-and-coming media empire. As viewers’ expectations of streaming products and content availability continue to evolve, Nexus Player’s inclusion of quick voice search features and Android integrations could place it ahead of the pack. An interesting strategic decision means Google Cast works across mobile platforms, preventing the kind of OS lock-in that AirPlay brings to iOS. This means that any smartphone user, Android and iOS alike, could pick up a Nexus Player and begin exploring—now it’s up to Google Play to make them want to.
-
-> This post was originally published as a three-part series on [punchkick.com](https://www.punchkick.com/blog/2014/10/17/more-android-than-android-nexus-player-targets-the-living-room).

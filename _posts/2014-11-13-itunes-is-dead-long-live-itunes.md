@@ -2,6 +2,9 @@
 layout: post
 title: iTunes is dead, long live iTunes
 date: 2014-11-13
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music
 ---
 
 ![](/assets/itunes-store.png)
@@ -39,5 +42,3 @@ Earlier this year, when Apple moved to acquire Beats Electronics—makers of pri
 Beats Music maintains its identity separate from Apple, despite new versions for Apple TV and the inclusion among Apple-made apps on the iOS App Store. However, both rumors and common sense dictate that the Beats Music brand is on its way out, and that Apple will find better use for its technologies. The brands are eminently compatible: Beats’s music recommendation engine is reminiscent of iTunes Genius, which algorithmically determined complementary songs and arranged them into playlists. Both Beats chief Jimmy Iovine and Apple cloud services head Eddy Cue are legendary for their contract negotiation skills. And iTunes already boasts a high-visibility iTunes Radio brand, which could be expanded to accommodate Beats’s increased functionality. In fact, the speculation about Beats Music’s future might come to an end very, very soon.
 
 In August, Beats Music CEO Ian Rogers inherited responsibility for the ad-supported iTunes Radio product, bringing the two streaming products closer together. Despite Apple representatives’ assurances that Beats Music is not being discontinued, clarity around its future as a standalone, independent service is hard to come by. It seems most likely that Beats will live on as a tangentially related iTunes variant, and will someday become entirely incorporated into iTunes Radio. The degree of cohesion is in question, but the intention is not: Apple believes Beats Music represents its best chance to bolster iTunes against Spotify and others, and will do whatever it takes to bring the service to as many iOS customers as possible. Someday, the house that Dr. Dre built might shelter more than colorful headphones—it might be the foundation for a new, improved, and updated iTunes.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music).

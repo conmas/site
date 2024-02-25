@@ -2,6 +2,9 @@
 layout: post
 title: Apple TV invites Siri and the App Store to movie night
 date: 2015-09-10
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night
 ---
 ![](/assets/apple-tvos.png)
 
@@ -63,8 +66,6 @@ But it’s not even just games—nearly any app that could have a living room co
 tvOS is bigger than watchOS in that it’s not a simple extension of the existing iOS platform. While developers have certain efficiencies that will allow them to develop universal iOS and tvOS applications, unlike on watchOS, users don’t have to download apps to their iPhone in order to use them on Apple TV. tvOS is a wholly independent platform that can attract users outside of Apple’s existing ecosystem, meaning the market opportunity for Apple TV in the living room isn’t tied to any of Apple’s existing successes.
 
 When Apple debuted the first App Store with iPhone OS 2.0 in 2008, the opportunity for developers was obvious, but its eventual world-changing implications weren’t yet clear. With tvOS, the potential to reinvent how customers entertain themselves in the living room is clear. What remains to be seen is how else the new Apple TV can reshape our homes, and third-party developers are an integral part of that equation.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night).
 
 [^1]: The “hobby” quote in question was in 2007, pre-dating the first iPad.
 [^2]: And not just because they’re in violation of Apple’s own tvOS Human Interface Guidelines, which stipulate that app icons not include text unless necessary as part of a logo. But I digress.

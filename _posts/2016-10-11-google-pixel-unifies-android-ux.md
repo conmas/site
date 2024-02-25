@@ -2,6 +2,9 @@
 layout: post
 title: Google unifies Android user experience with Pixel
 date: 2016-10-11
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience
 ---
 ![Photograph of a person using Google Assistant on an Android phone to check traffic on their route to work.](/assets/google-assistant-pixel.jpeg)
 
@@ -30,5 +33,3 @@ Beyond Pixel and its Daydream View VR headset, Google has begun organizing its h
 Apple has long been a company that differentiates itself by seamlessly integrating hardware and software, versus giants like 1990s Microsoft who licensed Windows to OEMs building Intel-powered PCs, or Google in the 2000s open-sourcing Android for smartphone vendors. But now Google seems intent on offering the same degree of cohesion across Android and Chrome product families, and seeks to deliver a consistent user experience across Android- and Google-powered hardware offerings.
 
 Pixel may not be an overnight success—it’s exceedingly difficult for even the steward of Android to transform the highly competitive Android smartphone market. But in the future, thanks to Google’s forward-leaning new hardware, its aggressive Nougat upgrade plans, and its standardization of specifications with programs like Daydream, Android app developers might enjoy a level of UX consistency and predictability previously unheard of on the platform. If Google’s new product families are as successful as they aspire to be, we might all get used to another “Designed by Someone in California.” 
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience).

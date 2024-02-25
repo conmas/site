@@ -3,6 +3,9 @@ layout: post
 title: Android everywhere
 permalink: /android-everywhere
 date: 2014-11-11
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/11/11/android-everywhere-material-design-wipes-the-slate-clean
 ---
 ![A colorful grid of lifestyle imagery representing the Material Design aesthetic. Images include children playing on the beach, stylized illustrations of airplanes and landscapes, and photographs of the Golden Gate Bridge and New York City skyline.](/assets/android-material-design-lifestyle-imagery.jpeg)
 
@@ -183,5 +186,3 @@ But Lollipop doesn’t stop there. In tune with Google’s intent to take comman
 With Play Auto Installs, Lollipop devices identify during setup whether a carrier SIM card is installed, and immediately begins downloading the carrier’s required applications from the Google Play Store. Because these apps aren’t preinstalled on the Android devices directly, and because their installations are now managed by the Google Play Store, users can opt to uninstall them at any time. Google is still allowing carriers a degree of automatic customization for their subscribers’ Android devices, but also offering users an escape hatch: if they want a stock Android experience, they can make one for themselves.
 
 Lollipop is the manifestation of Google’s intention for the long-term direction and viability of its most valuable platform. By offering a gorgeous new interface design and user-focused new features, the search giant is investing in attractive platform qualities that will attract users to the cutting edge of version updates. And, by creating a demand for up-to-the-minute over-the-air updates and interface proximity to Material Design, Google is also encouraging manufacturers to create Android experiences that more closely match its prescriptions—both in terms of design and long-term version support. Lollipop is Google’s strongest case yet for users and Android partners to get up to speed with the latest iterations of the platform. But its beauty and thoughtfulness are more than skin-deep.
-
-> This post was originally published as a three-part series on [punchkick.com](https://www.punchkick.com/blog/2014/11/11/android-everywhere-material-design-wipes-the-slate-clean).

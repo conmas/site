@@ -2,6 +2,9 @@
 layout: post
 title: Apple Music’s design is broken
 date: 2015-08-17
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it
 ---
 
 ![](/assets/apple-music-devices.jpeg)
@@ -82,5 +85,3 @@ As Apple Music evolves and iTunes services are transformed to fall in line with 
 > Despite its early challenges, Apple Music is here to stay, and promises to serve as Apple’s media platform for the next decade.
 
 Despite any UX considerations to be made in future releases, Apple Music is already off to a runaway start, with 11 million subscribers already opted into the service after less than two months. iTunes has been Apple’s media backbone for over a decade, and has already begun passing the baton to Apple Music. All that remains is a television streaming service to complete Apple’s streaming transition.
-
-> This post was originally published on [punchkick.com](https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it).
