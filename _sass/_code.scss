@@ -2,11 +2,15 @@
   background: var(--bg-2);
   padding: 1px 1em;
   border-radius: 3px;
-  font-size: .75em;
-  font-size: 0.9em;
   overflow: auto;
   margin: 1em -1em;
   code { padding: 0; }
+}
+
+code {
+  font-size: 0.9em;
+  font-family: ui-monospace !important;
+  background-color: var(--bg-2);
 }
 
 div.highlight { display: grid; }
