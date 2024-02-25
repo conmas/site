@@ -1,6 +1,19 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 30%);
-$color-subtext: hsl(0, 0%, 50%);
-$color-border: hsl(0, 0%, 85%);
-$color-accent: #3AA99F;
-$color-box-background: mix($color-primary, white, 4%);
+/* Default (light mode) colors */
+:root {
+  --color-primary: hsl(0, 0%, 10%);
+  --color-text: #100F0F;
+  --color-subtext: #575653;
+  --color-accent: #3AA99F;
+  --color-paper: #FFFCF0;
+}
+
+/* Dark mode colors */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-primary: hsl(0, 0%, 90%);
+    --color-text: #CECDC3;
+    --color-subtext: #B7B5AC;
+    --color-accent: #24837B;
+    --color-paper: #100F0F;
+  }
+}

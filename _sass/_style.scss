@@ -13,6 +13,7 @@ body {
   color: $color-text;
   font-size: 1rem;
   max-width: 38em;
+  background: $color-paper;
 
   @media (min-width: 820px) {
     font-size: 1.2rem;
@@ -142,18 +143,12 @@ content {
 
 a {
   transition: background 300ms;
-  padding: 0 0.1em;
   text-decoration: none;
   color: $color-accent;
   &:hover {
-    color: black !important;
+    color: $color-primary !important;
     background: #ebfffa;
   }
-}
-
-*:focus {
-  background: #ffe8bc !important;
-  color: black !important;
 }
 
 nav {
@@ -181,12 +176,6 @@ table {
 th { margin-top: 5px !important; }
 tr { border-top: 1px solid #444444 !important; }
 td { margin-right: 5px !important; }
-
-.backlink-box {
-  background: $color-box-background;
-  padding: 1em;
-  border-radius: $border-radius;
-}
 
 .invalid-link {
   color: #444444;
