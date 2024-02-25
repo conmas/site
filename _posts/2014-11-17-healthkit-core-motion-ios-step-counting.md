@@ -1,6 +1,6 @@
 ---
 date: 2014-11-17
-title: Comparing HealthKit & Core Motion
+title: Comparing HealthKit &amp; Core Motion
 layout: post
 ---
 
@@ -39,7 +39,7 @@ One query is a simple data range, where developers specify a start and stop time
 Core Motion also allows apps to observe steps as the user is walking down the street. If the user moves a few steps, apps will be notified of the update and can update the UI accordingly.
 
 <div class="highlight"><pre class="highlight"><code><span class="kd">(void)</span> <span class="nf">startPedometerUpdatesFromDate</span>:<span class="nc">NSDate</span> *)<span class="nv">start</span>
-<span class="nf">withHandler</span>:(<span class="nc">CMPedometerHandler</span>)<span class="nv">handler</span>;
+                         <span class="nf">withHandler</span>:(<span class="nc">CMPedometerHandler</span>)<span class="nv">handler</span>;
 </code></pre></div>
 
 There also is a complementary method developers should call to signify when they wish to stop receiving updates.
@@ -49,10 +49,10 @@ There also is a complementary method developers should call to signify when they
 HealthKit provides parallel methods that do nearly the same thing as Core Motion, plus a few extra features. With HealthKit, developers can create a statistics query where they provide a time range, but they also must include one or more health data types. For these examples, we’ll be sticking with steps, but developers have the option to provide any of the 60-plus health data types referenced above. You can also specify the source of a HealthKit query if you want to specifically retrieve data from specific hardware or applications, like the M7 or M8, a Jawbone Up, and more. More information on a HKStatisticsQuery can be found in [Apple’s developer library](https://developer.apple.com/Library/ios/documentation/HealthKit/Reference/HKStatisticsQuery_Class/index.html).  
 
 <div class="highlight"><pre class="highlight"><code><span class="kd">(instancetype)</span><span class="nf">initWithQuantityType</span>:<span class="nc">HKQuantityType</span> *)<span class="nv">quantityType</span>
-            <span class="nf">quantitySamplePredicate</span>:<span class="nc">NSPredicate</span> *)<span class="nv">quantitySamplePredicate</span>
-                            <span class="nf">options</span>:(<span class="nc">HKStatisticsOptions</span>)<span class="nv">options</span>
-                         <span class="nf">anchorDate</span>:<span class="nc">NSDate</span> *)<span class="nv">anchorDate</span>
-                 <span class="nf">intervalComponents</span>:<span class="nc">NSDateComponents</span> *)<span class="nv">intervalComponents</span>;
+           <span class="nf">quantitySamplePredicate</span>:<span class="nc">NSPredicate</span> *)<span class="nv">quantitySamplePredicate</span>
+                           <span class="nf">options</span>:(<span class="nc">HKStatisticsOptions</span>)<span class="nv">options</span>
+                        <span class="nf">anchorDate</span>:<span class="nc">NSDate</span> *)<span class="nv">anchorDate</span>
+                <span class="nf">intervalComponents</span>:<span class="nc">NSDateComponents</span> *)<span class="nv">intervalComponents</span>;
 </code></pre></div>
 
 HealthKit provides an observer query, which is similar to Core Motion’s method of counting steps as the user is moving while actively using your application. HealthKit also features some advanced querying abilities that Core Motion doesn’t include. One is a Collection Query—rather than providing one statistic for a given time range, collection queries allow for interval components which specify a segment of time to split results. For example, if a developer creates a Collection Query for the past 24 hours in intervals of 30 minutes, they’ll receive a collection object with 48 data points, each containing the step counts within each 30-minute interval of the day. This is very useful to show users when they are most active during the day. Core Motion doesn’t natively include this functionality, but it can be implemented by making multiple calls to the Pedometer with incremental time ranges.
