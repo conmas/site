@@ -88,7 +88,7 @@ time {
 }
 
 #site-title {
-  color: var(--text) !important;
+  color: var(--tx) !important;
 }
 
 footer {
@@ -121,7 +121,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: var(--tx-3);
+  background: var(--ui);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -183,7 +183,7 @@ a {
   color: var(--cy);
   &:hover {
     color: var(--tx);
-    background: var(--bg-2);
+    background: var(--ui-2);
   }
 }
 
