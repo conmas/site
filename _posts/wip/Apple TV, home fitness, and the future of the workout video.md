@@ -2,7 +2,7 @@ The fourth-generation Apple TV, and its overhauled operating system tvOS, presen
 
 However, there are certain types of apps that are as relevant in a television context as they are in a mobile context—if not more so. Because of a user’s unique expectations for the types of [activities they’ll do at home](https://www.punchkick.com/blog/2015/10/05/what-the-new-apple-tv-and-tvos-mean-for-the-future-of-art), versus the kinds of tasks they’ll accomplish through a mobile app, developers can build applications that solve problems or simplify tasks that users only consider when they’re in their home.
 
-Specifically, an outlet for brands to make a positive impact is in the realm of home health and fitness. Most people work out in their homes, rather than at the gym, and a pocket industry of instructional workout content has sprung up to support this interest. With [the new capabilities of Apple TV](https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night), brands have an opportunity to make these at-home fitness experiences more connected and personalized than ever before.
+Specifically, an outlet for brands to make a positive impact is in the realm of home health and fitness. Most people work out in their homes, rather than at the gym, and a pocket industry of instructional workout content has sprung up to support this interest. With [the new capabilities of Apple TV](/2015/09/10/apple-tv-siri-app-store/), brands have an opportunity to make these at-home fitness experiences more connected and personalized than ever before.
 
 ### An Apple TV a day keeps the doctor away
 
@@ -14,7 +14,7 @@ Recipe management applications have become massively popular for iPad, as the de
 
 The symbiosis of Apple TV with the broader iOS ecosystem makes the device uniquely qualified to solve this problem for cooking aficionados. Stream cooking shows or clips on demand through Apple TV. Tag the ones you want to save for later. Pick up where you left off on iPad or iPhone, with step-by-step recipes or supporting video content unique to that form factor.
 
-Further, [the interactive nature of Apple TV](https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night) allows users to drill further into the content than they ever have before, and uncover new experiences that live at the intersection of content and interactivity. This is a trend that extends through all tvOS apps—offer a way to go deeper than streaming video, and the TV transcends the usefulness of an iPad and becomes a uniquely useful device in its own right.
+Further, [the interactive nature of Apple TV](/2015/09/10/apple-tv-siri-app-store/) allows users to drill further into the content than they ever have before, and uncover new experiences that live at the intersection of content and interactivity. This is a trend that extends through all tvOS apps—offer a way to go deeper than streaming video, and the TV transcends the usefulness of an iPad and becomes a uniquely useful device in its own right.
 
 > The best tvOS apps transcend what’s possible on iOS devices.
 

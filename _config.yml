@@ -1,7 +1,7 @@
 title:               Connor Mason
 include:             ['_pages']
 exclude:             
-baseurl:             ''
+baseurl:             'connormason.me'
 
 use_html_extension:  false
 open_external_links_in_new_tab: true

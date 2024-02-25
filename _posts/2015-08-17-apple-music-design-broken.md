@@ -3,9 +3,10 @@ layout: post
 title: Apple Music’s design is broken
 date: 2015-08-17
 ---
+
 ![](/assets/apple-music-devices.jpeg)
 
-Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
+Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](/2014/11/13/itunes-is-dead-long-live-itunes) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
 But the service and its apps—the refreshed Music app on iOS and iTunes on desktop–have garnered negative attention for their confusing layouts and bloated feature sets. In the weeks since its June 30 debut, Apple has already begun tweaking how Apple Music works to address some of the major issues, with iOS 9 beta builds and iTunes 12.2.2 already introducing some adjustments. 
 
@@ -19,7 +20,7 @@ When users first open the Music app after updating to iOS 8.4, they are immediat
 
 One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its onboarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
 
-![][https://vimeo.com/132839044]
+![Vimeo](https://vimeo.com/132839044)
 
 These selections inform all the customized content and recommendations that follow, but represent the strongest and, frankly, only component of Apple Music’s onboarding process. Users are dumped into an interface that does little to explain itself beyond a notification that appears if they select the heart button on a track, album, or playlist. 
 

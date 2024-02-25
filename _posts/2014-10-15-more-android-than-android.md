@@ -15,8 +15,6 @@ The Nexus One was followed in December 2010 by the Samsung-built Nexus S, which 
 
 The Nexus devices have always served as a product showcase for Google, boasting a stock Android interface free from manufacturer modification or developer augmentation. The design, feature set, and core user experience on Nexus devices are all as Google intended, drawing the admiration and devotion of many Android fans. Nexus devices have historically been first to take advantage of fresh Android capabilities, like Android Beam for proximity-aware sharing and Google Wallet NFC payment integration. No product more accurately represents Google’s mobile vision and its intentions for the future of Android, than the Nexus line—and no Android product more consistently raises the bar of quality for third-party Android manufacturers to strive for.
 
-https://www.youtube.com/watch?v=wk-PY2dBKaA
-
 ### Nexus 6
 
 This morning, Google released a brief blog post announcing the introduction of three new Nexus devices and its latest version of Android, revealed at long last to be called Lollipop. Among the new products was the company’s new Nexus 6 handset, which replaced the longstanding Nexus 5 as Google’s vision for the purest Android mobile experience. Launching a [flashy website](http://www.google.com/nexus/6/) to showcase the new product, Google boasts its massive new offering as having “more room to explore.”
@@ -34,6 +32,7 @@ Most exciting is Nexus 6’s “turbo charge” feature, leveraging faster batte
 The Nexus 6 signifies the formalization of Android’s “phablet” trend, as the platform’s steward itself embraces the increasingly popular form factor beyond 5 inches. The device’s size also positions Google interestingly versus Apple’s iPhone 6 Plus, extending a full half inch beyond what many iOS users already considered an enormous growth spurt. Google forecasts availability later this month, and the Nexus 6 will be offered from a variety of carrier partners, much like its predecessors, on the Google Play Store. Stay tuned for more updates on Google’s huge announcements, and for more analysis on the impact of Android Lollipop as the platform matures.
 
 ![](/assets/nexus-9-on-table.jpeg)
+
 ## Countering the iPad
 
 After Apple introduced its iPad in 2010, many Android manufacturers began building tablets for Google’s platform to match it. Motorola released its ill-fated Xoom, Samsung pumped out early iterations of its still-thriving Galaxy Tab lineup, and even Amazon threw its hat into the ring with a forked version of Android running on its Kindle Fire. These attempts were wide-ranging and scattershot in their quality—manufacturers repurposed OS interface elements intended for 4 or 5 inches and stretched them to accommodate ever-expanding 10-inch displays. Google had to rein in the Android experience on tablets, and it took a cue from its early efforts with Nexus smartphones to do it.
@@ -59,6 +58,7 @@ Google went all-in on the Nexus 9 tablet, replacing both its popular Nexus 7 and
 Going into tomorrow’s [iPad announcements](http://www.punchkickinteractive.com/blog/2014/10/09/what-to-expect-at-apples-october-16-ipad-event) from Cupertino, Google has positioned itself strongly with an Android tablet experience that takes full advantage of the company’s evolving Lollipop ecosystem. As the search giant’s mobile operating system matures, and as Android hardware partners continue to iterate their tablet offerings, the Nexus 9 offers the best glimpse yet into Google’s vision for Android on a slate form factor. It remains to be seen if the public will embrace Google’s 9 as they did the 7, but their choices are clear: if you don’t want an iPad, there’s simply no purer Android experience out there.
 
 ![](/assets/nexus-player.jpeg)
+
 ## Targeting the living room
 
 Beyond the smartphone, the average American customer interacts with a number of different screens over the course of their daily lives. They review documents and websites on their laptops, browse the web and play games on their tablets, and perhaps check notifications or health stats on their wearable devices. But no single screen has captured the populace’s attention like the one we replace least often: televisions. The TV has long been the primary avenue for culture distribution, unrivaled for decades until the advent of the internet. No two mediums have so completely dominated how customers receive their news, consume their favorite content, and interact with the cultural zeitgeist. For that reason, it should come as no surprise that major technology companies have begun developing products at the intersection of television and the web, with mixed results.
@@ -70,6 +70,7 @@ Devices to assist with this new viewership model have been slow to market, but a
 In 2014, the living room is an increasingly crowded technology sector. Roku has launched a half-dozen variants of its streaming boxes and gaming consoles like Xbox One and PlayStation 4 feature streaming video capabilities of their own. Televisions themselves even include some apps built in, with Samsung’s SmartTV offerings and LG’s repurposed webOS software leading the charge on televisions. But Google has yet to land a real hit in the set-top market, despite numerous attempts. Android TV and Nexus Player are its surest bet yet to capture the living room and capitalize on America’s true pastime.
 
 ![Google Nexus Q](/assets/nexus-q.jpg)
+
 ### Jumping the shark
 
 In 2010, Google unveiled their first take on what the future of entertainment boxes could look like. [Google TV](http://www.google.com/tv/) was a smart TV platform that could come preinstalled on partners’ televisions or operate from one of many connected set-top boxes. The software borrowed features from both Chrome and Android to offer unique apps, Google search, and web browsing on the big screen. Then–Google CEO Eric Schmidt promised widespread adoption by 2011, but the company’s plans failed to pan out: even goofy ad spots starring Kevin Bacon couldn’t help Google’s convoluted software catch on with consumers.
@@ -93,6 +94,7 @@ Earlier in 2014, Amazon expanded their growing Fire line of products to include 
 Google’s current initiatives weren’t cutting it. The Chromecast allowed for Google Cast streaming of web content and mirroring of Chrome tabs, but didn’t have an interface of its own. Users couldn’t sit on the couch and simply use a Chromecast to explore media or stream movies. Alongside broad-ranging Android ecosystem announcements at this year’s Google I/O conference, Google introduced a new platform for televisions called Android TV. The software allowed users to browse and stream movies and TV shows from the Google Play Store, and actually ran Android applications on televisions—a pain point for the streaming hub Chromecast. Android TV launched with a development hardware box called the ADT-1, which would allow Android developers to begin adding support for Android TV to their apps. It represented the next generation of Google television products in their infancy—but it didn’t take long for Android TV to grow up.
 
 ![](/assets/nexus-player-console.jpeg)
+
 ### A series premiere
 
 Alongside the company’s new Nexus 6 and Nexus 9, and to coincide with the launch of its long-awaited Android 5.0 Lollipop operating system, Google introduced the world’s first streaming set-top box running Android TV. Called the Nexus Player, the circular puck inherited industrial design cues from the Nexus Q and will retail for $99, in the range of Apple TV and Fire TV competitors. The Player is compatible with Lollipop devices and was designed to support existing Google Cast capabilities from Android apps and Chrome extensions, meaning early adopters could instantly begin streaming content from their existing devices.
