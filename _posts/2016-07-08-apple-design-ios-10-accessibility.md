@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Apple’s new design style in iOS 10 is a statement on accessibility
+permalink: /ios-10-a11y
 date: 2016-07-08
 ---
 ![An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.](/assets/ios-10-apple-music-iphone-6s.jpeg)

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: More Android than Android
+permalink: /more-android-than-android
 date: 2014-10-15
 ---
 ![](/assets/nexus-6.jpg)
 
-## Android's new poster child
+## Android's new poster child {#nexus-6}
 
 As Google began refocusing its software development efforts toward mobile, the search giant became increasingly invested in its Android operating system as a counterpoint to Apple’s meteoric iOS. Google worked hard to challenge Apple’s mobile operating system and innovate with exciting new features, to the point that many began to perceive Android as equal to, if not better than, iOS in terms of power and capability. But operating systems were only one mobile battleground—how could Google build hardware to beat the iPhone?
 
@@ -33,7 +34,7 @@ The Nexus 6 signifies the formalization of Android’s “phablet” trend, as t
 
 ![](/assets/nexus-9-on-table.jpeg)
 
-## Countering the iPad
+## Countering the iPad {#nexus-9}
 
 After Apple introduced its iPad in 2010, many Android manufacturers began building tablets for Google’s platform to match it. Motorola released its ill-fated Xoom, Samsung pumped out early iterations of its still-thriving Galaxy Tab lineup, and even Amazon threw its hat into the ring with a forked version of Android running on its Kindle Fire. These attempts were wide-ranging and scattershot in their quality—manufacturers repurposed OS interface elements intended for 4 or 5 inches and stretched them to accommodate ever-expanding 10-inch displays. Google had to rein in the Android experience on tablets, and it took a cue from its early efforts with Nexus smartphones to do it.
 
@@ -59,7 +60,7 @@ Going into tomorrow’s [iPad announcements](http://www.punchkickinteractive.com
 
 ![](/assets/nexus-player.jpeg)
 
-## Targeting the living room
+## Targeting the living room {#nexus-player}
 
 Beyond the smartphone, the average American customer interacts with a number of different screens over the course of their daily lives. They review documents and websites on their laptops, browse the web and play games on their tablets, and perhaps check notifications or health stats on their wearable devices. But no single screen has captured the populace’s attention like the one we replace least often: televisions. The TV has long been the primary avenue for culture distribution, unrivaled for decades until the advent of the internet. No two mediums have so completely dominated how customers receive their news, consume their favorite content, and interact with the cultural zeitgeist. For that reason, it should come as no surprise that major technology companies have begun developing products at the intersection of television and the web, with mixed results.
 

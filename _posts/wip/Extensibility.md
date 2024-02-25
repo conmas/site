@@ -1,4 +1,9 @@
-# iOS 8 in context: Extensibility broadens the horizon for third-party apps
+---
+title: Extensibility broadens the horizon for third-party apps
+date: 2014-10-07
+tags: 
+	- iOS-8-in-context
+---
 
 In previous years, Apple’s keynote at its annual Worldwide Developers Conference has been the platform for the introduction of consumer-facing products and features, including the iPhone 4 in 2010 and iOS 7 in 2013. But this year’s conference was different—the final third of Apple’s presentation addressed almost zero consumer features. Instead, Cook and his team fulfilled thousands of developers’ wish lists to the sound of thunderous applause. While non-developers might have been itching for a glimpse of this fall’s anticipated new iPhones, little did they know that these additions to iOS will have a greater impact on their everyday lives than any flashy new hardware or buzz-worthy new feature.
 

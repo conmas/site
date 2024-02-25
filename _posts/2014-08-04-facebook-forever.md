@@ -1,13 +1,18 @@
 ---
 layout: post
 title: Facebook forever
+permalink: /facebook-forever
 date: 2014-08-04
 ---
 Until as recently as last year, Mark Zuckerberg thought of Facebook as a web company. Now, he says, mobile is the company’s “big focus” moving forward. In this series, we’ll examine Facebook’s strategic positioning to become a conglomeration of great mobile experiences, offer a wealth of features to displace competitors, and build a next-generation mobile platform designed to replace the web.
 
+- [Assimilating every great mobile experience](#assimilating-mobile)
+- [Growing mobile features to include everything](#growing-mobile)
+- [A wearable platform to replace the web](#wearable-platform)
+
 ![An image of Facebook CEO Mark Zuckerberg presenting at a conference, with a large visualization of the Facebook social graph behind him.](/assets/zuckerberg-facebook-social-graph.jpg)
 
-## Assimilating every great mobile experience 
+## Assimilating every great mobile experience {#assimilating-mobile}
 
 In 2008, Facebook released the first version of their iOS app to coincide with the launch of the App Store. The app’s interface was built to match the glossy buttons of iOS (then called iPhone OS) 2.0, but featured clunky web views of the News Feed and spotty performance issues as a result. Facebook has reinvented their flagship app some half-dozen times in the years since then, but recently the company has begun concentrating their efforts on a new mobile strategy: conglomeration.
 
@@ -37,7 +42,7 @@ Facebook wants to have as large of a presence on your smartphone’s home screen
 
 ![A stylized photograph of Mark Zuckerberg holding a microphone and speaking.](/assets/zuckerberg-microphone.jpg)
 
-## Growing mobile features to include everything
+## Growing mobile features to include everything {#growing-mobile}
 
 Like many mobile giants, Facebook wants to be an integral part of as many of your mobile experiences as possible. They’re looking to increase their presence on your phone not only through strategic acquisitions and conglomeration, but also by reducing the number of apps you need to accomplish any task. Facebook is looking to increase the functionality and usefulness of their mobile offerings so that users will need fewer and fewer icons on their home screens—and the remaining icons are made by Facebook.
 
@@ -69,7 +74,7 @@ Messenger is a prime example of Facebook’s aim to displace core functions of y
 
 As Facebook splices up its mobile offerings into more and more single-purpose or targeted apps, it becomes increasingly easy to replace many of your smartphone’s functions with complementary Facebook solutions. When everything you want to do can be done with a Facebook app or service, the company is closer to achieving their goal of building their own cohesive mobile platform. In part 3, we’ll examine the building blocks of Facebook’s next chapter—a mobile and wearable platform that could replace the web altogether.
 
-## A wearable platform to replace the web
+## A wearable platform to replace the web {#wearable-platform}
 
 In just over a decade, Facebook has grown its user base to unimaginable heights and has built an empire that dominates the web. As the company has begun to set its sights on mobile in recent years, it has also started considering what comes next—and making tactical plays to ensure its future success. Going beyond [strategic acquisitions](http://www.punchkickinteractive.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience) and [the addition of competitive features](http://www.punchkickinteractive.com/blog/2014/08/06/facebook-forever-part-2-growing-mobile-features-to-include-everything), Facebook has been laying the foundation for a mobile and wearable platform that will outlast the web, and perhaps guarantee the company’s continued dominance for the next decade.
 
@@ -79,7 +84,7 @@ Facebook’s plan for the future started [in 2007 with the launch of Facebook Pl
 
 ![Image showing a person holding an iPhone running the Lyft mobile app, with a “Login with Facebook” button prominently featured.](/assets/facebook-login-lyft.png)
 
-From their unique established position, Facebook has sought to become the de facto solution for a persistent identity online. Just as many services require an email address, and many others have adhered to the [OpenID](http://en.wikipedia.org/wiki/OpenID) authentication protocol in the past, Facebook wants to centralize and standardize users’ disparate login information across the web and mobile. In fact, the company announced at their [semi-annual developer conference F8](https://fbf8.com/) the addition of [Anonymous Login](http://www.punchkickinteractive.com/blog/2014/04/30/facebooks-f8-conference-announces-new-login-experience-and-graph-api-2-0) to the Facebook Connect API, allowing users to sign into apps with their Facebook accounts without sharing any of their data with those apps. Sharing data isn’t the most important aspect of Facebook’s login button—it’s the convenience and pervasiveness of the button itself.
+From their unique established position, Facebook has sought to become the de facto solution for a persistent identity online. Just as many services require an email address, and many others have adhered to the [OpenID](http://en.wikipedia.org/wiki/OpenID) authentication protocol in the past, Facebook wants to centralize and standardize users’ disparate login information across the web and mobile. In fact, the company announced at their [semi-annual developer conference F8](https://fbf8.com/) the addition of [Anonymous Login](http://www.punchkick.com/blog/2014/04/30/facebooks-f8-conference-announces-new-login-experience-and-graph-api-2-0) to the Facebook Connect API, allowing users to sign into apps with their Facebook accounts without sharing any of their data with those apps. Sharing data isn’t the most important aspect of Facebook’s login button—it’s the convenience and pervasiveness of the button itself.
 
 ### The ubiquitous backend
 

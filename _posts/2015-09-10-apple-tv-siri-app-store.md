@@ -52,7 +52,7 @@ tvOS comes with an App Store for third-party developers to build apps. The next 
 
 > It’s not just streaming video—there are virtually no limits to the types of apps that can run on Apple TV.
 
-Games are the obvious example for what makes for logical living room apps, and Apple hasn’t been shy about building tools for game developers. [Metal, Apple’s graphics technology that facilitates powerful 3D gaming on iOS](https://www.punchkick.com/blog/2014/10/13/ios-8-in-context-metal-and-scenekit-take-game-development-to-the-next-level) and now on the Mac, will power the first tvOS games. The Siri Remote’s motion sensitivity will enable Wii-style swings and swipes. (Apple even developed a wrist strap to prevent the remote from careening across the room.)[^3]
+Games are the obvious example for what makes for logical living room apps, and Apple hasn’t been shy about building tools for game developers. [Metal, Apple’s graphics technology that facilitates powerful 3D gaming on iOS](/ios-8-metal) and now on the Mac, will power the first tvOS games. The Siri Remote’s motion sensitivity will enable Wii-style swings and swipes. (Apple even developed a wrist strap to prevent the remote from careening across the room.)[^3]
 
 ![](/assets/tvos-gaming.jpeg)
 
