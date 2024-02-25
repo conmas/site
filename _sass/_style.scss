@@ -3,18 +3,18 @@
 :root {
   color-scheme: light dark;
   --color-paper: #FFFCF0;
-  --color-inset: #E7E4DA;
+  --color-inset: #F3F0e5;
   --color-text: #100F0F;
-  --color-subtext: #575653;
+  --color-subtext: #93918B;
   --color-accent: #3AA99F;}
 
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
   :root {
     --color-paper: #100F0F;
-    --color-inset: #1A1818;
+    --color-inset: #1C1B1A;
     --color-text: #CECDC3;
-    --color-subtext: #9E9E96;
+    --color-subtext: #706E69;
     --color-accent: #24837B;
   }
 }
@@ -192,24 +192,20 @@ nav {
   }
 }
 
-#mastodon a {
-  padding: 5px 0 5px 0;
+.toot {
+  margin: 1em;
 }
 
-#mastodon a article {
-  color: var(--color-text);
-  background-color: var(--color-inset);
-  border-radius: $border-radius;
-  margin: 1.5em;
-}
-
-#mastodon a article h3 {
+.toot-details {
+  margin: none;
+  padding: none;
   font-size: 0.5em;
   color: var(--color-subtext);
 }
 
-#mastodon a article p {
+.toot p {
   font-size: 0.6em;
+  line-height: 0.5em;
   color: var(--color-text);
 }
 

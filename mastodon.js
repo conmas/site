@@ -16,19 +16,18 @@ fetch(rss_url)
 				return;
 			}
 			let date = new Date(el.querySelector("pubDate").textContent);
-			let div = document.createElement('div'); // Create a div instead of an article
+			let div = document.createElement('div');
+			div.class = "toot";
 
 			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
 			let link = document.createElement('a');
 			link.target = '_blank';
 			link.href = el.querySelector("link").textContent;
-			link.textContent = "Read more"; // Link text
+			link.textContent = "See post";
 
 			// Create a container for the date and the link, display them inline
 			let header = document.createElement('div');
-			header.style.display = 'flex';
-			header.style.alignItems = 'center';
-			header.style.justifyContent = 'space-between';
+			header.class = "toot-details";
 
 			let dateElement = document.createElement('h3');
 			dateElement.textContent = dateText;
@@ -53,7 +52,7 @@ fetch(rss_url)
 					div.appendChild(img);
 				}
 			}
-
+			
 			mastoDiv.appendChild(div);
 		});
 	});
