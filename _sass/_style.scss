@@ -55,7 +55,7 @@ time {
   text-align: -webkit-center;
 }
 
-.footnotes {
+.footnotes, .toot-details {
   color: var(--color-subtext);
   font-size: 0.9rem;
   line-height: 1.5;
@@ -192,21 +192,7 @@ nav {
   }
 }
 
-.toot-list { margin: none; }
-
-.toot { margin: 1em; }
-
-.toot-details {
-  margin: none;
-  font-size: 0.5em;
-  color: var(--color-subtext);
-}
-
-.toot-body {
-  font-size: 0.7em;
-  line-height: 1em;
-  color: var(--color-text);
-}
+.toot { margin-top: 1em; }
 
 table {
   text-align: left;

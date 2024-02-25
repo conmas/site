@@ -25,14 +25,14 @@ fetch(rss_url)
 			link.href = el.querySelector("link").textContent;
 			link.textContent = "See post";
 			
-			let header = document.createElement('h3');
-			header.classList.add("toot-details");
-			header.textContent = dateText;
+			let tootDetails = document.createElement('p');
+			tootDetails.classList.add("toot-details");
+			tootDetails.textContent = dateText;
 			let separator = document.createTextNode(' · ');
-			header.appendChild(separator);
-			header.appendChild(link);
+			tootDetails.appendChild(separator);
+			tootDetails.appendChild(link);
 			
-			toot.appendChild(header);
+			toot.appendChild(tootDetails);
 			
 			let tootBody = document.createElement('p');
 			tootBody.classList.add("toot-body");
