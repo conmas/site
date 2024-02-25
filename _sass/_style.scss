@@ -1,21 +1,18 @@
-/* Default (light mode) colors */
-
 :root {
   color-scheme: light dark;
-  --color-paper: #FFFCF0;
-  --color-inset: #F3F0e5;
-  --color-text: #100F0F;
-  --color-subtext: #93918B;
-  --color-accent: #3AA99F;}
+  --paper: #FFFCF0;
+  --inset: #F3F0e5;
+  --text: #100F0F;
+  --subtext: #93918B;
+  --accent: #3AA99F;}
 
-/* Dark mode colors */
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-paper: #100F0F;
-    --color-inset: #1C1B1A;
-    --color-text: #CECDC3;
-    --color-subtext: #706E69;
-    --color-accent: #24837B;
+    --paper: #100F0F;
+    --inset: #1C1B1A;
+    --text: #CECDC3;
+    --subtext: #706E69;
+    --accent: #24837B;
   }
 }
 
@@ -29,24 +26,22 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: var(--color-text);
+  color: var(--text);
   font-size: 1rem;
   max-width: 38em;
-  background: var(--color-paper);
+  background: var(--paper);
 
-  @media (min-width: 820px) {
-    font-size: 1.2rem;
-  }
+  @media (min-width: 820px) { font-size: 1.2rem; }
 }
 
 time {
   display: block;
-  color: var(--color-subtext);
+  color: var(--subtext);
   margin: 0.5em 0 1em;
 }
 
 .caption {
-  color: var(--color-subtext);
+  color: var(--subtext);
   font-size: 0.9rem;
   line-height: 1.5;
   padding: 0em 4vw 2em;
@@ -56,19 +51,19 @@ time {
 }
 
 .footnotes, .toot-details {
-  color: var(--color-subtext);
+  color: var(--subtext);
   font-size: 0.9rem;
   line-height: 1.5;
 }
 
 #site-title {
-  color: var(--color-subtext) !important;
+  color: var(--text) !important;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: var(--color-subtext);
+  color: var(--subtext);
   padding-top: 1em;
 }
 
@@ -85,11 +80,9 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: var(--color-inset);
+  background: var(--inset);
   border-radius: $border-radius;
-  p {
-    margin: 0;
-  }
+  p { margin: 0; }
 }
 
 hr {
@@ -97,15 +90,10 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: var(--color-subtext);
+  background: var(--subtext);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
   margin-bottom: 0;
   padding-bottom: 0;
@@ -153,31 +141,22 @@ h5 {
 }
 
 content {
-  h2 {
-    margin-top: 2em;
-  }
-  h1 + h2,
-  h2 + h3 {
-    margin-top: 1em;
-  }
-  h3 {
-    margin-top: 1.5em;
-  }
+  h2 { margin-top: 2em; }
+  h1 + h2, h2 + h3 { margin-top: 1em; }
+  h3 { margin-top: 1.5em; }
 }
 
 a {
   transition: background 300ms;
   text-decoration: none;
-  color: var(--color-accent);
+  color: var(--accent);
   &:hover {
-    color: var(--color-text);
-    background: var(--color-inset);
+    color: var(--text);
+    background: var(--inset);
   }
 }
 
-nav {
-  margin: 1em 0 3em;
-}
+nav { margin: 1em 0 3em; }
 
 #notes-entry-container {
   display: grid;
@@ -196,17 +175,13 @@ nav {
 .toot-body p { margin-bottom: none; }
 .toot-details { margin-top: none; }
 
-table {
-  text-align: left;
-  font-size: 0.75em;
-}
-
+table { text-align: left; font-size: 0.75em; }
 th { margin-top: 5px !important; }
-tr { border-top: 1px solid var(--color-subtext) !important; }
+tr { border-top: 1px solid var(--subtext) !important; }
 td { margin-right: 5px !important; }
 
 .invalid-link {
-  color: var(--color-subtext);
+  color: var(--subtext);
   cursor: help;
   background: #fafafa;
   padding: 0 0.1em;
