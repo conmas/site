@@ -181,7 +181,13 @@ nav {
 
 table {
   text-align: left;
-  font-size: 0.75em
+  font-size: 0.75em;
+  tr {
+    border-top: 1px solid #444444;
+  };
+  td {
+    margin: 0 5px 0 0
+  }
 }
 
 .backlink-box {
