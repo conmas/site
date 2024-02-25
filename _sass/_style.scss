@@ -68,7 +68,6 @@ blockquote {
   font-size: 0.88em;
   background: $color-box-background;
   border-radius: $border-radius;
-
   p {
     margin: 0;
   }
@@ -180,16 +179,15 @@ nav {
   }
 }
 
+table {
+  text-align: left;
+  font-size: 0.75em
+}
+
 .backlink-box {
   background: $color-box-background;
   padding: 1em;
   border-radius: $border-radius;
-}
-
-code {
-  background: #f5f5f5;
-  padding: 0.1em 0.2em;
-  border-radius: 4px;
 }
 
 .invalid-link {
