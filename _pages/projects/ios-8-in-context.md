@@ -31,4 +31,4 @@ This is iOS 8 in context.
 - [PhotoKit](/ios-8-photokit)
 - [Metal](/ios-8-metal)
 - [Swift](/ios-8-swift)
-- []()
+- [Conclusion](#conclusion)

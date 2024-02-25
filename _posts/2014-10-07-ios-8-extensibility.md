@@ -1,13 +1,14 @@
 ---
 title: Extensibility broadens the horizon for third-party apps
 date: 2014-10-07
-tags: 
-	- iOS-8-in-context
+permalink: /ios-8-extensibility
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/10/07/ios-8-in-context-extensibility-broadens-the-horizon-for-third-party-apps
 ---
+![](/assets/ios-8-extensibility.jpg)
 
-In previous years, Apple’s keynote at its annual Worldwide Developers Conference has been the platform for the introduction of consumer-facing products and features, including the iPhone 4 in 2010 and iOS 7 in 2013. But this year’s conference was different—the final third of Apple’s presentation addressed almost zero consumer features. Instead, Cook and his team fulfilled thousands of developers’ wish lists to the sound of thunderous applause. While non-developers might have been itching for a glimpse of this fall’s anticipated new iPhones, little did they know that these additions to iOS will have a greater impact on their everyday lives than any flashy new hardware or buzz-worthy new feature.
-
-If the redesign in iOS 7 was a fresh paint job, iOS 8 will be an entirely new engine. This is [iOS 8 in context](http://www.punchkickinteractive.com/topic/ios8incontext).
+{% include ios-8-intro.html %}
 
 ## Extensibility
 
@@ -15,9 +16,15 @@ For years, mobile operating systems have adhered to a strict dichotomy: iOS work
 
 In iOS 8, Apple bucked the dichotomy with a platform it called Extensibility—a broad-ranging set of features to allow inter-app communication assisted by the operating system along the way. Extensibility enables app extensions for third-party applications that allow them to interact with various parts of the operating system and with one another. Just as apps today can send photos or links to the stock iOS Mail app and call up a composer window, new apps can offer “composer window” views of their own. But these capabilities can be perceived as vulnerabilities—if apps can access this many components of the system, how can iOS remain secure?
 
+> “In some ways, it might seem like Apple’s catching up to Android,” said Punchkick iOS developer Sean Samocki, “but Apple took longer to introduce app extensions because they wanted to do it right. Even with these changes, I still feel like iOS is a safe and secure platform to develop for.”
+
 Apple’s approach is different. Learning from the security frustrations Android users and developers have encountered, Extensibility approaches app extensions in a uniquely Apple way. Third-party developers will create an app extension bundle—a sharing service, a keyboard, and otherwise—which is compiled almost as a separate app within the standard app bundle. When downloaded, the third-party app notifies iOS 8 of its contained app bundles, and the operating system makes those extensions available to applicable apps across the system. These apps remain “sandboxed” inside iOS, preventing them from requesting or accessing information outside of data they explicitly need to perform correctly. This relies on the rock-solid iOS foundation to serve as middleman for app extensions between third parties, preventing runaway processes or compromised user data.
 
+> “Having the ability to have apps talk to each other, with the OS acting as a referee of sorts, is going to be great,” said Punchkick iOS developer John Norton. “On Android, apps can talk to each other, but they’ve historically run into some security concerns. Apple’s not only matching Android, I think it’s trying to surpass Android in terms of security and experience.”
+
 Extensibility is an umbrella term for some of iOS’s most exciting features since the launch of the App Store. While its immediate implications seem more exciting to developers and power users, its long-term impact will be massive—years from now, nearly every iOS app will make use of some part of iOS 8’s Extensibility additions, and iOS users will marvel at the realization that they once lived their daily lives without app extensions. Extensibility is the purest representation of a new direction for Apple, one more friendly to developers and more accommodating of their requests. Extensibility also offers the largest opportunity for third-party developers and their apps since the App Store launched—with app extension bundles, there’s an entirely new landscape of native development to engage with customers on new levels.
+
+![](/assets/extensibility-ipad.png)
 
 ### Notification Center Widgets
 
@@ -29,13 +36,19 @@ Widgets have been a staple feature of Android app launchers for years, offering 
 
 Now, developers can create interactive micro-apps that populate Notification Center in the form of a dedicated app extension bundle. Users can opt into different widgets of interest to them from their installed apps using an “edit” menu at the bottom of Notification Center, allowing them to rearrange and customize their Notification Center experience to make it as useful and relevant as possible. Apps can offer essential features and services in Notification Center widgets that are only a swipe away, like up-to-the-minute step tracking from fitness applications or the latest headlines from a news app.
 
+> “Widgets are one example of apps not being as sandboxed as they used to be,” said Sean Samocki.
+
 These widgets are fully interactive and can offer links to deep content within third-party apps, but are most useful in the form of glanceable, easily digestible static notifications. (Apple Watch will include a Notification Center iteration called “glances,” which will be accessible to developers from day one.)  Notification Center widgets offer third-party developers a new touchpoint to engage with iOS users on their terms, and offer new immediate utility through a new and exciting medium.
+
+![](/assets/quicktype-keyboard.png)
 
 ### Third-Party Keyboards
 
 The iOS keyboard has been the hallmark of Apple’s platform since its introduction. When Steve Jobs debuted the iPhone in 2007, pundits’ most common gripe was the device’s lack of a physical keyboard. Accustomed to physical keyboards on BlackBerry devices and the traditional “smart” phones of the day, Apple’s capacitive touchscreen keyboard seemed an alien concept doomed for customer confusion and rejection. Of course, despite protests from various Android devices that briefly included a slide-out physical keyboard, on-screen keyboards won out, and Apple has iterated on its invention over the years with automatic text correction and international keyboard support. The company has retained tight control over its keyboard experience, and just this year in iOS 8 added a new row for “QuickType” predictive text suggestions.
 
 iOS has always allowed for multiple keyboards, but only the ones built in—international keyboards for different autocorrect languages or character sets. (Most iOS users will be familiar with this functionality from their experience with Apple’s emoji keyboard, originally intended for Japan.) Android, on the other hand, has long allowed for third-party keyboard preferences, and companies like SwiftKey and Minuum have sprung up to offer Android customers new ways to type and send messages. Until now, third-party iOS developers have had to develop their own apps to showcase keyboard innovations, and users could type up a memo for copying-and-pasting into other apps in other parts of the system. The process was clunky, and Apple sought to amend it in iOS 8.
+
+> Users familiar with the iOS emoji keyboard will already know how to access third-party keyboards in iOS 8.
 
 Now, third-party keyboards are among the many supported types of app extension bundles developers can include with their applications. Building on the globe-button mechanism users are already comfortable with, and using the same relatively convoluted Settings workflow to enable new keyboards, third-party keyboards are empowered in iOS 8 to deliver all-new text input modes and infinite customization. Within hours of the operating system’s release, some of the top apps in the App Store were colorful keyboard variants and novel ways to approach keys. These keyboards work system-wide in any application that supports text input, meaning developers don’t need to specifically enable support for each third-party keyboard in their apps.
 
@@ -49,6 +62,10 @@ In iOS 8, third-party apps can offer app extensions for share buttons that other
 
 But the additions to the iOS action sheet doesn’t stop there. Just as certain content types allow Custom Actions, like assigning photos to contact cards or repurposing them as iPhone wallpapers in a row of icons beneath sharing options, third-party apps can now join in on the deep interaction with Custom Actions for specific content. These iOS functions have remained locked down to first-party tools since the beginning, but when Apple revamped the entire action menu in iOS 8, it didn’t stop with sharing. Now, third-party apps can offer specific actions and functions accessible on the same share sheet, processing specific data in new and unique ways impossible before iOS 8.
 
+> “With things like share sheets baked in, developers don’t have to think about it,” said John Norton. “We can think, ‘Well, the implementation is going to be easier, so what can we do to make the user experience better?’ There are going to be tons of cool things that we haven’t even thought of yet.”
+
 The addition of Custom Actions will have the largest impact on Safari. Apps like Bing Translations can process webpage content with a prompt in the action menu, extending the functionality of Safari in new and incredibly useful ways. Action menu items are designed for deep processing of user content, and third-party developers have an opportunity to offer highly engaging and helpful custom actions to a new crop of customers.
+
+> “iOS 8 really opens the system up,” said Punchkick iOS engineer J.C. Subida. “Apple used to be something of a ‘closed garden,’ and now it seems like they’re letting developers in.”
 
 Extensibility is Apple’s first major step into a more open and connected iOS future, and provides developers with a whole host of new tools to engage with customers in unprecedented ways. With these app extensions and similar tools introduced in iOS 8, developers have new opportunities to share their apps’ utility across the operating system, reminding users of their capabilities and building brand affinity based on their services’ utility and accessibility. Apple’s promotion of iOS 8 the biggest iOS developer opportunity since the introduction of the App Store is no understatement—with Extensibility, iOS apps are about to become more useful, visible, and engaging than ever before.
