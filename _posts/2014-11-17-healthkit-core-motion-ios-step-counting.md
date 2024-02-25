@@ -31,16 +31,14 @@ Each set of APIs provides methods to retrieve data from their respective stores.
 
 One query is a simple data range, where developers specify a start and stop time. Developers receive a `CMPedometer` object in the completion handler that provides access to steps, distance, and flights of stairs data.
                         
-<div class="highlight"><pre class="highlight"><code>
-<span class="kd">(void)</span> <span class="nf">queryPedometerDataFromDate</span>:<span class="nc">NSDate</span> *)<span class="nv">start</span>
+<div class="highlight"><pre class="highlight"><code><span class="kd">(void)</span> <span class="nf">queryPedometerDataFromDate</span>:<span class="nc">NSDate</span> *)<span class="nv">start</span>
                           <span class="nf">toDate</span>:<span class="nc">NSDate</span> *)<span class="nv">end</span>
                      <span class="nf">withHandler</span>:(<span class="nc">CMPedometerHandler</span>)<span class="nv">handler</span>;
 </code></pre></div>
 
 Core Motion also allows apps to observe steps as the user is walking down the street. If the user moves a few steps, apps will be notified of the update and can update the UI accordingly.
 
-<div class="highlight"><pre class="highlight"><code>
-<span class="kd">(void)</span> <span class="nf">startPedometerUpdatesFromDate</span>:<span class="nc">NSDate</span> *)<span class="nv">start</span>
+<div class="highlight"><pre class="highlight"><code><span class="kd">(void)</span> <span class="nf">startPedometerUpdatesFromDate</span>:<span class="nc">NSDate</span> *)<span class="nv">start</span>
 <span class="nf">withHandler</span>:(<span class="nc">CMPedometerHandler</span>)<span class="nv">handler</span>;
 </code></pre></div>
 
@@ -50,8 +48,7 @@ There also is a complementary method developers should call to signify when they
 
 HealthKit provides parallel methods that do nearly the same thing as Core Motion, plus a few extra features. With HealthKit, developers can create a statistics query where they provide a time range, but they also must include one or more health data types. For these examples, we’ll be sticking with steps, but developers have the option to provide any of the 60-plus health data types referenced above. You can also specify the source of a HealthKit query if you want to specifically retrieve data from specific hardware or applications, like the M7 or M8, a Jawbone Up, and more. More information on a HKStatisticsQuery can be found in [Apple’s developer library](https://developer.apple.com/Library/ios/documentation/HealthKit/Reference/HKStatisticsQuery_Class/index.html).  
 
-<div class="highlight"><pre class="highlight"><code>
-<span class="kd">(instancetype)</span><span class="nf">initWithQuantityType</span>:<span class="nc">HKQuantityType</span> *)<span class="nv">quantityType</span>
+<div class="highlight"><pre class="highlight"><code><span class="kd">(instancetype)</span><span class="nf">initWithQuantityType</span>:<span class="nc">HKQuantityType</span> *)<span class="nv">quantityType</span>
             <span class="nf">quantitySamplePredicate</span>:<span class="nc">NSPredicate</span> *)<span class="nv">quantitySamplePredicate</span>
                             <span class="nf">options</span>:(<span class="nc">HKStatisticsOptions</span>)<span class="nv">options</span>
                          <span class="nf">anchorDate</span>:<span class="nc">NSDate</span> *)<span class="nv">anchorDate</span>
