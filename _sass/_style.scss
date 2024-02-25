@@ -4,6 +4,7 @@ $color-text: #100F0F;
 $color-subtext: #575653;
 $color-accent: #3AA99F;
 $color-paper: #FFFCF0;
+$color-box-background: mix($color-primary, white, 4%);
 
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
