@@ -2,20 +2,19 @@
 
 :root {
   --color-paper: #FFFCF0;
+  --color-inset: #E7E4DA;
   --color-text: #100F0F;
   --color-subtext: #575653;
-  --color-accent: #3AA99F;
-  --color-inset: #e7e4da;
-}
+  --color-accent: #3AA99F;}
 
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
   :root {
     --color-paper: #100F0F;
+    --color-inset: #2D2C2A;
     --color-text: #CECDC3;
-    --color-subtext: #9e9e96;
+    --color-subtext: #9E9E96;
     --color-accent: #24837B;
-    --color-inset: #343331;
   }
 }
 
