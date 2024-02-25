@@ -17,7 +17,7 @@ fetch(rss_url)
 			}
 			let date = new Date(el.querySelector("pubDate").textContent);
 			let div = document.createElement('div');
-			div.classList.add = "toot";
+			div.classList.add("toot");
 
 			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
 			let link = document.createElement('a');
@@ -27,7 +27,7 @@ fetch(rss_url)
 
 			// Create a container for the date and the link, display them inline
 			let header = document.createElement('div');
-			header.classList.add = "toot-details";
+			header.classList.add("toot-details");
 
 			let dateElement = document.createElement('h3');
 			dateElement.textContent = dateText;
