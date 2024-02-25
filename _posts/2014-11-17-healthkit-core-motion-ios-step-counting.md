@@ -30,14 +30,8 @@ Each set of APIs provides methods to retrieve data from their respective stores.
 ## Types of Queries
 
 One query is a simple data range, where developers specify a start and stop time. Developers receive a `CMPedometer` object in the completion handler that provides access to steps, distance, and flights of stairs data.
-
-<div class="highlight">
-                        (void)queryPedometerDataFromDate:NSDate *)start
-                                                  toDate:(NSDate *)end
-                                             withHandler:(CMPedometerHandler)handler;
-</div>
                         
-<pre>
+<pre class="highlight">
  <code id="htmlViewer" style="color:rgb(224, 226, 228); font-weight:400;background-color:rgb(40, 43, 46);background:rgb(40, 43, 46);display:block;padding: .5em;">(<span style="color:rgb(140, 187, 173); font-weight:700;">void</span>)queryPedometerDataFromDate:(<span style="color:rgb(140, 187, 173); font-weight:400;">NSDate</span> *)start
                           toDate:(<span style="color:rgb(140, 187, 173); font-weight:400;">NSDate</span> *)end
                                                                                                                          withHandler:(<span style="color:rgb(140, 187, 173); font-weight:400;">CMPedometerHandler</span>)handler;</code></pre>
