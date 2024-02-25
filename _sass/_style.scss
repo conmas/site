@@ -192,6 +192,20 @@ nav {
   }
 }
 
+#mastodon a article {
+  background-color: var(--color-inset);
+  border-radius: $border-radius;
+  padding: 10px 0 10px 0;
+}
+
+#mastodon a article h3 {
+  font-size: 0.5em;
+}
+
+#mastodon a article p {
+  font-size: 0.75em;
+}
+
 table {
   text-align: left;
   font-size: 0.75em;
