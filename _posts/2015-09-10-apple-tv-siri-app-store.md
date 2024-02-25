@@ -16,6 +16,7 @@ Gone are the days of Apple TV being an awkward “fourth peg” on Steve Jobs’
 Like watchOS, tvOS is based on iOS and heavily reliant on existing user interface paradigms. It inherits many of the same APIs and frameworks that have made iOS so successful for third-party developers. But unlike [watchOS 1](https://www.punchkick.com/videos/2015/05/13/white-paper-how-to-design-watchkit-apps-for-apple-watch), tvOS is launching with an App Store on day one. And just as Apple facilitated the walled garden that allowed third-party developers to build upon the iPhone, tvOS will facilitate the next generation of experiences in the living room.
 
 ![](/assets/movies-grid.jpg)
+
 ### An OS for all *seasons*
 For all of Apple’s quotes about apps being the future of TV, the current state of tvOS is centered around content. Movies and TV shows are given customized, highly visual landing pages that provide context for the actors and directors who created them. On this page, users can see synopses, read reviews, and click around to associated content.
 
