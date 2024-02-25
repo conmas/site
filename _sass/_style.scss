@@ -1,18 +1,38 @@
 :root {
   color-scheme: light dark;
-  --paper: #FFFCF0;
-  --inset: #F3F0e5;
-  --text: #100F0F;
-  --subtext: #93918B;
-  --accent: #3AA99F;}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --paper: #100F0F;
-    --inset: #1C1B1A;
-    --text: #CECDC3;
-    --subtext: #706E69;
-    --accent: #24837B;
+  --bg:       rgb(255, 252, 240);
+  --bg-2:     rgb(242, 240, 229); 
+  
+  --tx:       rgb(16, 15, 15);
+  --tx-2:     rgb(111, 110, 105);
+  --tx-3:     rgb(183, 181, 172);
+  
+  --re:       rgb(175, 48, 41);
+  --or:       rgb(188, 82, 21);
+  --ye:       rgb(173, 131, 1);
+  --gr:       rgb(102, 128, 11);
+  --cy:       rgb(36, 131, 123);
+  --bl:       rgb(32, 94, 166);
+  --pu:       rgb(94, 64, 157);
+  --ma:       rgb(160, 47, 111);
+  
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg:   rgb(16, 15, 15);
+      --bg-2: rgb(28, 27, 26);
+      
+      --tx:   rgb(206, 205, 195);
+      --tx-2: rgb(135, 133, 128);
+      --tx-3: rgb(87, 86, 83);
+      
+      --re:   rgb(209, 77, 65);
+      --or:   rgb(218, 112, 44);
+      --ye:   rgb(208, 162, 21);
+      --gr:   rgb(135, 154, 57);
+      --cy:   rgb(58, 169, 159);
+      --bl:   rgb(67, 133, 190);
+      --pu:   rgb(139, 126, 200);
+      --ma:   rgb(206, 93, 151);
   }
 }
 
@@ -20,7 +40,7 @@ $border-radius: 4px;
 $font-family: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji";
 
 html {
-  background: var(--paper);
+  background: var(--bg);
 }
 
 body {
@@ -30,7 +50,7 @@ body {
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
-  color: var(--text);
+  color: var(--tx);
   font-size: 1rem;
   max-width: 38em;
   @media (min-width: 820px) { font-size: 1.2rem; }
@@ -38,12 +58,12 @@ body {
 
 time {
   display: block;
-  color: var(--subtext);
+  color: var(--tx-2);
   margin: 0.5em 0 1em;
 }
 
 .caption {
-  color: var(--subtext);
+  color: var(--tx-2);
   font-size: 0.8rem;
   line-height: 1.5;
   padding: 0em 4vw 2em;
@@ -53,7 +73,7 @@ time {
 }
 
 .footnotes, .toot-details {
-  color: var(--subtext);
+  color: var(--tx-3);
   font-size: 0.8rem;
   line-height: 1.5;
 }
@@ -65,7 +85,7 @@ time {
 footer {
   margin: 2em 0;
   font-size: 0.8em;
-  color: var(--subtext);
+  color: var(--tx-3);
   padding-top: 1em;
 }
 
@@ -82,7 +102,7 @@ blockquote {
   padding: 1.5em;
   margin: 0;
   font-size: 0.88em;
-  background: var(--inset);
+  background: var(--bg-2);
   border-radius: $border-radius;
   p { margin: 0; }
 }
@@ -92,7 +112,7 @@ hr {
   border: 0;
   height: 1px;
   margin: 1.5em 0;
-  background: var(--subtext);
+  background: var(--tx-3);
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -151,10 +171,10 @@ content {
 a {
   transition: background 300ms;
   text-decoration: none;
-  color: var(--accent);
+  color: var(--cy);
   &:hover {
-    color: var(--text);
-    background: var(--inset);
+    color: var(--tx);
+    background: var(--bg-2);
   }
 }
 
@@ -179,11 +199,11 @@ nav { margin: 1em 0 3em; }
 
 table { text-align: left; font-size: 0.75em; }
 th { margin-top: 5px !important; }
-tr { border-top: 1px solid var(--subtext) !important; }
+tr { border-top: 1px solid var(--tx-2) !important; }
 td { margin-right: 5px !important; }
 
 .invalid-link {
-  color: var(--subtext);
+  color: var(--tx-2);
   cursor: help;
   background: #fafafa;
   padding: 0 0.1em;
