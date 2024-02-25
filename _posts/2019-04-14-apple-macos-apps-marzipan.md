@@ -39,7 +39,23 @@ In this post, I've broken down every macOS system app and highlighted where its 
 
 With that massive caveat established (so don't @ me), let's jump in.
 
----
+### Jump to a section
+
+- [iTunes](#itunes)
+- [Mail](#mail)
+- [Contacts](#contacts)
+- [Calendar](#calendar)
+- [Notes](#notes)
+- [Reminders](#reminders)
+- [Safari](#safari)
+- [Maps](#maps)
+- [Photos](#photos)
+- [FaceTime](#facetime)
+- [Messages](#messages)
+- [Books](#books)
+- [App Store](#app-store)
+- [Finder](#finder)
+- [System Preferences](#system-preferences)
 
 ## iTunes
 

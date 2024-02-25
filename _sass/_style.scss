@@ -204,7 +204,7 @@ nav { margin: 1em 0 3em; }
 .toot-body p { padding-bottom: none; }
 .toot-details { padding-top: none; }
 
-table { text-align: left; font-size: 0.75em; }
+table { text-align: left; font-size: 0.75em; font-variant-numeric: tabular-nums; }
 th { margin-top: 5px !important; }
 tr { border-top: 1px solid var(--tx-2) !important; }
 td { margin-right: 5px !important; }

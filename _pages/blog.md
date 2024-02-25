@@ -12,7 +12,7 @@ I’ve written extensively over the years for various blogs and websites, some m
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" %}
   {% for post in recent_posts %}
 	<li>
-	  <span style="color:hsl(0, 0%, 50%);font-size:.9rem;padding-right:.5em;">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+	  <span style="color: hsl(0, 0%, 50%);font-size: .9rem;padding-right: .5em;font-variant-numeric: tabular-nums;">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
 	</li>
   {% endfor %}
 </ul>
