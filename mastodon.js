@@ -27,14 +27,12 @@ fetch(rss_url)
 			
 			let tootDetails = document.createElement('p');
 			tootDetails.classList.add("toot-details");
-			tootDetails.textContent = dateText;
-			let separator = document.createTextNode(' · ');
-			tootDetails.appendChild(separator);
+			tootDetails.textContent = dateText + ' · '; // Adding separator directly
 			tootDetails.appendChild(link);
 			
 			toot.appendChild(tootDetails);
 			
-			let tootBody = document.createElement('p');
+			let tootBody = document.createElement('div');
 			tootBody.classList.add("toot-body");
 			tootBody.innerHTML = decodeEntity(content);
 			toot.appendChild(tootBody);
@@ -45,7 +43,7 @@ fetch(rss_url)
 				if (mediaUrl !== null) {
 					let img = document.createElement('img');
 					img.src = mediaUrl;
-					div.appendChild(img);
+					toot.appendChild(img);
 				}
 			}
 			
