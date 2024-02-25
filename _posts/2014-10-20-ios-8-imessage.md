@@ -1,5 +1,12 @@
-# iOS 8 in context: iMessage evolves beyond the text message
-
+---
+layout: post
+title: iMessage evolves beyond the text message
+date: 2014-10-20
+permalink: /ios-8-imessage
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/10/20/ios-8-in-context-imessage-evolves-beyond-the-text-message
+---
 ![](/assets/ios-8-imessage.jpg)
 
 {% include ios-8-intro.html %}
