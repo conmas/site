@@ -1,5 +1,5 @@
 const rss_url = 'https://hachyderm.io/@connor.rss';
-let mastoDiv = document.getElementById('mastodon');
+let tootList = document.getElementById('mastodon');
 
 fetch(rss_url)
 	.then(response => response.text())
@@ -16,33 +16,29 @@ fetch(rss_url)
 				return;
 			}
 			let date = new Date(el.querySelector("pubDate").textContent);
-			let div = document.createElement('div');
-			div.classList.add("toot");
-
+			let toot = document.createElement('div');
+			toot.classList.add("toot");
+			
 			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
 			let link = document.createElement('a');
 			link.target = '_blank';
 			link.href = el.querySelector("link").textContent;
 			link.textContent = "See post";
-
-			// Create a container for the date and the link, display them inline
-			let header = document.createElement('div');
+			
+			let header = document.createElement('h3');
 			header.classList.add("toot-details");
-
-			let dateElement = document.createElement('h3');
-			dateElement.textContent = dateText;
-			header.appendChild(dateElement);
-
+			header.textContent = dateText;
 			let separator = document.createTextNode(' · ');
 			header.appendChild(separator);
 			header.appendChild(link);
-
-			div.appendChild(header);
-
-			let paragraph = document.createElement('p');
-			paragraph.innerHTML = decodeEntity(content);
-			div.appendChild(paragraph);
-
+			
+			toot.appendChild(header);
+			
+			let tootBody = document.createElement('p');
+			tootBody.classList.add("toot-body");
+			tootBody.innerHTML = decodeEntity(content);
+			toot.appendChild(tootBody);
+			
 			let media = el.querySelector("content");
 			if (media !== null) {
 				let mediaUrl = media.getAttribute("url");
@@ -53,7 +49,7 @@ fetch(rss_url)
 				}
 			}
 			
-			mastoDiv.appendChild(div);
+			tootList.appendChild(toot);
 		});
 	});
 
