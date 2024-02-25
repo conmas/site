@@ -193,7 +193,8 @@ nav {
 }
 
 .toot { margin-bottom: 1em; }
-.toot * { margin-bottom: none !important; }
+.toot-body p { margin-bottom: none; }
+.toot-details { margin-top: none; }
 
 table {
   text-align: left;
