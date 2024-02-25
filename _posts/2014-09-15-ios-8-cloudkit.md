@@ -7,8 +7,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/09/15/ios-8-in-context-cloudkit-makes-sense-of-the-cloud
 ---
-# 
-
 ![](/assets/ios-8-cloudkit.jpg)
 
 {% include ios-8-intro.html %}
@@ -23,7 +21,7 @@ Apple revamped their online services in 2008 to coincide with the introduction o
 
 The company’s iCloud introduction was twofold. On one hand, it offered many of the synchronization and online services for free to customers with iOS 5 or Mac OS X Lion. But on the other, it gifted developers an entire framework of cloud-assisted tools to work into their apps. Apps and games could store data on the cloud and have it automatically synchronize between Macs and iOS devices. Apps that use documents, like word processors and spreadsheet editors, could store files on iCloud and use OS X’s version history features between devices. While users could opt into additional iCloud storage, the service limited apps’ access to files within siloed-off app-specific directories. iCloud’s promise was compelling—a system for automatic file synchronization between devices, baked into two of the most popular operating systems in the world.
 
-![](steve-jobs-icloud.jpg)
+![](/assets/steve-jobs-icloud.jpg)
 <div class="caption">Steve Jobs introduces the first version of iCloud in 2011.</div>
 
 But iCloud fell short. Developers reported frustrations getting their apps to recognize content on the cloud, and users experienced problems with out-of-sequence synchronizations and overwritten data. These issues underscore the difficulty of developing a cloud platform to accommodate such uniquely massive demands, but left many third-party developers with sour tastes in their mouths regarding Apple’s first-party synchronization option. At this year’s conference, the company responded in a big way—they expanded and reimagined iCloud functionality to the benefit of both users and developers, offering entirely new ways for apps to interact with and take advantage of iCloud servers. CloudKit is more than a new way to store files, more than a new @icloud.com email address. Despite Apple’s many attempts at a unifying cloud storage-and-syncing solution, CloudKit represents a fresh start.
