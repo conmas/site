@@ -27,3 +27,9 @@ I’m currently <script>document.write(`${(new Date()-new Date("1991-07-26T13:44
 Outside of work, I’m focused on life in the Chicago suburbs with my wife Abby and three-year-old son Miles. I’m increasingly (trying to) focus on my health, and I’m coming up on a year sober.
 
 You can find the latest movies I’ve watched, rated, and reviewed on my [Letterboxd](https://letterboxd.com/conmas) profile. Most nights I like to watch awful movies that Abby and I can make fun of together.
+
+## Mastodon
+
+My recent posts on Mastodon are imported here. Based on a script by [Tim Purdum](https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js).
+
+<script src="./mastodon.js"></script>
