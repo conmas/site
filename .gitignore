@@ -6,5 +6,5 @@ _site/
 .bundle/
 vendor/
 .DS_Store
-.DS_Store
-.DS_Store
+_posts/wip/
+.obsidian/
