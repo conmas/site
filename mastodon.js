@@ -7,37 +7,55 @@ fetch(rss_url)
 	.then(data => {
 		console.log(data);
 		const items = data.querySelectorAll("item");
-		const monthFormatter = new Intl.DateTimeFormat('en', { month: 'long'});
-		const dayFormatter = new Intl.DateTimeFormat('en', { day: 'numeric'});
-		const yearFormatter = new Intl.DateTimeFormat('en', { year: 'numeric'});
+		const monthFormatter = new Intl.DateTimeFormat('en', { month: 'long' });
+		const dayFormatter = new Intl.DateTimeFormat('en', { day: 'numeric' });
+		const yearFormatter = new Intl.DateTimeFormat('en', { year: 'numeric' });
 		items.forEach(el => {
-			let content = el.querySelector("description").innerHTML.trim();
+			let content = el.querySelector("description").textContent.trim();
 			if (content.includes("Content warning:")) {
 				return;
 			}
-			let date = new Date(el.querySelector("pubDate").innerHTML);
-			let article = document.createElement('article');
-			let month = monthFormatter.format(date);
-			let day = dayFormatter.format(date);
-			let year = yearFormatter.format(date);
-			article.innerHTML = `<h3>${month} ${day}, ${year}</h3>`;
-			article.innerHTML += decodeEntity(content);
+			let date = new Date(el.querySelector("pubDate").textContent);
+			let div = document.createElement('div'); // Create a div instead of an article
+
+			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
+			let link = document.createElement('a');
+			link.target = '_blank';
+			link.href = el.querySelector("link").textContent;
+			link.textContent = "Read more"; // Link text
+
+			// Create a container for the date and the link, display them inline
+			let header = document.createElement('div');
+			header.style.display = 'flex';
+			header.style.alignItems = 'center';
+			header.style.justifyContent = 'space-between';
+
+			let dateElement = document.createElement('h3');
+			dateElement.textContent = dateText;
+			header.appendChild(dateElement);
+
+			let separator = document.createTextNode(' · ');
+			header.appendChild(separator);
+			header.appendChild(link);
+
+			div.appendChild(header);
+
+			let paragraph = document.createElement('p');
+			paragraph.innerHTML = decodeEntity(content);
+			div.appendChild(paragraph);
 
 			let media = el.querySelector("content");
 			if (media !== null) {
 				let mediaUrl = media.getAttribute("url");
 				if (mediaUrl !== null) {
-					article.innerHTML += `<img src="${mediaUrl}" />`;
+					let img = document.createElement('img');
+					img.src = mediaUrl;
+					div.appendChild(img);
 				}
 			}
-			
-			let link = document.createElement('a');
-			link.target = '_blank';
-			link.href = el.querySelector("link").innerHTML;
-			link.appendChild(article);
-			mastoDiv.appendChild(link);    
+
+			mastoDiv.appendChild(div);
 		});
-		
 	});
 
 function decodeEntity(inputStr) {
