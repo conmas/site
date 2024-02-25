@@ -200,15 +200,17 @@ nav {
   color: var(--color-text);
   background-color: var(--color-inset);
   border-radius: $border-radius;
-  margin: 0 1em 0 1em;
+  margin: 1.5em;
 }
 
 #mastodon a article h3 {
   font-size: 0.5em;
+  color: var(--color-subtext);
 }
 
 #mastodon a article p {
-  font-size: 0.75em;
+  font-size: 0.6em;
+  color: var(--color-text);
 }
 
 table {
