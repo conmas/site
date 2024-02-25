@@ -19,23 +19,24 @@ fetch(rss_url)
 			let toot = document.createElement('div');
 			toot.classList.add("toot");
 			
+			// Create date and link
 			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
 			let link = document.createElement('a');
 			link.target = '_blank';
 			link.href = el.querySelector("link").textContent;
 			link.textContent = "See post";
-			
 			let tootDetails = document.createElement('p');
 			tootDetails.classList.add("toot-details");
-			tootDetails.textContent = dateText + ' · '; // Adding separator directly
+			tootDetails.textContent = dateText + ' · ';
 			tootDetails.appendChild(link);
 			
-			toot.appendChild(tootDetails);
-			
+			// Create toot body
 			let tootBody = document.createElement('div');
 			tootBody.classList.add("toot-body");
 			tootBody.innerHTML = decodeEntity(content);
+			
 			toot.appendChild(tootBody);
+			toot.appendChild(tootDetails);
 			
 			let media = el.querySelector("content");
 			if (media !== null) {
