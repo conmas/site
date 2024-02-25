@@ -1,6 +1,7 @@
 /* Default (light mode) colors */
 
 :root {
+  color-scheme: light dark;
   --color-paper: #FFFCF0;
   --color-inset: #E7E4DA;
   --color-text: #100F0F;
@@ -22,7 +23,6 @@ $border-radius: 4px;
 $font-family: system-ui, "Segoe UI", Helvetica, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 
 body {
-  color-scheme: light dark;
   box-sizing: content-box;
   font-family: $font-family;
   margin: 0 auto;
@@ -78,6 +78,7 @@ img {
   margin: 0 auto;
   max-height: 75vh;
   border-radius: $border-radius;
+  @media (prefers-color-scheme: dark) { filter: brightness(.8) contrast(1.2); }
 }
 
 blockquote {

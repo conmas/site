@@ -25,8 +25,6 @@ The inception of the Nexus family was the product of a frustrating industry envi
 
 Project Fi is a Google-designed MVNO[^1] that piggybacks on T-Mobile’s and Sprint’s wireless data networks. It leverages voice over LTE to provide calls over data connections, and can intelligently switch between T-Mobile’s GSM network, Sprint’s CDMA network, and Wi-Fi networks to provide the strongest signal. It’s an inventive [software feature on Android](https://www.punchkick.com/videos/2015/04/24/google-fi-facebook-hello-apple-watch-launch-more-the-friday-five), assisted by hardware included with the Nexus phones, and supported by strong relationships with carrier partners. In short, it’s the kind of offering that only Google[^2] could deliver.
 
-<iframe src="https://www.youtube.com/watch?v=faacIELjUeI" frameborder="0"> </iframe>
-
 > Google is trying for horizontal integration and vertical integration at the same time.
 
 Whereas Apple’s value comes from buying hardware and software designed together by the same company, Google takes that approach a step further and adds wireless service into the equation.[^3] But even with that level of tight integration, Google doesn’t stop there. Consider that an Android customer today can buy and use a smartphone whose operating system, apps, web services, cellular connection, hardware, and warranty[^4] are all designed and developed by the same company.[^5] None of Google’s partners in those arenas have the scale or expertise to compete, and few of its competitors are invested in even two of those industries—let alone all of them.
@@ -39,7 +37,7 @@ Google’s [consistent focus on Chromecast](https://www.punchkick.com/blog/2013/
 This week’s enhancements come mostly in the form of software updates, enabling new proactive downloading of certain video content and dual-screen video games on Android. But Chromecast’s app integrations—with partners like Hulu, Showtime, Netflix, and now Spotify—help users to discover the Google Cast platform and begin to imagine themselves using it. And why wouldn’t they? At $35, Chromecast is neatly half the price of the low-end Apple TV, and while AirPlay is better integrated across iOS, Google Cast has saddled itself to many of the core apps users will want to show on their TVs most often.
 
 ![Image of Chromecast devices in three colors, yellow, black, and red.](/assets/chromecast-colors.png)
-<div class="caption">Chromecast in Lemonade, Black, and Coral. (Image: [Google Store](https://store.google.com/product/chromecast_2015))</div>
+<div class="caption">Chromecast in Lemonade, Black, and Coral. (Image: <a href="https://store.google.com/product/chromecast_2015">Google Store</a></div>
 
 For Apple, the future of TV is apps. While its AirPlay casting feature is a great way to share content from iPhone to the largest screen in the home, Apple is betting on rich native app experiences to populate [tvOS on the new Apple TV](/2015/09/10/apple-tv-siri-app-store). For Google, the future of TV is both apps and casting. Android TV is a content-first OS for TVs, and Chromecast fills out the tiny price umbrella left by the $99 Nexus Player. It seems that Google is eager to release hardware for any use case and see what sticks.
 
