@@ -67,7 +67,7 @@ What is Google’s play with the Pixel C? Certainly it can’t just be ticking o
 
 Pixel is the proverbial Cadillac of the Google lineup. Just as car manufacturers debut their latest innovations in top-end sports cars that few people ever buy, and just as Apple showcases its hardware prowess in the Mac Pro that few of their customers even realize exists, the Pixel family represents an opportunity for Google to build the devices its web services deserve. Many of the innovations Google debuts in these and future Pixel products—like ultra–high-resolution displays, multi-microphone arrays, or inductive-charging Bluetooth keyboards—will trickle their way down to other products in the lineup. 
 
-![An image of three Chromebook Pixels stacked on top of one another, with the top one's lid opened to the chromeOS desktop.](/assets/chromebook-pixel.png)
+![An image of three Chromebook Pixels stacked on top of one another, with the top one’s lid opened to the chromeOS desktop.](/assets/chromebook-pixel.png)
 
 But Google’s eagerness to strut its industrial design stuff with ambitious new hardware demonstrates its resolve to become a product company to be reckoned with. These new Android devices aren’t vaporware like the Nexus Q or [Google Glass](https://www.punchkick.com/blog/2014/07/10/developer-review-of-google-glass-use-cases-part-ii) before them—Google is making confident strides in the realm of consumer hardware, and seems poised to become a major player in nearly every product category. And this ambition promises to guide the ongoing iteration of Android and Chrome hardware and software.
 

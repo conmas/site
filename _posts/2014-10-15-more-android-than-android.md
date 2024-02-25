@@ -9,7 +9,7 @@ original_url: https://www.punchkick.com/blog/2014/10/17/more-android-than-androi
 ---
 ![](/assets/nexus-6.jpg)
 
-## Android's new poster child {#nexus-6}
+## Android’s new poster child {#nexus-6}
 
 As Google began refocusing its software development efforts toward mobile, the search giant became increasingly invested in its Android operating system as a counterpoint to Apple’s meteoric iOS. Google worked hard to challenge Apple’s mobile operating system and innovate with exciting new features, to the point that many began to perceive Android as equal to, if not better than, iOS in terms of power and capability. But operating systems were only one mobile battleground—how could Google build hardware to beat the iPhone?
 
