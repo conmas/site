@@ -25,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
+                "file": "_posts/2014-10-15-more-android-than-android.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5f3cbc53f2b8551a",
+            "id": "73dbf7de8868f3d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2014-11-11-android-everywhere.md",
+                "file": "_posts/2014-10-15-more-android-than-android.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
+                "file": "_posts/2014-10-15-more-android-than-android.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
+                "file": "_posts/2014-10-15-more-android-than-android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2015-10-01-nexus-chromecast-google-product-empire.md"
+                "file": "_posts/2014-10-15-more-android-than-android.md"
               }
             }
           }
@@ -171,8 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08677e049115188d",
+  "active": "e0889f596a78a991",
   "lastOpenFiles": [
+    "assets/nexus-player-android-tv.jpeg",
+    "assets/nexus-player-console.jpeg",
+    "assets/amazon-fire-tv.jpeg",
+    "assets/chromecast-tv.jpg",
+    "assets/nexus-q.jpg",
+    "assets/nexus-player.jpeg",
+    "assets/nexus-player-image.jpeg",
+    "_posts/wip/More Android than Android- Nexus Player targets the living room.md",
+    "_posts/2014-10-15-more-android-than-android.md",
+    "_posts/wip/More Android than Android- Google announces Nexus 9 to counter.md",
+    "assets/nexus-9-tablets.jpeg",
+    "assets/floating-nexus-9.jpeg",
+    "assets/nexus-9-on-table.jpeg",
+    "assets/many-nexus-6.jpeg",
+    "_posts/wip/What’s next from Google.md",
+    "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
     "_posts/2015-09-10-apple-tv-siri-app-store.md",
     "_posts/2015-08-17-apple-music-design-broken.md",
     "_posts/2014-11-17-healthkit-core-motion-ios-step-counting.md",
@@ -187,29 +203,13 @@
     "_posts/2016-11-22-android-nougat.md",
     "_posts/2016-10-11-google-pixel-unifies-android-ux.md",
     "_posts/2016-07-08-apple-design-ios-10-accessibility.md",
-    "_posts/2015-10-01-nexus-chromecast-google-product-empire.md",
     "_posts/2016-11-08-google-pixel-microsoft-surface.md",
     "_posts/wip/What to expect at Apple’s October 16 iPad event.md",
     "_posts/wip/2014-11-17-healthkit-core-motion-ios-step-counting.md",
-    "assets/healthkit-apps.png",
-    "assets/healthkit_more.png",
-    "assets/health-ios-8.png",
-    "assets/health_hero.png",
     "_posts/wip/Extensibility.md",
     "_posts/wip/CloudKit.md",
     "_pages/index.md",
-    "_pages/now.md",
-    "_pages/colophon.md",
-    "_pages/about.md",
-    "assets/google-wallet-contactless.jpg",
-    "assets/google-wallet-in-action1.jpg",
-    "assets/simple-bank.jpg",
-    "assets/2013-01-09-09.41.03-e1358501002700.jpg",
-    "assets/google-wallet-iphone.jpg",
-    "assets/google_waller_iphone.jpg",
-    "_posts/wip/PhotoKit.md",
     "_posts/wip/~$l banking is mobile banking.docx",
-    "_posts/wip/More Android than Android- Nexus Player targets the living room.md",
     "_posts/wip/All banking is mobile banking.docx",
     "_posts/wip/How can print publishers continue to adapt to mobi.docx",
     "_posts/wip/What does Google_s Material Design mean for consum.docx",
