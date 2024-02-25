@@ -9,7 +9,7 @@ original_url: https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-i
 
 ![](/assets/apple-music-devices.jpeg)
 
-Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](/2014/11/13/itunes-is-dead-long-live-itunes) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
+Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](/itunes-is-dead) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
 
 But the service and its apps—the refreshed Music app on iOS and iTunes on desktop–have garnered negative attention for their confusing layouts and bloated feature sets. In the weeks since its June 30 debut, Apple has already begun tweaking how Apple Music works to address some of the major issues, with iOS 9 beta builds and iTunes 12.2.2 already introducing some adjustments. 
 

@@ -2,6 +2,7 @@
 layout: post
 title: iTunes is dead, long live iTunes
 date: 2014-11-13
+permalink: /itunes-is-dead
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music
