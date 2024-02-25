@@ -61,8 +61,8 @@ time {
   line-height: 1.5;
 }
 
-.site-title {
-  color: var(--color-subtext);
+#site-title {
+  color: var(--color-subtext) !important;
 }
 
 footer {
