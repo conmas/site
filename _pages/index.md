@@ -12,7 +12,7 @@ More <a href="/about">about me</a>. See what I’m up to <a href="/now">now</a>.
 
 ## Writing
 
-I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, but I’m working on restoring them.
+I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, so hang tight as I continue to restore them.
 
 <ul>
   {% assign recent_posts = site.posts | sort: "last_modified_at_timestamp" %}
