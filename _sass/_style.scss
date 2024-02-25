@@ -1,19 +1,19 @@
 /* Default (light mode) colors */
-$color-primary: hsl(0, 0%, 10%);
+$color-paper: #FFFCF0;
 $color-text: #100F0F;
 $color-subtext: #575653;
 $color-border: hsl(0, 0%, 85%);
 $color-accent: #3AA99F;
-$color-paper: #FFFCF0;
-$color-box-background: mix($color-primary, white, 4%);
+$color-box-background: mix($color-paper, $color-text, 5%);
 
 /* Dark mode colors */
 @media (prefers-color-scheme: dark) {
-  --color-primary: hsl(0, 0%, 90%);
-  --color-text: #CECDC3;
-  --color-subtext: #B7B5AC;
-  --color-accent: #24837B;
-  --color-paper: #100F0F;
+  :root {
+    $color-paper: #100F0F;
+    $color-text: #CECDC3;
+    $color-subtext: #B7B5AC;
+    $color-accent: #24837B;
+  }
 }
 
 $border-radius: 4px;
@@ -163,7 +163,6 @@ a {
   text-decoration: none;
   color: $color-accent;
   &:hover {
-    color: $color-primary !important;
     background: #ebfffa;
   }
 }
