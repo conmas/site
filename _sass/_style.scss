@@ -201,15 +201,3 @@ table { text-align: left; font-size: 0.75em; }
 th { margin-top: 5px !important; }
 tr { border-top: 1px solid var(--tx-2) !important; }
 td { margin-right: 5px !important; }
-
-.invalid-link {
-  color: var(--tx-2);
-  cursor: help;
-  background: #fafafa;
-  padding: 0 0.1em;
-}
-
-.invalid-link-brackets {
-  color: #ccc;
-  cursor: help;
-}
