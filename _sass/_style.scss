@@ -13,7 +13,7 @@
   :root {
     --color-paper: #100F0F;
     --color-text: #CECDC3;
-    --color-subtext: #B7B5AC;
+    --color-subtext: #9e9e96;
     --color-accent: #24837B;
     --color-inset: #343331;
   }
@@ -60,6 +60,10 @@ time {
   color: var(--color-subtext);
   font-size: 0.9rem;
   line-height: 1.5;
+}
+
+.site-title {
+  color: var(--color-subtext);
 }
 
 footer {
