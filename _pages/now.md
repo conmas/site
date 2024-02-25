@@ -32,4 +32,4 @@ You can find the latest movies I’ve watched, rated, and reviewed on my [Letter
 
 My recent posts on Mastodon are imported here. Based on a script by [Tim Purdum](https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js).
 
-<script src="./mastodon.js"></script>
+<div id="toot-list"><script src="./mastodon.js"></script></div>

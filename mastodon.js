@@ -1,5 +1,5 @@
 const rss_url = 'https://hachyderm.io/@connor.rss';
-let tootList = document.getElementById('mastodon');
+let tootList = document.getElementById('toot-list');
 
 fetch(rss_url)
 	.then(response => response.text())
