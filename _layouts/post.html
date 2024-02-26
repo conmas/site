@@ -16,22 +16,20 @@ layout: default
     {% unless words contains "-" %}
       {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
     {% endunless %}
+    {% if page.attribution %}
+      • Originally published
+      {% if page.original_site and page.original_url %}
+        on <a href="{{ page.original_url }}">{{ page.original_site }}</a>
+      {% elsif page.original_site %}
+        on {{ page.original_site }}</p>
+      {% else %}
+        elsewhere.
+      {% endif %}
+    {% endif %}
   </time>
   
   <content>
 	  {{ content }}
   </content>
-  
-  <div id="attribution">
-    {% if page.attribution %}
-      {% if page.original_site and page.original_url %}
-        <p>This post was originally published on <a href="{{ page.original_url }}">{{ page.original_site }}</a>.</p>
-      {% elsif page.original_site %}
-        <p>This post was originally published on {{ page.original_site }}.</p>
-      {% else %}
-        <p>This post was originally published elsewhere.</p>
-      {% endif %}
-    {% endif %}
-  </div>
   
 </article>
