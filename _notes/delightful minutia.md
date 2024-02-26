@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: Delightful minutia
 date: 2023-09-07
 ---
