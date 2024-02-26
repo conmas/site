@@ -25,7 +25,7 @@ I’ve written extensively over the years for various blogs and websites, some m
 
 See [more writing](/writing).
 
-<!-- ## Recently updated notes
+## Notes
 
 <ul>
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
@@ -34,4 +34,4 @@ See [more writing](/writing).
       {{ note.last_modified_at | date: "%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
-</ul> -->
+</ul>
