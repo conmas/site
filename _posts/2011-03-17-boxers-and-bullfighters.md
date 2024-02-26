@@ -18,12 +18,12 @@ Similarly, in *The Sun Also Rises*, Jake considers himself at odds with others h
 
 Perhaps the most relevant of Boxer‘s dozen tracks to this sense of detachment and interpersonal impotence is “Slow Show,” a ballad which has seen several varying iterations over the years and opens with Berninger’s discomfort at some unknowable social gathering:
 
-> Standing at the punch table, swallowing punch.
-> Can’t pay attention to the sound of anyone.
-> \[...]
-> I made a mistake in my life today,
-> Everything I love gets lost in drawers.
-> I want to start over, I want to be winning,
+> Standing at the punch table, swallowing punch.  
+> Can’t pay attention to the sound of anyone.  
+> \[...]  
+> I made a mistake in my life today,  
+> Everything I love gets lost in drawers.  
+> I want to start over, I want to be winning,  
 > Way out of sync from the beginning. [“Slow Show”][#National:Slow Show]
 
 At the outset, it has already been made clear his discomfort at social interaction and, near the end of the excerpted lines, his frustration in romance with some anonymous lover. His yearning for a fresh start imply a different sort of limitation hinders Berninger’s ability to express his feelings for someone, and his mea culpa and admission of miscommunication shed some light upon the nature of the obstacle. Despite this, however, he later confesses his desire to “hurry home to \[her and] / put on a slow, dumb show for \[her]” and—at the end of a song in a segment memorable enough to have been lifted from one of their earlier songs, “29 Years”—he mentions having “dreamed about \[her] / for 29 years before \[he] met \[her]” [Berninger][#National:Slow Show]. Here again we see the romantic longing and admiration with an inability to follow through, a pain which apparently both Matt Berninger and Jake Barnes are more than familiar with. And, much as Jake longs to ultimately hold Brett as his own, to reign her in from her promiscuity and worldly adventures to become his “own true love” [62][#Hemingway:Sun], so, too, does Berninger suggest that one “tie \[his] woman to \[his] waist / \[and] give her room to tie the other” [“Guest Room”][#National:Guest Room].

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Blog
-id: blog
-permalink: /blog
+title: Writing
+id: writing
+permalink: /writing
 ---
-# Blog
+# Writing
 
 I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, so hang tight as I continue to restore them.
 

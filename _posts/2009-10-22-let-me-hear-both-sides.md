@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Let me hear both sides”&#58; Radiohead and the tradition of political discourse
+title: “Let me hear both sides”&#58; Radiohead and political discourse
 date: 2011-02-16
 attribution: true
 original_site: Masoni Raves About
@@ -15,10 +15,10 @@ In the time of Thomas Paine’s political activism, ideas were expressed almost 
 
 A real modern example of the rock anthem, “2+2=5,” opener of *Hail to the Thief*—while obviously inspired more by Orwell’s dystopias than by the political treatises of Thomas Paine—nonetheless presents a great deal of politically-charged information right from the beginning. The album’s vocals begin with Yorke asking an anonymous authority mockingly, “Are you such a dreamer / To put the world to rights?” As the song progresses, however, his perspective becomes increasingly pessimistic, mentioning that “January has April's showers / And two and two always makes a five,” casting doubt upon the administration’s rejection of climate change science by likening it to the Oceanic doublespeak in George Orwell’s classic *1984*. Additionally, every track on the album is listed with its subtitle in parentheses, and the composition’s full name is “2+2=5 (The Lukewarm.),” suggesting that the intended audience of Yorke’s lyrics is political moderates and apathetic swing voters. Immediately after Thom mourns the environment’s being led to ruin comes the song’s volta, 
 
-> It’s the devil’s way now
-> There is no way out
-> You can scream and you can shout
-> It is too late now
+> It’s the devil’s way now  
+> There is no way out  
+> You can scream and you can shout  
+> It is too late now  
 > Because you have not been paying attention. [“2+2=5 (The Lukewarm.)”][#Radiohead:2+2=5]
 
 I fail to imagine a clearer call to arms than the frustrated lyrics here, as he repeats those last few words in a repetitive, deranged whine until the song’s conclusion.
@@ -29,10 +29,10 @@ Exploitation is an argument utilized by both Thomases Paine and Yorke, and each 
 
 In the case of Radiohead, exploitation of the working class at the hands of the capitalist machine is the subject of “We Suck Young Blood (Your Time Is Up.),” a nightmarish piano ballad which could define the album’s distinctive sound. Between handclaps and haunting backup vocals Yorke asks of potential laborers, 
 
-> Are you hungry?
-> Are you sick?
-> Are you begging for a break? \[...]
-> Are you strung up by the wrists?
+> Are you hungry?  
+> Are you sick?  
+> Are you begging for a break? \[...]  
+> Are you strung up by the wrists?  
 > We want the young blood [“We Suck Young Blood (Your Time Is Up.)”][#Radiohead:We suck Young Blood]
 
 Here he casts monopolizing corporations as vampirish monsters preying on the weak and disadvantaged [116][#Tate:We (Capitalists)]. Thom’s distinctive falsetto wailing continues for another five minutes, interlaced with intense piano crescendos and a cappella backup vocals. The result is an effective metaphor relating real capitalism with a terrifying horror film where controlling vampires exploit the dependent elements of society, producing a memorable and visceral image in listeners’ minds.
