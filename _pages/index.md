@@ -23,7 +23,7 @@ I’ve written extensively over the years for various blogs and websites, some m
   {% endfor %}
 </ul>
 
-See [all blog posts](/blog).
+See [all blog posts](/writing).
 
 <!-- ## Recently updated notes
 
