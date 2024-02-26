@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: note
 title: Wisdoms
 id: wisdoms
 permalink: /wisdoms
@@ -20,7 +20,10 @@ These are meaningful, insightful, helpful, interesting, or funny to *me*, but yo
 - Sometimes being the butt of the joke is the coolest thing you can do.
 - Ask people about themselves. Listen to what they have to say. Assume everyone you meet just wants to feel understood.
 - Round up to whole bills when tipping at restaurants.
-- Related: everyone should work a job in the service industry at some point in their lives. You can tell when someone hasn’t.
+	- Related: everyone should work a job in the service industry at some point in their lives. You can tell when someone hasn’t.
+- Live every day as if you know it's all going to work out.
+	- Also: Live every day as if you've deliberately come back in time to this one day, to enjoy it.[^3]
 
 [^1]: I’ve also seen this attributed to Johann Wolfgang von Goethe.
 [^2]: Purportedly [misattributed](https://en.wikiquote.org/wiki/Wilhelm_Stekel#Misattributed) in *The Catcher in the Rye*, but I’d consider it paraphrasing.
+[^3]: Both paraphrased from *About Time*, my favorite movie.
