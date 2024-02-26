@@ -5,7 +5,6 @@ date: 2011-02-16
 attribution: true
 original_site: The Masoni Review
 ---
-
 ![](https://upload.wikimedia.org/wikipedia/commons/c/c9/Steve_Jobs_with_the_Apple_iPad_no_logo.jpg)
 
 ## How Apple won the everyman
@@ -52,7 +51,7 @@ But for Apple, the advertising is decidedly different. Their commercials show th
 
 This contrast remains true in the new age of iPads and Android-based tablet competitors (the exception to this rule, of course, is Palm, who created both their hardware and the fantastic webOS until recently acquired by HP. It will be interesting to see what the focus is in advertising for the next Pre and touchPad). I promise you, over the next few months you’ll hear the words “Honeycomb” and “Snapdragon” in advertisements more times than you can count — but I doubt you’ll hear A5 or iOS uttered once in commercials. An example of Android tablet advertising:
 
-![](http://www.youtube.com/v/ndhuEUX1kIU)
+<iframe width="100%" src="https://www.youtube.com/embed/ndhuEUX1kIU?si=qPDVRTUOMBUQuNow&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 By not suggesting to customers that they might divorce the software and hardware, Apple is leading them to the conclusion that every element of the iPhone or iPad is an intrinsic factor of the overall product, that every component is merely part of a whole, rather than a selling point. It just works. They focus not on the statistics but on the experience — from Apple’s front page for the iPad:
 

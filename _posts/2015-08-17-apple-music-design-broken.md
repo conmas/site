@@ -23,7 +23,7 @@ When users first open the Music app after updating to iOS 8.4, they are immediat
 
 One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its onboarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
 
-![Vimeo](https://vimeo.com/132839044)
+<div style="padding:177.78% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/132839044?h=e48b881389&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 These selections inform all the customized content and recommendations that follow, but represent the strongest and, frankly, only component of Apple Music’s onboarding process. Users are dumped into an interface that does little to explain itself beyond a notification that appears if they select the heart button on a track, album, or playlist. 
 
