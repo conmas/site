@@ -190,11 +190,14 @@ nav { margin: 1em 0 3em; }
 #sidebar-container {
   display: grid;
   grid-gap: 2em;
-  grid-template-columns: 2fr 1fr;
-  grid-template-areas: "content side";
+  grid-template-areas: "content content side";
+  @media (min-width: 700px) {
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas: "content side";
+  }
 }
 
-.toot-list { font-size: 0.9em; }
+side.toot-list { width: 33%; font-size: 0.9em; }
 .toot { padding-bottom: 1rem; }
 .toot-details { color: var(--tx-3); }
 
