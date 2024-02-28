@@ -28,10 +28,10 @@ Outside of work, I’m focused on life in the Chicago suburbs with my wife Abby 
 
 You can find the latest movies I’ve watched, rated, and reviewed on my [Letterboxd](https://letterboxd.com/conmas) profile. Most nights I like to watch awful movies that Abby and I can make fun of together.
 
-## Mastodon
-
-My recent posts on Mastodon are imported here. Based on a script by [Tim Purdum](https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js).
-
----
-
-<div id="toot-list"><script src="./mastodon.js"></script></div>
+<side style="font-size: 0.9em">
+  <h3 style="margin-bottom: 1em">Mastodon</h3>
+  <div id="toot-list" style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+    <script src="./mastodon.js"></script>
+  </div>
+  <p>Based on a script by [Tim Purdum](https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js).</p>
+</side>
