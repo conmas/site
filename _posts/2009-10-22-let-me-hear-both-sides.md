@@ -40,41 +40,7 @@ Here he casts monopolizing corporations as vampirish monsters preying on the wea
 Yorke, in the spirit of Paine, uses his art form to affect serious political change in contemporary society, utilizing similar rhetoric and presenting traditional arguments in a nontraditional and atypical media. Although separated by centuries and for the most part ignorant of one another, one cannot help but imagine that both Thomases would have gotten along famously, as both of them encouraged their cultures to, as Paine intones on page 997, “oppose not only the tyranny but the tyrant, stand forth! \[…] and prepare an asylum for mankind.”
 
 [#Harris]: Harris, Shannon M. "Thomas Paine 1737-1809" *Heath Anthology of American Literature*. 6th ed. Vol. A. Boston: Houghton Mifflin, 2009. 989-91.
-
 [#Paine]: Paine, Thomas. "From *Common Sense*" *Heath Anthology of American Literature*. 6th ed. Vol. A. Boston: Houghton Mifflin, 2009. 992-7.
-
 [#Tate:Anti-videos]: Tate, Joseph. "Radiohead's Anti-videos: Works of Art in the Age of Electronic Reproduction." *Postmodern Culture* 12.3 (2002). Postmodern Culture. [Web](http://pmc.iath.virginia.edu/issue.502/12.3tate.html). 21 Oct. 2009.
-
 [#Tate:We (Capitalists)]: Tate, Joseph. "We (Capitalists) Suck Young Blood." *Radiohead and Philosophy*. Ed. Brandon W. Forbes and George A. Reisch. Chicago, IL: Open Court, 2009. 111-21.
-
 [#NME]: *NME Magazine*. 3 May 2003: 27. Print.
-
-[#Yorke]: Yorke, Thom. *Hail to the Thief*. Radiohead. Nigel Godrich, 2003. CD.
-
-[#Radiohead:2+2=5]: Radiohead. “2+2=5 (The Lukewarm.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Sit down. Stand up.]: Radiohead. “Sit down. Stand up. (Snakes & Ladders.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Sail to the Moon]: Radiohead. “Sail to the Moon. (Brush the Cobwebs out of the Sky.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Backdrifts]: Radiohead. “Backdrifts. (Honeymoon is Over.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Go to sleep]: Radiohead. “Go to sleep. (Little Man being Erased.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Where I End and You Begin]: Radiohead. “Where I End and You Begin. (The Sky is Falling in.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:We suck Young Blood]: Radiohead. “We suck Young Blood. (Your Time is up.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:The Gloaming]: Radiohead. “The Gloaming. (Softly Open our Mouths in the Cold.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:There there]: Radiohead. “There there.” (The Boney King of Nowhere.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:I will]: Radiohead. “I will. (No man's Land.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:A Punchup at a Wedding]: Radiohead. “A Punchup at a Wedding. (No no no no no no no no.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Myxomatosis]: Radiohead. “Myxomatosis. (Judge, Jury & Executioner.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:Scatterbrain]: Radiohead. “Scatterbrain. (As Dead as Leaves.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
-
-[#Radiohead:A Wolf at the Door]: Radiohead. “A Wolf at the Door. (It Girl. Rag Doll.)” *Hail to the Thief*. Nigel Godrich, 2003. CD.
