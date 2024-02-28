@@ -6,7 +6,7 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile
 ---
-![](/assets/google-wallet-iphone.jpg)
+![Image of a hand holding an iPhone, showing a transaction in the Google Wallet app for transferring money to a friend.](/assets/google-wallet-iphone.jpg)
 
 As more and more industries work to reinvent their products and services to align with mobile growth, major companies have invested heavily in ways to offer entirely new product experiences to their customers on the go. One persistent example is the banking industry—some of the world’s largest and most enduring brands have begun pivoting to accommodate an expected [300% explosion of mobile banking adoption](http://www.americanbanker.com/issues/177_243/mobile-banking-will-grow-300-percent-over-the-next-four-years-aite-1055318-1.html) among increasingly connected consumers. But they’re doing more than releasing a shoddy mobile app—many of these companies are completely reimagining their businesses to attract younger, tech-hungry audiences and engage with new generations of mobile bankers.
 
@@ -16,7 +16,7 @@ When the iPhone and other platforms introduced their app marketplaces, major ban
 
 These apps began to attract a new kind of banking customer, whose priorities extended beyond the ability to make a withdrawal. New banking solutions like [Ally](http://www.ally.com/) not only prioritized the online banking experience, they made it their only experience, reducing overhead and allowing for the creation and management of a checking or savings account without ever visiting a brick and mortar storefront. Many online banks eschewed traditional luxuries like physical ATMs or even paper checks, instead prioritizing innovative new ways to get around the need for those analog tools like automatic bill pay and peer-to-peer payment systems.
 
-![](/assets/simple-bank.jpg)
+![Photograph of a Simple bank debit card package, strapped to a cardboard mailer reading "it's a good day."](/assets/simple-bank.jpg)
 
 Startups like [Simple](https://www.simple.com/) aimed to demystify the banking experience for a new generation of mobile users, and thousands of early adopters signed up for “beta” access to become a member. Besides its lack of overdraft fees and account minimums, Simple focused on a minimal design and leading customer service, all rolled up into a robust and straightforward mobile app. With Simple, bankers don’t even have the complexity of checking or savings accounts—like Gmail, it encourages users to assign labels called “Goals” to their dollars, mentally setting them aside for a future vacation or purchase.
 
@@ -24,7 +24,7 @@ Startups like [Simple](https://www.simple.com/) aimed to demystify the banking e
 
 Traditional banks weren’t the only ones to reimagine money for mobile. Technology startups like PayPal focused not on the accruement or management of money, but instead on new avenues to use it. PayPal ignited an entire industry of online payment providers by allowing users to either link up their bank accounts or carry a balance within PayPal to complete purchases on sites across the web. It was now possible for internet users to accept and make payments not only without a brick and mortar bank location, but without necessarily interacting with their bank accounts at all.
 
-![](/assets/google-wallet-contactless.jpg)
+![A promotional image of a person using tap-to-pay with an Android handset running Google Wallet in a retail store checkout.](/assets/google-wallet-contactless.jpg)
 
 But what about simplifying the transaction process further—what if transactions could be made from person to person? [Square](http://www.squareup.com), inventor of the mobile point-of-sale systems that are helping to define [the future of retail](http://www.punchkick.com/blog/2014/08/18/what-does-the-retailer-of-the-future-look-like), recently introduced [Square Cash]([https://square.com/cash](https://square.com/cash)), a way for smartphone or even email users to send money to friends over a minimalist mobile app. Other newcomers like [Venmo](https://venmo.com/) and even new products from existing finance giants like [Chase QuickPay](https://www.chase.com/online-banking/quickpay) are similarly designed to allow seamless cash transactions between two human beings, and eliminate many of the banking system holdups that historically plagued simple money transfers.
 

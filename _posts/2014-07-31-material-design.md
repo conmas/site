@@ -7,7 +7,7 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/07/31/what-does-googles-material-design-mean-for-consumer-brand-apps
 ---
-![](/assets/material-design-neon.png)
+![Illustration of Material Design components across a laptop, tablet, and phone form factor in neon green and purple colors.](/assets/material-design-neon.png)
 
 In recent years, Google has put an increased emphasis on the design and consistency of its products’ web and mobile interfaces. At this year’s I/O developer conference, the company announced its latest design initiative for the web and Android, which it dubbed “[Material Design](https://www.google.com/design/spec/material-design/introduction.html).” We sat down with [Andy Detskas](https://www.andydetskas.com), an interactive designer at Punchkick, and talked about what these new design guidelines mean for consumer brands and their Android apps.
 
@@ -17,7 +17,7 @@ Google is the epitome of a data company, so its early design decisions were info
 
 In May 2010, Google hired former Palm designer [Matías Duarte](https://plus.google.com/+MatiasDuarte) to lead its Android user experience team. At the mandate of the company’s new CEO Larry Page, Google undertook a [sweeping redesign](https://googleblog.blogspot.com/2011/06/evolving-google-design-and-experience.html) of all its core services and applications, an initiative codenamed Project Kennedy. In subsequent years, Google revisited the design of products like [Search](https://googleblog.blogspot.com/2011/11/next-stage-in-our-redesign.html), [Gmail](http://gmailblog.blogspot.com/2011/11/gmails-new-look.html), and [YouTube](https://www.theverge.com/2011/11/14/2560748/youtube-redesign-testing-google-plus) in the interest of continuity and useability. But we learned at this year’s Google I/O that the company wasn’t stopping there.
 
-![](/assets/material-design-dialog-components.png)
+![Documentation illustration showing a permissions dialog box using Material Design standards, with guidelines for pixel distances between elements and text hierarchy for titles, content, and action buttons.](/assets/material-design-dialog-components.png)
 
 ## Enter Material Design
 
@@ -33,7 +33,7 @@ Apple has long maintained guidelines of similar intent and scope, called the Hum
 
 Google published an immense [48-page manual](https://www.google.com/design/spec/material-design/) on its new [design portal](https://www.google.com/design) that outlines the thinking behind its system and the principles that support it. The guide includes suggestions for the structure and behavior of [buttons](https://www.google.com/design/spec/components/buttons.html), [menus](https://www.google.com/design/spec/components/menus.html), and even notification bubbles Google calls [snackbars and toasts](https://www.google.com/design/spec/components/snackbars-and-toasts.html). Not limited to Android phones and tablets, the Material Design guidelines address interfaces across the growing ecosystem of “Android” branded devices, including Android Wear smartwatches and televisions running Android TV. “I think that in some ways, Material Design is even better than the HIG because it makes the experience of working in Android native. It answers a lot of questions about how things will behave, and gives designers something to grab onto.”
 
-![](/assets/material-design-swirl.png)
+![Abstract illustration of red lines against an indigo background, with lines angling like a magnetic field around an opaque circle as their center of gravity.](/assets/material-design-swirl.png)
 
 ## The Material web
 
@@ -47,7 +47,7 @@ While Polymer itself doesn’t include or enforce Material Design techniques, th
 
 [^1]: Polymer project [FAQs](http://www.polymer-project.org/resources/faq.html).
 
-![](/assets/material-design-sliders.png)
+![Material Design documentation for a slider UI element, showing normal, focused, clicked, and disabled states at multiple values, with a blue color when active.](/assets/material-design-sliders.png)
 
 ## Material branding
 
