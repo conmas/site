@@ -200,8 +200,8 @@ nav { margin: 1em 0 3em; }
   }
 }
 
-.toot { padding-bottom: 1rem; }
-.toot-details { color: var(--tx-3); }
+.toot { padding-bottom: 1rem; font-size: .75em; }
+.toot-details { color: var(--tx-3); font-size: .5em; }
 
 table { text-align: left; font-size: 0.75em; font-variant-numeric: tabular-nums; }
 th { margin-top: 5px !important; }
