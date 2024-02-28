@@ -6,11 +6,11 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
-      Last updated {{ page.date | date: "%B %-d, %Y" }}
+      Updated {{ page.date | date: "%B %-d, %Y" }}
     </time>
   </div>
 
-  <div id="notes-entry-container">
+  <div id="sidebar-container">
     <content>
       {{ content }}
     </content>
