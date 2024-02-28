@@ -1,6 +1,7 @@
 ---
 layout: note
 title: Flyback transformer
+date: 2024-02-25
 ---
 There's a type of electrical component called a *flyback transformer*, which was used in cathode ray tube displays, including Macs, until the mid-2000s.
 

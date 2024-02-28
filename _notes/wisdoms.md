@@ -3,6 +3,7 @@ layout: note
 title: Wisdoms
 id: wisdoms
 permalink: /wisdoms
+date: 2024-02-25
 ---
 Here I collect a list of “wisdoms” I’ve picked up throughout my life. This is inspired by the [Wisdom Project](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) by Merlin Mann, and I’d say his introductory remarks with qualifications and context apply equally here.
 
