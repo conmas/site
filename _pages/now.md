@@ -1,14 +1,11 @@
 ---
-layout: page
+layout: now
 title: Now
 permalink: /now
 date: 2024-02-24
 tags:
   - Meta
 ---
-# Now
-<time>Updated February 24, 2024</time>
-
 This page is inspired by the [`/now`](https://nownownow.com/about) page project, which focuses on life updates that are more generalized than social media status updates or posts, and instead cover things you’d tell a friend you hadn’t seen in a while.
 
 ## Work
@@ -27,11 +24,3 @@ I’m currently <script>document.write(`${(new Date()-new Date("1991-07-26T13:44
 Outside of work, I’m focused on life in the Chicago suburbs with my wife Abby and three-year-old son Miles. I’m increasingly (trying to) focus on my health, and I’m coming up on a year sober.
 
 You can find the latest movies I’ve watched, rated, and reviewed on my [Letterboxd](https://letterboxd.com/conmas) profile. Most nights I like to watch awful movies that Abby and I can make fun of together.
-
-<side style="font-size: 0.9em">
-  <h3 style="margin-bottom: 1em">Mastodon</h3>
-  <div id="toot-list" style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
-    <script src="./mastodon.js"></script>
-  </div>
-  <p>Based on a script by [Tim Purdum](https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js).</p>
-</side>

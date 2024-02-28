@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<article>
+  <div>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+      Current as of {{ page.date | date: "%B %-d, %Y" }}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Mastodon</h3>
+      <div id="toot-list" style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+        <script src="./mastodon.js"></script>
+      </div>
+      <p>Based on a script by <a href="https://github.com/TimPurdum/timpurdum.github.io/blob/main/main.js">Tim Purdum</a>.</p>
+    </side>
+  </div>
+</article>
