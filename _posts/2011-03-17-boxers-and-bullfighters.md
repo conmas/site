@@ -3,6 +3,13 @@ layout: post
 title: Boxers and bullfighters
 date: 2011-03-17
 attribution: true
+category:
+  - "[[Posts]]"
+tags:
+  - posts
+permalink: 
+status: 
+original_site:
 ---
 The Lost Generation, a term coined by author Gertrude Stein to refer to the loose community of expatriate writers and artists living in France after the First World War, came to symbolize the strife and boredom of a generation who came of age in the midst of violent global cataclysm. Theirs was an existential struggle, their quest a search for fulfillment and peace after having been stripped of their youthful innocence by the world-swallowing maelstrom of machine guns and chlorine gas. Literature produced by these expatriate writers and their contemporaries, including Ernest Hemingway’s quintessential Lost Generation novel *The Sun Also Rises* in 1926, were defined primarily and most visibly by an existential ennui, a sense of impotence in both romance and cultural efficacy, and a debilitating nostalgia for the childlike simplicity of which they were so prematurely robbed.
 

@@ -4,6 +4,12 @@ title: Ender’s Game, nets, and Twitter harassment
 date: 2019-02-10
 attribution: true
 original_site: Twitter
+category:
+  - "[[Posts]]"
+tags:
+  - posts
+permalink: 
+status:
 ---
 ![Visual effects from the *Ender's Game* film showing the zero-gravity "battle room."](https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg)
 

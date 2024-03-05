@@ -4,6 +4,12 @@ title: What if Apple replaced all its Mac apps with Catalyst?
 date: 2019-04-14
 attribution: true
 original_site: Medium
+category:
+  - "[[Posts]]"
+tags:
+  - posts
+permalink: 
+status:
 ---
 ![An image of a laptop in the dark, half closed, with the backlight from the screen illuminating its keyboard and the surrounding surface.](/assets/laptop-marzipan.webp)
 
