@@ -9,15 +9,14 @@ layout: default
       Updated {{ page.date | date: "%B %-d, %Y" }}
     </time>
   </div>
-
-  <div id="sidebar-container">
-    <content>
-      {{ content }}
-    </content>
-
-    <side id="toot-list">
+  
+  <content>
+    {{ content }}
+  </content>
+  
+  <div id="toots">
       <h3>Mastodon posts</h3>
       <script src="./mastodon.js"></script>
-    </side>
   </div>
+  
 </article>
