@@ -1,27 +1,74 @@
-.highlight  {
-  background: var(--bg-2);
-  padding: 1px 1em;
-  border-radius: 3px;
-  overflow: auto;
-  margin: 1em -1em;
-  code { padding: 0; }
-}
-
-code {
-  font-size: 0.9em;
+code, kbd {
   font-family: ui-monospace !important;
-  background-color: var(--bg-2);
+  background: var(--bg-2);
+  padding: 0.1em 0.2em;
+  border-radius: 4px;
+  font-size: 90%;
+}
+kbd {
+  font-weight: 600;
+  border: 1px solid var(--ui-hover);
+}
+pre {
+  font-family: var(--font-mono);
+  border-radius: 4px;
+  padding: 1em;
+  font-size: 90%;
+  border: 1px solid var(--ui-normal);
+}
+pre code {
+  background-color: transparent;
 }
 
-div.highlight { display: grid; }
+div.highlight {
+  display: grid;
+}
 
-.highlight .cm { color: var(--tx-3); font-style: italic } /* Comment */
-.highlight .er { color: var(--re); }                      /* Error */
-.highlight .fn { color: var(--or); }                      /* Function */
-.highlight .cn { color: var(--ye); }                      /* Constant */
-.highlight .kw { color: var(--gr); font-weight: bold }    /* Keyword */
-.highlight .op { color: var(--tx-2); font-weight: bold }  /* Operator */
-.highlight .st { color: var(--gr); }                      /* String */
-.highlight .vr { color: var(--bl); }                      /* Variable */
-.highlight .nu { color: var(--pu); }                      /* Number */
-.highlight .lf { color: var(--ma); }                      /* Language feature */
+/* src https://stephango.com/.sass/content/_code.scss */
+
+.highlight  {
+  border-radius: 4px;
+  overflow: auto;
+  margin: 1em 0;
+
+  .c, .cm, .cp, .c1, .cs { color: var(--tx-3); } /* Comment */
+  .err { color: var(--re);} /* Error */
+  .k  { color: var(--gr); } /* Keyword */
+  .o  { } /* Operator */
+  .p { color: var(--tx-2); } /* Punctuation */
+  .gd {  } /* Generic.Deleted */
+  .gd .x { } /* Generic.Deleted.Specific */
+  .ge { font-style: italic } /* Generic.Emph */
+  .gr { color: var(--re); } /* Generic.Error */
+  .gh { color: var(--tx-3) } /* Generic.Heading */
+  .gi { } /* Generic.Inserted */
+  .gi .x { } /* Generic.Inserted.Specific */
+  .go { color: var(--tx-2); } /* Generic.Output */
+  .gp { color: var(--tx-2); } /* Generic.Prompt */
+  .gs { } /* Generic.Strong */
+  .gu { color: var(--tx-2); } /* Generic.Subheading */
+  .gt { color: var(--re); } /* Generic.Traceback */
+  .kc, .kd, .kp, .kr, .kt { color: var(--bl); } /* Keyword */
+  .m, .mf, .mh, .mi, .mo { color: var(--pu); } /* Literal.Number */
+  .s, .sb, .sc, .sd, .sh, .si, .sx { color: var(--gr) } /* Literal.String */
+  .na { color: var(--or) } /* Name.Attribute */
+  .nb { color: var(--gr); } /* Name.Builtin */
+  .nc { color:var(--bl); } /* Name.Class */
+  .no { color: var(--cy) } /* Name.Constant */
+  .ni {  } /* Name.Entity */
+  .ne {  } /* Name.Exception */
+  .nf {  } /* Name.Function */
+  .nn { color: var(--tx-2); } /* Name.Namespace */
+  .nt {  } /* Name.Tag */
+  .nv { color: var(--cy) } /* Name.Variable */
+  .nx {  }
+  .o  { color: var(--re); }
+  .ow { } /* Operator.Word */
+  .w  { color: var(--tx-3); } /* Text.Whitespace */
+  .s2, .s1 { color: var(--cy) } /* Literal.String.Double */
+  .se, .sr, .ss { color: var(--re) } /* Literal.String.Escape, Regex, Symbol */
+  .bp { color: var(--tx-3) } /* Name.Builtin.Pseudo */
+  .vc, .vg, .vi { color: var(--cy) } /* Name.Variable */
+  .il { color: var(--pu); } /* Literal.Number.Integer.Long */
+
+}
