@@ -1,6 +1,6 @@
 code, kbd {
   font-family: ui-monospace !important;
-  background: var(--bg-2);
+  background-color: var(--bg-2);
   padding: 0.1em 0.2em;
   border-radius: 4px;
   font-size: 90%;
@@ -16,12 +16,10 @@ pre {
   font-size: 90%;
   border: 1px solid var(--ui-normal);
 }
-pre code {
-  background-color: transparent;
-}
 
 div.highlight {
   display: grid;
+  background-color: var(--bg-2);
 }
 
 /* src https://stephango.com/.sass/content/_code.scss */
