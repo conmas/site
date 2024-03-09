@@ -63,4 +63,4 @@ if __name__ == "__main__":
 python3 update_file_dates.py /path/to/your/documents
 ```
 
-Reach out if you have any questions or recommendations for improvements.
+This script can be easily adjusted to support `.txt` files, other date front matter like `created`, or other date formats, if needed. Reach out if you have any questions or recommendations for improvements.
