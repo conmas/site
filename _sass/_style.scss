@@ -187,11 +187,11 @@ a {
 
 nav { margin: 1em 0 3em; }
 
-.backlinks, .toots { font-size: 0.9em }
+.backlinks, .toots, .toot-body { font-size: 0.9em }
 .backlinks h3, .toots h3 { margin-bottom: 1em }
 
 .toot { padding-bottom: 1rem; }
-.toot-details { color: var(--tx-3); }
+.toot-meta { color: var(--tx-3); }
 
 table { text-align: left; font-size: 0.75em; font-variant-numeric: tabular-nums; }
 th { margin-top: 5px !important; }

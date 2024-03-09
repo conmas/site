@@ -1,5 +1,5 @@
 const rss_url = 'https://hachyderm.io/@connor.rss';
-let tootList = document.getElementById('toot-list');
+let toots = document.getElementById('toots');
 
 fetch(rss_url)
 	.then(response => response.text())
@@ -19,16 +19,16 @@ fetch(rss_url)
 			let toot = document.createElement('div');
 			toot.classList.add("toot");
 			
-			// Create date and link
+			// Create toot meta (date and link)
 			let dateText = `${monthFormatter.format(date)} ${dayFormatter.format(date)}, ${yearFormatter.format(date)}`;
 			let link = document.createElement('a');
 			link.target = '_blank';
 			link.href = el.querySelector("link").textContent;
 			link.textContent = "See post";
-			let tootDetails = document.createElement('p');
-			tootDetails.classList.add("toot-details");
-			tootDetails.textContent = dateText + ' · ';
-			tootDetails.appendChild(link);
+			let tootMeta = document.createElement('p');
+			tootMeta.classList.add("toot-meta");
+			tootMeta.textContent = dateText + ' · ';
+			tootMeta.appendChild(link);
 			
 			// Create toot body
 			let tootBody = document.createElement('div');
@@ -36,7 +36,7 @@ fetch(rss_url)
 			tootBody.innerHTML = decodeEntity(content);
 			
 			toot.appendChild(tootBody);
-			toot.appendChild(tootDetails);
+			toot.appendChild(tootMeta);
 			
 			let media = el.querySelector("content");
 			if (media !== null) {
@@ -48,7 +48,7 @@ fetch(rss_url)
 				}
 			}
 			
-			tootList.appendChild(toot);
+			toots.appendChild(toot);
 		});
 	});
 
