@@ -21,7 +21,7 @@ More [about me](/about). See what I’m up to [now](/now).
   {% endfor %}
 </ul>
 
-## Writing
+## Writing archive
 
 I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, so hang tight as I continue to restore them.
 
@@ -34,4 +34,4 @@ I’ve written extensively over the years for various blogs and websites, some m
   {% endfor %}
 </ul>
 
-See [more writing](/writing).
+See [full writing archive](/writing).

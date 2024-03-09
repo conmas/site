@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Writing archive
 id: writing
 permalink: /writing
 ---
