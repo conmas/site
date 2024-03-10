@@ -21,7 +21,7 @@ More [about me](/about). See what I’m up to [now](/now).
   {% endfor %}
 </ul>
 
-## Writing archive <a href="/writing"><i class="fa-solid fa-ellipsis"></i></a>
+## Writing archive <a href="/writing">→</a>
 
 I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, so hang tight as I continue to restore them.
 
@@ -32,6 +32,6 @@ I’ve written extensively over the years for various blogs and websites, some m
       <span style="color:hsl(0, 0%, 50%)">{{ post.date | date: "%Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
     </li>
   {% endfor %}
-  <li>See <a href="/writing">full writing archive</a>.</li>
+  <li><a href="/writing">See all posts →</a></li>
 </ul>
 
