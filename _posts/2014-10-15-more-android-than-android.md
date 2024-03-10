@@ -73,7 +73,7 @@ Devices to assist with this new viewership model have been slow to market, but a
 
 In 2014, the living room is an increasingly crowded technology sector. Roku has launched a half-dozen variants of its streaming boxes and gaming consoles like Xbox One and PlayStation 4 feature streaming video capabilities of their own. Televisions themselves even include some apps built in, with Samsung’s SmartTV offerings and LG’s repurposed webOS software leading the charge on televisions. But Google has yet to land a real hit in the set-top market, despite numerous attempts. Android TV and Nexus Player are its surest bet yet to capture the living room and capitalize on America’s true pastime.
 
-![Google Nexus Q](/assets/nexus-q.jpg)
+![Google Nexus Q](/assets/nexus-q.webp)
 
 ### Jumping the shark
 

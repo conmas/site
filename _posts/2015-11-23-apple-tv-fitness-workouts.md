@@ -5,7 +5,7 @@ date: 2015-11-23
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/11/23/apple-tv-home-fitness-and-the-future-of-the-workout-video
-image: /assets/zova-fitness.png
+image: /assets/zova-fitness.webp
 image_alt: Screenshot of a fitness app, showing a woman doing sit-up exercises on a yoga mat.
 ---
 The fourth-generation Apple TV, and its overhauled operating system tvOS, present massive opportunities for wide range of apps to make their debut in users’ living rooms. [As we discussed in our recent webinar on Apple TV and tvOS](http://info.punchkick.com/how-to-design-for-apple-tvos-webinar), the context of a user in their home is much different than a user on the go on their mobile devices, so apps need to be rethought to cater to those expectations.
