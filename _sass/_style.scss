@@ -185,6 +185,11 @@ a {
   }
 }
 
+.footer-link {
+  margin-left: .75em;
+  color: var(--tx-3);
+}
+
 nav { margin: 1em 0 3em; }
 
 .backlinks, .toots, .toot-body { font-size: 0.9em }
