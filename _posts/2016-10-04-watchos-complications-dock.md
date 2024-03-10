@@ -7,7 +7,7 @@ original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/10/04/watchos-gets-less-complicated-with-complications-the-dock
 image: /assets/apple-watch-dock-hero.jpg
 ---
-![]({{image}})
+![](/assets/apple-watch-dock-hero.jpg)
 
 The first thing users experience on Apple Watch is their watch face, one of a select handful of Apple-designed home screens that display snippets of information or images around the prominent feature of the current time. But beyond the user experience surrounding the Apple Watch watch face has always been excessively overwrought and complicated—and not just because users can add “complications” to their watch faces.
 

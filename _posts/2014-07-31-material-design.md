@@ -6,6 +6,7 @@ date: 2014-07-31
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/07/31/what-does-googles-material-design-mean-for-consumer-brand-apps
+image: /assets/material-design-neon.png
 ---
 ![Illustration of Material Design components across a laptop, tablet, and phone form factor in neon green and purple colors.](/assets/material-design-neon.png)
 

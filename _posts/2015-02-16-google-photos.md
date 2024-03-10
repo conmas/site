@@ -5,6 +5,7 @@ date: 2015-02-16
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/02/16/how-google-got-photos-right-users-expect-mobile-services-to-be-automatic
+image: /assets/gundotra-google.jpg
 ---
 ![](/assets/gundotra-google.jpg)
 

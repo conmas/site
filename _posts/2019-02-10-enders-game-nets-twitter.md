@@ -6,7 +6,6 @@ attribution: true
 original_site: Twitter
 tags:
   - posts
-image: https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg
 ---
 ![Visual effects from the *Ender's Game* film showing the zero-gravity battle room.](https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg)
 

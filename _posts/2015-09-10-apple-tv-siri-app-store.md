@@ -5,6 +5,7 @@ date: 2015-09-10
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night
+image: /assets/apple-tvos.png
 ---
 ![](/assets/apple-tvos.png)
 

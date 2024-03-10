@@ -5,6 +5,7 @@ date: 2015-11-23
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/11/23/apple-tv-home-fitness-and-the-future-of-the-workout-video
+image: /assets/zova-fitness.png
 ---
 
 ![Screenshot of a fitness app, showing a woman doing sit-up exercises on a yoga mat.](/assets/zova-fitness.png)

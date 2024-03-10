@@ -8,7 +8,7 @@ original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/30/ios-8-in-context-photokit-helps-developers-call-the-shots
 image: /assets/ios-8-photokit.jpg
 ---
-![]({{image}})
+![](/assets/ios-8-photokit.jpg)
 
 {% include ios-8-intro.html %}
 

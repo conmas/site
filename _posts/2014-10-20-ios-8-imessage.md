@@ -6,6 +6,7 @@ permalink: /ios-8-imessage
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/20/ios-8-in-context-imessage-evolves-beyond-the-text-message
+image: /assets/ios-8-imessage.jpg
 ---
 ![](/assets/ios-8-imessage.jpg)
 

@@ -5,6 +5,7 @@ date: 2015-05-20
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/05/20/whats-in-a-font-working-with-san-francisco-on-apple-watch
+image: /assets/apple-watch-hig-sf-font.jpg
 ---
 ![](/assets/apple-watch-hig-sf-font.jpg)
 

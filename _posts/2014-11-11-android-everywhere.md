@@ -6,6 +6,7 @@ date: 2014-11-11
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/11/11/android-everywhere-material-design-wipes-the-slate-clean
+image: /assets/android-material-design-lifestyle-imagery.jpeg
 ---
 ![A colorful grid of lifestyle imagery representing the Material Design aesthetic. Images include children playing on the beach, stylized illustrations of airplanes and landscapes, and photographs of the Golden Gate Bridge and New York City skyline.](/assets/android-material-design-lifestyle-imagery.jpeg)
 

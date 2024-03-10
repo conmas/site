@@ -6,6 +6,7 @@ date: 2014-10-15
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/17/more-android-than-android-nexus-player-targets-the-living-room
+image: /assets/nexus-6.jpg
 ---
 ![](/assets/nexus-6.jpg)
 

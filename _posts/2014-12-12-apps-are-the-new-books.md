@@ -5,6 +5,7 @@ date: 2014-12-12
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/12/12/apps-are-the-new-books-reading-goes-interactive
+image: /assets/interactive-ebook.jpg
 ---
 ![](/assets/interactive-ebook.jpg)
 

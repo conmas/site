@@ -7,7 +7,7 @@ original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/05/21/how-to-extend-your-ios-app-brand-experience-to-apple-watch
 image: /assets/apple-watch-iphone.jpg
 ---
-![]({{image}})
+![](/assets/apple-watch-iphone.jpg)
 
 Apple Watch apps inherit a lot of brand assets from their iOS counterparts, including what can often be years of iterative and hard-fought design decisions that help craft every pixel of an iPhone app interface. Making the transition to Apple Watch, however, can sometimes feel like leaving all of that work and recognition behind. “In some ways, iOS feels so free and open compared to Watch OS,” said Epstein. “But the reality is that both platforms have different ways for branding to shine through. On Apple Watch, designers just need to take advantage of the outlets they do have at their disposal.”
 

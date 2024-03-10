@@ -7,7 +7,7 @@ original_site: Punchkick
 original_url: https://www.punchkick.com/software/android/2014/08/11/wearables-will-reinvent-theme-parks-concerts-and-big-event-venues
 image: /assets/android-wear-concert.jpg
 ---
-![]({{image}})
+![](/assets/android-wear-concert.jpg)
 
 Wearable technologies promise to transform the way people connect, share, and [order pizza](https://www.theverge.com/2014/6/25/5841744/google-demos-android-wear-third-party-apps-io). But their impact will be larger than even these lofty predictions, as wearables offer brands unprecedented access to their customers’ attention and imaginations. Every year, tens of millions of tourists and thrillseekers visit theme parks around the world, exploring the one-of-a-kind sights, sounds, and heights. Thousands more music lovers flock to massive music and arts festivals like Chicago’s own [Lollapalooza](http://www.lollapalooza.com/), which attracted more than 160,000 attendees to Grant Park this month. Now, with emerging wearable technologies and smartphone apps that enable them, big event venues and theme parks can engage with their attendees in more relevant, timely, and informative ways.
 

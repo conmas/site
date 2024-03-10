@@ -5,6 +5,7 @@ date: 2014-08-25
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design
+image: /assets/responsive.png
 ---
 ![](/assets/responsive.png)
 

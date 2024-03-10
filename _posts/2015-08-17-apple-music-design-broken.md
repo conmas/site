@@ -5,6 +5,7 @@ date: 2015-08-17
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it
+image: /assets/apple-music-devices.jpeg
 ---
 ![](/assets/apple-music-devices.jpeg)
 

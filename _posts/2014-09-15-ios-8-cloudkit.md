@@ -8,7 +8,7 @@ original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/09/15/ios-8-in-context-cloudkit-makes-sense-of-the-cloud
 image: /assets/ios-8-cloudkit.jpg
 ---
-![Illustration of the CloudKit logo flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.]({{image}})
+![Illustration of the CloudKit logo flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.](/assets/ios-8-cloudkit.jpg)
 
 {% include ios-8-intro.html %}
 

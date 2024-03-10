@@ -6,6 +6,7 @@ permalink: /ios-8-icloud-drive
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/software/ios/2014/10/06/ios-8-in-context-icloud-drive-demystifies-backup
+image: /assets/ios-8-icloud-drive.jpg
 ---
 ![](/assets/ios-8-icloud-drive.jpg)
 

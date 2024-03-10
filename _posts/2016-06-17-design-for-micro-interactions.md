@@ -5,6 +5,7 @@ date: 2016-06-17
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/06/17/how-to-design-apps-for-micro-interactions
+image: /assets/nexus-lifestyle-ice.jpg
 ---
 ![](/assets/nexus-lifestyle-ice.jpg)
 
