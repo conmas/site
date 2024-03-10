@@ -4,6 +4,8 @@ tags:
   - posts
 layout: post
 title: First impressions of Apple Vision Pro
+excerpt: It’s incredible to relive your child’s birthday in 3D video, but that glosses over the fact you’re living the actual moment with a computer on your face.
+image: /assets/vision-pro.jpeg
 ---
 ![](/assets/vision-pro.jpeg)
 
