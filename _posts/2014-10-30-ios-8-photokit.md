@@ -1,4 +1,14 @@
-# iOS 8 in context: PhotoKit helps developers call the shots
+---
+layout: post
+title: PhotoKit helps developers call the shots
+date: 2014-10-30
+permalink: /ios-8-photokit
+attribution: true
+original_site: Punchkick
+original_url: https://www.punchkick.com/blog/2014/10/30/ios-8-in-context-photokit-helps-developers-call-the-shots
+image: /assets/ios-8-photokit.jpg
+---
+![]({{image}})
 
 {% include ios-8-intro.html %}
 
@@ -14,9 +24,13 @@ Perhaps more than any other content, photos are the lifeblood of iOS. Among the 
 
 Apple has always developed a number of photo APIs for third-party apps to access the Camera Roll and submit new photos. This allows users to take photos in camera apps of their choice, and to save any edits from dedicated photo editors directly into the Photos application, in order to share it or access it from other apps. The frameworks were limited to photos and videos, and severely limited in terms of content compatibility: when Apple introduced “burst” photo sets and slow-motion video with the iPhone 5s, certain apps weren’t able to access or modify that content. And as Apple began tweaking how photos are stored and organized within the Photos app, adding Shared Photo Streams and iCloud Photo Stream content in iOS 6, third-party editors had trouble making use of the wealth of off-board photo and video content, as well.
 
+![](/assets/iphone-6-icloud-photo-library.jpeg)
+
 In iOS 8, Apple completely rethought how photos and videos could be stored and managed on iOS devices. Taking a cue from Dropbox and Google’s cloud-centric ideas in the space, Apple launched a beta version of a new service called iCloud Photo Library alongside iOS 8.1. Rather than organizing photos taken with a particular device into its “Camera Roll,” and rather than showing photos taken with iCloud-connected devices in a time-sensitive iCloud “Photo Stream,” iCloud Photo Library saves 100% of user-generated photos and videos from any of their devices in one cohesive location. Every photo taken since the beginning of time, from any device or any source, coexists in a single chronological list. With smart features in Settings to prevent full-resolution photos and videos from clogging up limited iOS device storage, iCloud Photo Library gives iOS users access to potential thousands of photos and videos right from their devices. But with all these dramatic changes to photo library structure and organization within the Photos app, how can third parties begin accessing the data and manipulating content?
 
 Apple also released PhotoKit in iOS 8, an API that provides access to the users’ photo and video content in new ways. PhotoKit allows third-party apps to read content from the iCloud Photo Library, including burst mode photos, panoramas, and video, and provide users access to their content in the plethora of photo-editing applications in the App Store. PhotoKit enables third-party apps to edit photos directly in the Photos application, without the need to first import them. Further, it lets apps non-destructively make edits and enhancements to those photos, meaning third-party image editors can share universal revision histories between applications without compromising the original document or unnecessarily duplicating photos. PhotoKit modernizes how applications on iOS approach photos, and it will begin to allow for new types of photo editors as developers begin adopting modern iOS 8 frameworks. But it’s only the beginning of what iOS 8 brings to the world of mobile photography, and its additions only scratch the surface of what iOS devices will soon be capable of.
+
+![](/assets/iphone-6-gold-camera.png)
 
 ### Shutter speak
 
@@ -24,11 +38,15 @@ The iPhone’s camera—and, especially in its latest iteration, the iPad’s ca
 
 In iOS 8, Apple introduced new Camera APIs to allow these apps greater control over the photos they shoot, and to prevent them from writing custom image analyzation code themselves. The new AVFoundation framework allows third-party applications to better leverage iOS devices’ advanced camera technologies and image processing capabilities, allowing apps to take direct control over camera focus, white balance, and settings for exposure. The capabilities will empower a new generation of secondary camera apps, and enable third-party apps like Instagram to add new sophistication to their in-app viewfinders. In short, AVFoundation will help users take higher-quality photos with a greater degree of customization no matter what app they choose, and will put the full power of iOS devices’ powerful iSight cameras and image processors directly into end users’ hands. Third party apps can now help take better, more tightly controlled photos—but Apple’s investments in iOS 8 photo capabilities don’t stop there.
 
+![Image of a white iPhone with iOS 8 image editing features shown, rotating and cropping an image of two people in a kayak.](/assets/ios-8-iphone-photo-editor.png)
+
 ### Editing in post
 
 For years, the stock iOS Photos application has allowed for basic editing of photos snapped on-device: cropping, reducing red eye, and even a handy “auto enhance” functionality that quickly balances exposure and saturation. For years, more advanced photo editing was available in the iPhoto app for iOS, which included powerful controls for highlights, shadows, color control, and even some social-friendly filters. iPhoto was a complex and overpowered animal, and one of the most frequently requested hands-on workshops at Apple’s retail locations focused on humanizing its convoluted interface. iPhoto matched its desktop counterpart in many ways, but added new organizational views like Journals and in-app Albums into the mix. The app was powerful almost to a fault: overcomplicated and confusing even to power users, Apple announced they were phasing out iPhoto development earlier this year.
 
 But what comes next for Apple’s storied photo editors? Despite years of development investment into the iPhoto suite on both its platforms, Apple announced its intention to transition much of the app’s utility into the stock Photos app on iOS. In iOS 7, Apple began adding additional layers of photo editing enhancements, allowing the application of filters to bolster the stock Photos app’s image processing capabilities. This focus continued into iOS 8, but was amplified significantly—Apple added new controls for exposure, saturation, and black and white alteration directly into the Photos app. But Apple’s ambitions for its mobile image editors stretched beyond basic adjustment sliders—the company wanted iOS to match its professional-grade desktop editor, Aperture.
+
+![](/assets/iphone-6-time-lapse.png)
 
 The answer came with the addition of Extensibility in iOS 8. Just as social networking apps could offer extension bundles to the action menu or news tickers could live within Notification Center, third-party photo editors, too, could offer their services directly to the Photos app. New versions of popular third-party photo editing apps like VSCO Cam or Afterlight can take advantage of a new ellipsis button within the Photos editor view, and can provide custom editing interfaces and effects directly to photos within the Photo Library. Because of additions with PhotoKit, these edits are non-destructive and happen directly within the Photo Library, eliminating tedious duplication and additional content groupings locked away within third-party apps. The approach empowers a new generation of near-headless photo editing applications, which can now be tucked away into a folder until their services are summoned by the Photos app’s editor tool.
 
