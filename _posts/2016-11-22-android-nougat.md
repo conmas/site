@@ -5,8 +5,9 @@ title: What’s new in Android Nougat
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/11/22/designing-android-apps-to-fit-every-screen-and-half-screen
+image: /assets/android-nougat.jpg
 ---
-![](/assets/android-nougat.jpg)
+![]({{image}})
 
 ## How we got here
 

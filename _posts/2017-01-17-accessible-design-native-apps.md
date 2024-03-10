@@ -5,8 +5,9 @@ date: 2017-01-17
 attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web
+image: /assets/woman-using-android-phone.jpg
 ---
-![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)
+![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.]({{image}})
 
 Accessibility is a topic that in many ways is as old as the web. Because designers and developers have been focused on making digital products accessible for decades, there are many guidelines, standards, and even automated assessment tools that already exist to ensure websites are accessible. There are also regulations that many companies need to comply with, including the Americans with Disabilities Act, which has been updated to include digital product guidelines.
 
