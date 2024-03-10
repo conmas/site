@@ -7,9 +7,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/07/ios-8-in-context-extensibility-broadens-the-horizon-for-third-party-apps
 image: /assets/ios-8-extensibility.jpg
+image_alt: Illustration of the iOS Extensibility framework logo flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.
 ---
-![](/assets/ios-8-extensibility.jpg)
-
 {% include ios-8-intro.html %}
 
 ## Extensibility

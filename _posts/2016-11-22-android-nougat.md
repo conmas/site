@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/11/22/designing-android-apps-to-fit-every-screen-and-half-screen
 image: /assets/android-nougat.jpg
+image_alt: Image of an Android smartphone resting on stained wood planks, showing an \"N" icon representing Android Nougat.
 ---
-![](/assets/android-nougat.jpg)
-
 ## How we got here
 
 With a dominant share of the global smartphone market, Android has grown to become the defining mobile platform for more than a billion people. Android powers not only some of the most sophisticated, but also some of the most accessible mobile devices available, with a dizzying array of different form factors, screen sizes, and processor sets under its umbrella.

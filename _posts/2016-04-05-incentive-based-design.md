@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/04/05/how-incentive-based-design-can-maximize-app-engagement
 image: /assets/incentive-based-design.jpeg
+image_alt: A man smiles while showing another man something on an iPad, presumably a delightful incentive-based design pattern.
 ---
-![A man smiles while showing another man something on an iPad, presumably a delightful incentive-based design pattern.](/assets/incentive-based-design.jpeg)
-
 Gamification is a buzzword used as a magic elixir for mobile apps’ engagement woes, and many companies are quick to recommend it for virtually any user interaction symptom. Seeing a drop-off of active users after the first week? Gamify! Can’t get users to convert after a complicated user flow? Gamify it! It’s a category of tactics that covers all manner of sins, but there is some truth to the notion that consumer brand apps can learn from best practices in gaming, and that’s what incentive-based design is all about.
 
 ## Gamification versus incentive-based design

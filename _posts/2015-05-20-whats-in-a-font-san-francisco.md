@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/05/20/whats-in-a-font-working-with-san-francisco-on-apple-watch
 image: /assets/apple-watch-hig-sf-font.jpg
+image_alt: Screenshot of typeface documentation for the San Francisco display font, showing sizes and alignment guides.
 ---
-![](/assets/apple-watch-hig-sf-font.jpg)
-
 Because the Apple Watch display is so small, and because there are so few items that can be economically displayed [within Watch apps](https://www.punchkick.com/blog/2015/05/19/how-to-build-apple-watch-apps-that-make-an-impact), the elements that designers have fine control over become crucially important—like typography. “Typography is extremely important on Apple Watch, even more important than it is on iOS,” said Epstein. “To make apps visually interesting, sometimes there isn’t even room for much of anything else. It’s testing designers’ hierarchy skills to make the most important things come forward.
 
 Apple Watch ships with San Francisco, a font designed by Apple exclusively for the [new wearable](https://www.punchkick.com/blog/2015/04/26/apple-watch-sport-unboxing-and-setup-pictures). The pseudo-condensed, sans-serif font family prioritizes legibility at small scale, with angular corners and tall x-heights. Its name harkens back to system fonts from the original Macintosh in 1984, which were named for major cities and worked within the constraints of the bitmap screen to deliver print-quality typography on the state-of-the-art display. These fonts solved a unique technical problem and empowered visual creativity within technical bounds, and San Francisco follows closely in these footsteps.

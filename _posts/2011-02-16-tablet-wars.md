@@ -5,9 +5,8 @@ date: 2011-02-16
 attribution: true
 original_site: The Masoni Review
 image: https://upload.wikimedia.org/wikipedia/commons/c/c9/Steve_Jobs_with_the_Apple_iPad_no_logo.jpg
+image_alt: Photo of Steve Jobs holding up the first-generation iPad.
 ---
-![Photo of Steve Jobs holding up the first-generation iPad.](https://upload.wikimedia.org/wikipedia/commons/c/c9/Steve_Jobs_with_the_Apple_iPad_no_logo.jpg)
-
 ## How Apple won the everyman
 
 I’m not one to offer blanket statements heralding the “end of traditional media” or label a product the “savior of the newspaper industry.” When the iPad was released less than a year ago, other people said these things, and more, for me. I’ve never claimed that the iPad would alter our realities, but I’ve seen it much as I see the iPhone: a game-changer for the consumer technology industry.

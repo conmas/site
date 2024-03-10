@@ -7,9 +7,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/software/ios/2014/10/06/ios-8-in-context-icloud-drive-demystifies-backup
 image: /assets/ios-8-icloud-drive.jpg
+image_alt: Illustration of the iCloud Drive logo flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.
 ---
-![](/assets/ios-8-icloud-drive.jpg)
-
 {% include ios-8-intro.html %}
 
 ## iCloud Drive

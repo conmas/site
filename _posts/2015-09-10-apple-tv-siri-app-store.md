@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/09/10/the-new-apple-tv-invites-siri-and-the-app-store-to-movie-night
 image: /assets/apple-tvos.png
+image_alt: Apple TV set-top box with large television showing the tvOS home screen, with a carousel of movie posters.
 ---
-![](/assets/apple-tvos.png)
-
 The biggest news from the Apple event doesn’t run iOS. Alongside massive enhancements to its iPhone and iPad product family, Apple today focused on a product it once publicly considered a “hobby.” 
 
 For the first time since its introduction, Apple TV saw a major interface overhaul and the addition of new voice navigation features to aid in Siri-powered universal search. But more significantly than anything shown off today is the potential for what Apple TV can become tomorrow—just as Apple has conquered millions of pockets, it’s now set its eye on your living room.

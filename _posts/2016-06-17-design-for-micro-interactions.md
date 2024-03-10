@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/06/17/how-to-design-apps-for-micro-interactions
 image: /assets/nexus-lifestyle-ice.jpg
+image_alt: An image of a man using a Nexus smartphone, with another man creating an ice sculpture behind him for some reason, out of focus.
 ---
-![](/assets/nexus-lifestyle-ice.jpg)
-
 Despite their perceived popularity and ubiquity, the reality is that many mobile apps aren’t used as often as many brands would like—if at all. According to Think with Google, most mobile users only ever download around 36 apps in total—and of those, only about 12 apps actually become an integral part of their daily lives. Once you control for ubiquitous apps like Facebook and Uber, the opportunity space for new third-party apps can seem distressingly slim.
 
 But the opportunity on mobile is still massive, and apps that are optimized for users’ behavioral patterns still have ample room to make an impact. The key is to recognize the limits of users’ attentions, and to design experience that maximize the short attention span of today’s mobile user. While on desktop experiences users expect to spend 2–3 minutes to finish engaging with an experience—from first loading the website through completing a task—the expectation for a similar task on mobile is less than 50 seconds.

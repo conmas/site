@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/10/04/watchos-gets-less-complicated-with-complications-the-dock
 image: /assets/apple-watch-dock-hero.jpg
+image_alt: Image of a person's arm wearing an Apple Watch, resting on a table.
 ---
-![](/assets/apple-watch-dock-hero.jpg)
-
 The first thing users experience on Apple Watch is their watch face, one of a select handful of Apple-designed home screens that display snippets of information or images around the prominent feature of the current time. But beyond the user experience surrounding the Apple Watch watch face has always been excessively overwrought and complicated—and not just because users can add “complications” to their watch faces.
 
 Users could swipe down to access their notification drawer. They could swipe up to access a row of “Glances,” individual views provided by their favorite applications that offered information at a glance. They could tap the side button to send messages to their favorite contacts, and further tap the Digital Crown to access their honeycomb home screen of app icons. Scrubbing the Digital Crown on the home screen in watchOS 2 accessed Time Travel, which fast-forwarded complications into the future. It was all a little much, and very confusing to users accustomed to the simplicity of the iOS lock screen.

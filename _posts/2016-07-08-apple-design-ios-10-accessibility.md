@@ -7,9 +7,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility
 image: /assets/ios-10-apple-music-iphone-6s.jpeg
+image_alt: An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.
 ---
-![An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.](/assets/ios-10-apple-music-iphone-6s.jpeg)
-
 When iOS 7 was first previewed to the public at WWDC 2013, it seemed Apple was obsessed with extending its devices’ thinness to its software. Fonts were ultralight, barely legible against semitransparent backgrounds, neon color themes, and bright-white toolbars. Even for an eagle-eyed user, the text and animations made certain apps and screens difficult to read—but for users with accessibility needs, critics argued that it was nearly impossible.
 
 Apple course-corrected some of these design decisions even before iOS 7’s release, swapping the ultralight variant of its Helvetica Neue system font for a more level-headed light option. Over the years, they reined in the most egregious examples of bad accessibility design, introducing a new, more legible font with San Francisco in watchOS and iOS 9, as well as reducing transparency and motion across the operating system.

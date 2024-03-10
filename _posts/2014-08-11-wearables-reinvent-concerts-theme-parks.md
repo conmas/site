@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/software/android/2014/08/11/wearables-will-reinvent-theme-parks-concerts-and-big-event-venues
 image: /assets/android-wear-concert.jpg
+image_alt: Image of a concert attendee holding up their arms, with an Android Wear watch visible.
 ---
-![](/assets/android-wear-concert.jpg)
-
 Wearable technologies promise to transform the way people connect, share, and [order pizza](https://www.theverge.com/2014/6/25/5841744/google-demos-android-wear-third-party-apps-io). But their impact will be larger than even these lofty predictions, as wearables offer brands unprecedented access to their customers’ attention and imaginations. Every year, tens of millions of tourists and thrillseekers visit theme parks around the world, exploring the one-of-a-kind sights, sounds, and heights. Thousands more music lovers flock to massive music and arts festivals like Chicago’s own [Lollapalooza](http://www.lollapalooza.com/), which attracted more than 160,000 attendees to Grant Park this month. Now, with emerging wearable technologies and smartphone apps that enable them, big event venues and theme parks can engage with their attendees in more relevant, timely, and informative ways.
 
 Since the market for wrist-mounted wearables is just beginning to realize its potential, certain venues are releasing low-cost gadgets of their own. As part of its MyMagic+ ticket option, Disney Parks sends attendees an RFID-enabled wristband called the [MagicBand](https://disneyworld.disney.go.com/plan/my-disney-experience/bands-cards/). Guests who opt into this plan receive a color-customizable wrist bracelet that serves as their entrance ticket and tracks their location throughout the park. For families, these wristbands help track children’s location and make group meetups in the often-crowded parks more manageable. But for Disney and other park operators, the kinds of data afforded by these location-aware devices provides unprecedented analytical insights for popular attractions and high-traffic areas.

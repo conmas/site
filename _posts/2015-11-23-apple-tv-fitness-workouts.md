@@ -6,10 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/11/23/apple-tv-home-fitness-and-the-future-of-the-workout-video
 image: /assets/zova-fitness.png
+image_alt: Screenshot of a fitness app, showing a woman doing sit-up exercises on a yoga mat.
 ---
-
-![Screenshot of a fitness app, showing a woman doing sit-up exercises on a yoga mat.](/assets/zova-fitness.png)
-
 The fourth-generation Apple TV, and its overhauled operating system tvOS, present massive opportunities for wide range of apps to make their debut in users’ living rooms. [As we discussed in our recent webinar on Apple TV and tvOS](http://info.punchkick.com/how-to-design-for-apple-tvos-webinar), the context of a user in their home is much different than a user on the go on their mobile devices, so apps need to be rethought to cater to those expectations.
 
 However, there are certain types of apps that are as relevant in a television context as they are in a mobile context—if not more so. Because of a user’s unique expectations for the types of [activities they’ll do at home](https://www.punchkick.com/blog/2015/10/05/what-the-new-apple-tv-and-tvos-mean-for-the-future-of-art), versus the kinds of tasks they’ll accomplish through a mobile app, developers can build applications that solve problems or simplify tasks that users only consider when they’re in their home.

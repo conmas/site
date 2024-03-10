@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/12/12/apps-are-the-new-books-reading-goes-interactive
 image: /assets/interactive-ebook.jpg
+image_alt: Photograph of a user using an interactive ebook on an iPad, zooming in on an image of a monkey.
 ---
-![](/assets/interactive-ebook.jpg)
-
 As far as young mobile users are concerned, apps are cool. Books, traditionally, aren’t. But as books increasingly look and feel like native apps, and as readers begin to expect interactive and informative content they’re accustomed to from the web, publishers have a massive opportunity to capitalize on the unmet need of reading experiences that take the form of engaging native apps.
 
 When Apple introduced the first-generation iPad in 2010, it was apparent the company wasn’t certain how people would use it. Steve Jobs demonstrated new tablet-specific views of the New York Times, showing off how iPads could replace newspapers. He ran through a new tablet-optimized Photos application, which bundled groups of photos into stacks that could replace physical photo albums. But on those use cases, he was preaching to the choir: millions of users had already adopted digital technology as their solution to get news and save their photos. One of the truly significant inclusions in the first-generation iPad was Apple’s all-new e-reading application, iBooks. Now, publishers and writers could provide reading experiences that take full advantage of a tablet’s immersive interface, intuitive controls, and powerful capabilities.

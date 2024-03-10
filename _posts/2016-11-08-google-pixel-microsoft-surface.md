@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/11/08/pixel-and-surface-are-turning-the-electronics-industry-on-its-head
 image: /assets/microsoft-surface-book.jpeg
+image_alt: A photograph of someone using a Microsoft Surface device with a stylus in tablet orientation.
 ---
-![A photograph of someone using a Microsoft Surface device with a stylus in tablet orientation.](/assets/microsoft-surface-book.jpeg)
-
 Even with the Cubs winning the World Series and national politics inspiring breathless headlines, perhaps one of the strangest things about 2016 has been the transformation of some of the industry’s biggest hardware companies. Between the big three operating system makers—Google with Android, Apple with iOS, and Microsoft with Windows—a dramatic shift in strategic thinking for each company has become clear in the last few months.
 
 Punctuating this strategic change are some not insignificant technology releases over the past year. [iOS 10 was a significant evolution](/ios-10-a11y) of Apple’s mobile aesthetic, Google released its first-ever smartphone, and Samsung has struggled with less-than-optimal temperature control issues. But looking back on 2016, and especially looking forward into 2017, a few trends have emerged that will redefine the mobile landscape in coming years.

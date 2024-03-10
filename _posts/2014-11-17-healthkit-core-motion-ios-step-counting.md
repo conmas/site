@@ -6,10 +6,9 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters
 image: /assets/health-ios-8.png
+image_alt: Image of iPhones showing data visualizations from the Health app.
 ---
 > This post was co-written with [Sean Samocki](http://www.runningincode.com).
-
-![](/assets/health-ios-8.png)
 
 iOS 8 introduced the HealthKit framework and its own Health app to allow users to track and monitor over sixty measurements, including steps, blood pressure, heart rate, and even caffeine consumption. Apple is allowing developers to create applications that request and share health data with the rest of its ecosystem. Apple does its part by sharing measurements the hardware can detect such as steps and distance walked. The barometers in iPhone 6 and iPhone 6 Plus take this a step further by reporting flights of stairs climbed.
 
@@ -17,8 +16,7 @@ Sound familiar? iOS 7 also provided some very similar functionality with the Cor
 
 Now developers have two options to create step and distance tracking applications: HealthKit and Core Motion. They both provide similar activity data with some caveats. Neither is superior to the other in every aspect, so it’s important for developers to recognize the parameters of the application you would like to build. Later, we will provide some hypothetical use cases for displaying this data and comparing the time it takes the system to supply this data between the two frameworks. The goal of this is to help developers create powerful and efficient applications by choosing the correct framework for their needs.
 
-![](/assets/healthkit-apps.png)
-<div class="caption">Apple’s official Health app in iOS 8, third-party fitness app Breeze, and an in-app modal view for apps to request access to HealthKit data.</div>
+![Apple’s official Health app in iOS 8, third-party fitness app Breeze, and an in-app modal view for apps to request access to HealthKit data.](/assets/healthkit-apps.png)
 
 ## HealthKit
 

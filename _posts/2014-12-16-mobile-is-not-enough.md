@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/12/16/a-mobile-app-isnt-enough-users-expect-tablet-wearable-views
 image: /assets/android-wear-wearable.jpg
+image_alt: Image of a person using an Android Wear smartwatch in an urban winter scene.
 ---
-![](/assets/android-wear-wearable.jpg)
-
 When the App Store first launched on iOS, mobile users embraced any app designed for iPhone. Brands could make a massive impact by investing in a simple native app, even if its interface and content closely mirrored the company’s website. Over time, user expectations began to evolve. It wasn’t enough to only have an App Store presence—now, every mobile user had developed tastes about interface design and expectations about capabilities. In subsequent years, with the growth of tablets and the ubiquity of Android, many mobile users began to demand more. As mobile platforms mature and transform, users expect applications to span ecosystems and accommodate different form factors.
 
 With the advent of the iPad in 2010, Apple introduced dedicated interface principles that defined how iOS apps could be redesigned for the new 9.7-inch display. These apps, called “universal” in App Store parlance, shared one codebase and displayed different interface elements based on the device they were installed on. On Android, tablet versions of applications would similarly identify the device’s screen size and resolution to display appropriate interface elements. (If developers opted not to include tablet-specific designs, the apps would display letter-boxed mobile versions on iOS or stretched interfaces on Android.)

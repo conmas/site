@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/04/27/siri-on-steroids-taking-virtual-assistants-to-the-next-level
 image: /assets/flight-map.jpg
+image_alt: Close-up image of a flight tracking visualization.
 ---
-![](/assets/flight-map.jpg)
-
 Despite technical efficiencies, the process of booking travel arrangements remains a very human task. Travelers have to manually [find flights](https://www.punchkick.com/blog/2015/04/16/connected-travel-the-mobile-digital-all-knowing-travel-agent) that work for their schedule, book hotel accommodations that work for their plans and price range, and estimate times of arrival while accounting for weather delays or possible layovers. Digital technologies have made this information more available and contextually relevant than ever before, but it still requires a human hand to comb through the data and [make connections](https://www.punchkick.com/blog/2015/04/20/streamlining-the-traveler-journey-with-mobile-apps). However, as computers become more sophisticated and gain access to more data about travelers’ requirements—their calendar appointments, their membership programs, their travel preferences—these systems will soon be able to make these inferences for themselves.
 
 “Can a system compute the best course of action to reach a destination based on a number of preferences?” asked Punchkick iOS engineer John Norton, “For example, you like leg room, you’re cost-conscious, you hate layovers. How can we design systems that take all this disparate information and arrive at the best solution?” This process typically necessitates human intervention, but it’s conceivable that an advanced search algorithm might process these variables with different filters or switches. But there are some kinds of travel plans that seem like they will always need a human eye.

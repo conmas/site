@@ -6,9 +6,9 @@ attribution: true
 original_site: Twitter
 tags:
   - posts
+image: https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg
+image_alt: Visual effects from the *Ender's Game* film showing the zero-gravity battle room.
 ---
-![Visual effects from the *Ender's Game* film showing the zero-gravity battle room.](https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg)
-
 In the 1985 novel *Ender’s Game*, one of my favorite YA sci-fi books, the “[Nets](https://enderverse.fandom.com/wiki/Nets)” are the equivalent of the Internet, where characters can instantly communicate with likeminded people around the world to discuss and debate big ideas. What’s most interesting about the Nets is that Orson Scott Card wrote about them 5 years before the World Wide Web was a reality in real life.[^1]
 
 This idea always inspired me. There were good-faith discussions of complex geopolitical issues, and the inherent anonymity of the fictional system allowed anyone’s ideas, from any background walk of life, to be taken seriously and discussed earnestly. In some respects, Card was prophetic here: the Nets exist in real life, and they’re the stage for massively consequential political events and discussions. The Internet came true and fundamentally transformed how every facet of our global zeitgeist is created, debated, observed.

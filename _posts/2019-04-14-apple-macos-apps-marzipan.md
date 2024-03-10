@@ -8,9 +8,8 @@ tags:
   - posts
 permalink: /marzipan
 image: /assets/laptop-marzipan.webp
+image_alt: An image of a laptop in the dark, half closed, with the backlight from the screen illuminating its keyboard and the surrounding surface.
 ---
-![An image of a laptop in the dark, half closed, with the backlight from the screen illuminating its keyboard and the surrounding surface.](/assets/laptop-marzipan.webp)
-
 Of course they shouldn’t do it. But what if they did? What features would they leave behind, or bring to iOS? Where does it make sense for them to do this, and where would it never work?
 
 > When this post was originally published in 2019, *Marzipan* was the rumored codename for the framework that ultimately became Mac Catalyst. For clarity, I’ve updated references to "Marzipan" to "Catalyst" throughout the article. 

@@ -7,9 +7,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/20/ios-8-in-context-imessage-evolves-beyond-the-text-message
 image: /assets/ios-8-imessage.jpg
+image_alt: Illustration of the Messages app icon flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.
 ---
-![](/assets/ios-8-imessage.jpg)
-
 {% include ios-8-intro.html %}
 
 ![](/assets/imessage-phones.png)

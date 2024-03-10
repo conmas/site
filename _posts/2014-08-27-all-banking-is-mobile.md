@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile
 image: /assets/google-wallet-iphone.jpg
+image_alt: Image of a hand holding an iPhone, showing a transaction in the Google Wallet app for transferring money to a friend.
 ---
-![Image of a hand holding an iPhone, showing a transaction in the Google Wallet app for transferring money to a friend.](/assets/google-wallet-iphone.jpg)
-
 As more and more industries work to reinvent their products and services to align with mobile growth, major companies have invested heavily in ways to offer entirely new product experiences to their customers on the go. One persistent example is the banking industry—some of the world’s largest and most enduring brands have begun pivoting to accommodate an expected [300% explosion of mobile banking adoption](http://www.americanbanker.com/issues/177_243/mobile-banking-will-grow-300-percent-over-the-next-four-years-aite-1055318-1.html) among increasingly connected consumers. But they’re doing more than releasing a shoddy mobile app—many of these companies are completely reimagining their businesses to attract younger, tech-hungry audiences and engage with new generations of mobile bankers.
 
 ## From teller to telephone

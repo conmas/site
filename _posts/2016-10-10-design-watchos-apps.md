@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/10/10/designing-watchos-apps-to-be-more-user-friendly-and-effective
 image: /assets/apple-watch-weather.jpg
+image_alt: A photograph of a person wearing an Apple Watch and using the Weather app for watchOS.
 ---
-![](/assets/apple-watch-weather.jpg)
-
 In the first-generation watchOS software, many of the apps third-party iOS developers made—and even many of those Apple itself made—felt like baby-sized versions of full-fledged iOS apps crammed into a two-inch Apple Watch display. Early watchOS apps featured much of the same navigation options, squeezing complex menus and folder hierarchies into a device and form factor that never should have supported them. As a result, Apple Watch apps felt sluggish, overcomplicated, and difficult to use, and for many early Apple Watch adopters, discouraged them from downloading and trying new third-party watchOS apps altogether.
 
 This trend underscores the importance of considering how the feature set and core functionality of an iOS application should be represented on Apple Watch. The myriad use cases of smartphone applications don’t all make sense on wearable devices, which are more relevant to users in other circumstances. Even in the first generation of watchOS, the best mobile app developers were keen to [reevaluate their feature set](https://www.punchkick.com/blog/2015/05/21/how-to-extend-your-ios-app-brand-experience-to-apple-watch) and content architectures to make an expedient and effective watchOS app. Now, with Apple’s strategic changes in watchOS 3, this emphasis on quick utility and lightweight interactivity is more important than ever.

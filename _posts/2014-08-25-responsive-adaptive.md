@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design
 image: /assets/responsive.png
+image_alt: Illustration of responsive design across devices.
 ---
-![](/assets/responsive.png)
-
 As new and more diverse device types have proliferated in recent years, the notion of developing a consistent brand experience for the web might seem overwhelming. While challenges for web development were once limited to compatibility with Internet Explorer, modern web developers need to accommodate a wealth of mobile operating systems, browser capabilities, and screen dimensions. What’s worse, the subtle differences between these devices is getting blurrier and blurrier, as tablets approach feature parity with desktop browsers and mobile phones continue to increase in size. As the web and mobile have both matured, developers have approached this problem in a number of ways. While these methods differ wildly in their technological implementation, they all share a common goal—creating a web experience that feels optimized for every device.
 
 ## The server does the work: adaptive web design

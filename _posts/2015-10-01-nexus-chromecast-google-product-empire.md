@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/10/01/with-nexus-and-chromecast-google-has-built-a-product-empire
 image: /assets/google-nexus-chromecast-hardware.jpg
+image_alt: An image showing Android phones and Chromecast devices arranged in a spiral pattern.
 ---
-![An image showing Android phones and Chromecast devices arranged in a spiral pattern.](/assets/google-nexus-chromecast-hardware.jpg)
-
 This week’s Nexus event represented the final chapter in Google’s transition from a web services business into a consumer electronics company. It’s no exaggeration—while Google has been traditionally treated like a search company with spurious extensions into the consumer software and hardware arenas, the company’s enduring focus on product offerings that directly challenge its strongest competition indicates a trend. Google sees the value in selling beautiful gadgets that run [native software](/android-everywhere#material-design)—even if it is in service of getting its search ads in front of more eyeballs. 
 
 Google has enjoyed a virtual monopoly with a stable of web services that have sprouted up around Search—like the ubiquitous Gmail, Maps, and Hangouts. Now, its attention has shifted from pixels to polyurethane, and it seeks to build out a compelling product portfolio of capable and affordable hardware. This week’s Nexus, Chromecast, and Pixel introductions are just the beginning. Google is betting big on consumer hardware, and it’s going to change how the company approaches Android and Chrome OS.

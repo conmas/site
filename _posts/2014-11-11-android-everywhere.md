@@ -7,9 +7,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/11/11/android-everywhere-material-design-wipes-the-slate-clean
 image: /assets/android-material-design-lifestyle-imagery.jpeg
+image_alt: A colorful grid of lifestyle imagery representing the Material Design aesthetic. Images include children playing on the beach, stylized illustrations of airplanes and landscapes, and photographs of the Golden Gate Bridge and New York City skyline.
 ---
-![A colorful grid of lifestyle imagery representing the Material Design aesthetic. Images include children playing on the beach, stylized illustrations of airplanes and landscapes, and photographs of the Golden Gate Bridge and New York City skyline.](/assets/android-material-design-lifestyle-imagery.jpeg)
-
 Even before its release in 2008, Android’s only constant has been reinvention. What began as a basic operating system for feature phones has exploded into the top mobile platform on the planet, with the industry’s largest touch screens and most extreme hardware capabilities. Android became a diverse and robust ecosystem of smartphones and tablets, with custom designs and features for each distinct manufacturer. The core of Android remained strong, but its influence was waning: as Google iterated its platform with new features and versions, carriers and OEM partners were sloth to adopt. When Google looked to expand Android onto types of devices—like wearables, televisions, and cars—it came time to pull the reins harder.
 
 Android Lollipop represents Google asserting control of its platform, and its intention to bring its singular vision for Android to every connected device in your life. Welcome to Android everywhere.

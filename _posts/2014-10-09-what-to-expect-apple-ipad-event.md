@@ -6,9 +6,8 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/09/what-to-expect-at-apples-october-16-ipad-event
 image: /assets/apple-invite-1014.png
+image_alt: Image of the Apple event invitation for October 14, a partial rainbow-colored Apple logo with the caption \"It's been way too long."
 ---
-![](/assets/apple-invite-1014.png)
-
 In recent years, Apple has divided its fall announcements into two major media events. Whereas September has historically been reserved for iPod and music events, seeing the introduction of 2007’s iPod touch and nearly every iPod iteration since, since the introduction of the iPhone 4s in 2011 Apple has shifted its iPhone announcements from WWDC in June to these special September media events. In 2012, Apple added a second October event to its lineup to introduce the fourth-generation iPad and the first-generation iPad mini, shifting its tablet announcements from early spring to the precious months at the outset of Apple’s lucrative holiday quarter.
 
 In the years since, every major iOS product iteration—the iPhone 5, iPhone 5c, iPhone 5s, iPad Air, and iPad mini with Retina Display—have been announced at one of these events and released shortly thereafter. This year, Apple has already introduced two new iPhones and its forthcoming Apple Watch at September’s massive media event in San Francisco. Yesterday, the company released its invitations to another event for next Thursday, October 16. In keeping with tradition, Apple watchers anticipate the company to announce new generations of its iPad Air and iPad mini products, but the specifics surrounding its other possible announcements remain vague. Here’s what we’re expecting from the  biggest tablet event of the year.
