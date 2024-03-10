@@ -3,9 +3,10 @@ layout: note
 title: Update Markdown file creation dates
 date: 2024-03-09
 permalink: /markdown-date-script
-tags: tutorial
+tags: 
+  - tutorial
+  - utility
 ---
-
 As I've migrated files between different [apps](https://stephango.com/file-over-app) over the years, in many cases the act of exporting or recreating notes has created inconsistency between the actual creation date (metadata in Finder) and the `date` metadata added to the top of the file in YAML front matter. 
 
 This is a simple utility that takes a directory, finds Markdown files, checks front matter for either `date: YYYY-MM-DD` or `date: MM-DD-YYYY`, and updates the file's creation date using the macOS `setfile` command.
