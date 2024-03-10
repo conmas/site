@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/05/20/whats-in-a-font-working-with-san-francisco-on-apple-watch
 ---
-
 ![](/assets/apple-watch-hig-sf-font.jpg)
 
 Because the Apple Watch display is so small, and because there are so few items that can be economically displayed [within Watch apps](https://www.punchkick.com/blog/2015/05/19/how-to-build-apple-watch-apps-that-make-an-impact), the elements that designers have fine control over become crucially important—like typography. “Typography is extremely important on Apple Watch, even more important than it is on iOS,” said Epstein. “To make apps visually interesting, sometimes there isn’t even room for much of anything else. It’s testing designers’ hierarchy skills to make the most important things come forward.

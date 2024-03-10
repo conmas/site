@@ -3,10 +3,7 @@ date: 2024-02-26
 tags:
   - posts
 layout: post
-category:
-  - "[[Posts]]"
 title: First impressions of Apple Vision Pro
-permalink:
 ---
 ![](/assets/vision-pro.jpeg)
 

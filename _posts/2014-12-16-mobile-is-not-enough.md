@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/12/16/a-mobile-app-isnt-enough-users-expect-tablet-wearable-views
 ---
-
 ![](/assets/android-wear-wearable.jpg)
 
 When the App Store first launched on iOS, mobile users embraced any app designed for iPhone. Brands could make a massive impact by investing in a simple native app, even if its interface and content closely mirrored the company’s website. Over time, user expectations began to evolve. It wasn’t enough to only have an App Store presence—now, every mobile user had developed tastes about interface design and expectations about capabilities. In subsequent years, with the growth of tablets and the ubiquity of Android, many mobile users began to demand more. As mobile platforms mature and transform, users expect applications to span ecosystems and accommodate different form factors.

@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it
 ---
-
 ![](/assets/apple-music-devices.jpeg)
 
 Apple’s new streaming service launched to massive hype this summer, bringing a new [Beats Music–infused flavor](/itunes-is-dead) to Apple’s iTunes-centric media ecosystem. Apple Music transforms how Apple approaches media and competes against growing streaming companies like Spotify, and could leave a lasting impression on the music industry with its big-name partnerships and exclusives.
@@ -15,7 +14,7 @@ But the service and its apps—the refreshed Music app on iOS and iTunes on desk
 
 Apple Music’s successes and failures in user-experience design represent one of the industry’s smartest companies experimenting and pivoting in the market, and their swift changes in direction demonstrate some of the Cupertino giant’s design thinking. Here are some of the biggest lessons we noticed from Apple Music’s early evolutions.
 
-### Onboarding is critical.
+## Onboarding is critical.
 
 When users first open the Music app after updating to iOS 8.4, they are immediately presented with an all-new design featuring five tabs: For You, New, Radio, Connect, and My Music. The functionality from iOS 8.3 and before, the features that users have become accustomed to, have been collapsed into the My Music tab and now hide behind a singular drop-down view control. The other tabs present newcomers with a sign-up form for a free three-month trial of Apple Music.
 
@@ -31,7 +30,7 @@ These selections inform all the customized content and recommendations that foll
 
 Apple’s approach for familiarizing users with the app and its interface depends on users’ willingness to try poking buttons they don’t understand, and leaves some of Apple Music’s most helpful features buried within obscure menus and deep within complex user paths. For reasons that will become apparent, this reliance on users’ self-determination can only breed more confusion, and more comprehensive onboarding screens or coach marks could help alleviate this concern.
 
-### Breadcrumbs matter.
+## Breadcrumbs matter.
 Organizing every song ever recorded is a tough problem, so it should come as no surprise that one of the toughest parts to understand about Apple Music is its navigational structure. Apple’s reliance on a tab navigation for Apple Music, versus a hamburger menu that might be able to contain more options, has made for a confusing interface due to oversimplified and mysteriously named sections.
 
 ![](/assets/apple-music-for-you-tab.jpg)
@@ -50,7 +49,7 @@ At a certain point, users can have clicked through several levels of content—f
 
 The problem of organizing a near-infinite library of content is certainly not unique to Apple Music, but Apple’s insistence on tab-based navigation as the primary navigational structure certainly is. Spotify and Rdio both succumbed to a sidebar menu of available options, allowing them to organize features into buckets numbering more than five. Both Spotify and Rdio also prioritize search as a primary navigational mode, which may be contrary to Apple’s core experience of curation and discovery, but also addresses the problem of massive data sets better.
 
-### Contextual menus should be contextual.
+## Contextual menus should be contextual.
 One area of unnecessary complexity that Apple is actively correcting are contextual menus, which in iOS 8.4 presented an altogether overwhelming list of possible actions. Songs, albums, artists, and playlists all included ellipsis disclosure buttons that allowed users to take various actions, but the full breadth of possible actions was nothing short of intimidating. Every possible item could be added to the My Music library, added to a playlist, serve as the basis for a new radio station by artist, album, or track, shared with friends, and more.
 
 In iOS 8.4, this menu with its myriad of options essentially took over the screen. In early betas of iOS 9, with the new spacing and typography added to contextual menus, the menu was too large for the screen. Apple quickly course-corrected and offered a condensed and simplified range of options in [more recent versions of the iOS 9 beta](https://www.punchkick.com/videos/2015/07/10/iphone-6s-orders-ios-9-beta-showtime-more-the-friday-five), demonstrating an awareness of problem areas and a willingness to find a creative solution.
@@ -64,7 +63,7 @@ Rather than traditional context menus that present a list of text-based options,
 
 These abbreviated menus address the best use-case for contextual menus within an otherwise complicated interface: based entirely on the context of the current view and the item being manipulated, succinct in its possible range of options, and making the most common tasks—liking, sharing, or adding to the user’s My Music library—the most accessible tasks through a custom interface element. While iOS 9’s other interface tweaks might have been the impetus for the menu change, the improvement to such a core component of the Apple Music experience couldn’t have been handled better.
 
-### A platform on a platform on a platform.
+## A platform on a platform on a platform.
 It goes without saying that Apple Music isn’t Apple’s first music product. The platform builds on a legacy of iTunes products and infrastructure that has served Apple’s millions of iTunes Store customers since 2003, and handles the functional overlaps less than gracefully.
 
 The Apple Music library is not a one-to-one match for the iTunes Store library, due to various licensing and contractual complications. While some users might only worry about not being able to stream The Beatles as part of their Apple Music subscription, the deeper issue is how to surface users’ purchased items while maintaining the context of the My Music library within the broader Apple Music and iTunes libraries.

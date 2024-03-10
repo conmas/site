@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/10/09/what-to-expect-at-apples-october-16-ipad-event
 ---
-
 ![](/assets/apple-invite-1014.jpg)
 
 In recent years, Apple has divided its fall announcements into two major media events. Whereas September has historically been reserved for iPod and music events, seeing the introduction of 2007’s iPod touch and nearly every iPod iteration since, since the introduction of the iPhone 4s in 2011 Apple has shifted its iPhone announcements from WWDC in June to these special September media events. In 2012, Apple added a second October event to its lineup to introduce the fourth-generation iPad and the first-generation iPad mini, shifting its tablet announcements from early spring to the precious months at the outset of Apple’s lucrative holiday quarter.

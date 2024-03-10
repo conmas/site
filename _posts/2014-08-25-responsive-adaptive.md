@@ -6,12 +6,11 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design
 ---
-
 ![](/assets/responsive.png)
 
 As new and more diverse device types have proliferated in recent years, the notion of developing a consistent brand experience for the web might seem overwhelming. While challenges for web development were once limited to compatibility with Internet Explorer, modern web developers need to accommodate a wealth of mobile operating systems, browser capabilities, and screen dimensions. What’s worse, the subtle differences between these devices is getting blurrier and blurrier, as tablets approach feature parity with desktop browsers and mobile phones continue to increase in size. As the web and mobile have both matured, developers have approached this problem in a number of ways. While these methods differ wildly in their technological implementation, they all share a common goal—creating a web experience that feels optimized for every device.
 
-### The server does the work: adaptive web design
+## The server does the work: adaptive web design
 
 The iPhone—and, later, all iOS and Android devices—offered users the “full” web in a way they’d never experienced before on a mobile device. Rather than serving a watered-down version of webpages that Steve Jobs called the “baby internet” in his [2007 keynote presentation](https://www.youtube.com/watch?v=-3gw1XddJuc), the iPhone’s Safari web browser could render full HTML and CSS on a 3-inch screen. Thanks to multitouch panning and zooming, full desktop websites were not only accessible on a mobile screen, but also navigable.
 
@@ -27,7 +26,7 @@ Websites that follow the URL design pattern `mobile.example.com` or `m.example.c
 ![](http://blog.teamtreehouse.com/wp-content/uploads/2013/02/blog_responsive1.jpg)
 <div class="caption">Source: <a href="http://blog.teamtreehouse.com/">Treehouse</a></div>
 
-### The browser does the work: responsive web design
+## The browser does the work: responsive web design
 
 Simultaneous updating of distinct desktop and mobile code bases seems a small price to pay for consistent optimization between devices, and adaptive design makes sense for many companies whose users have differing needs on different platforms. But for many companies, building one website that seamlessly supports any screen size and resolution offers a cleaner, more future-proof solution that still adapts to users’ devices and still delivers an optimized experience everywhere. These websites could adjust their designs on the fly, changing font sizes and image widths dynamically as users’ screen sizes—or even the width of their browser windows—change. This is **responsive web design**, and it seems like the web design holy grail.
 
@@ -39,7 +38,7 @@ Responsive websites use CSS modules called media queries to determine a user’s
 
 Responsive web design can be elegant, but certainly needs more design considerations upfront to ensure its success. Because of its immense popularity in recent years, web designers have developed a number of responsive frameworks that can fast-track responsive web development, including [Bootstrap](http://getbootstrap.com/) and [HTML5 Boilerplate](http://html5boilerplate.com/). Since they don’t make assumptions about what constitutes a “desktop” or “mobile” screen size, responsively designed websites are relatively future-proof—an important consideration for ever-growing Android phone screens and as Apple gears up to announce its rumored 4.7-inch and 5.5-inch iPhones. And, perhaps best of all, responsive websites are very search engine friendly—[Google itself recommends](https://developers.google.com/webmasters/smartphone-sites/) responsive design for websites whose content needs to attract search traffic, as having one responsive website is preferable for SEO to a site with two distinct versions and possible redirects.
 
-### But which one works for me?
+## But which one works for me?
 
 There’s no simple answer to whether adaptive or responsive design is better for a company’s website—it’s entirely a case-by-case situation. For certain brands, serving universal web content with a strong SEO footprint is key. For others, there are considerations about mobile use cases that might make adaptive design a better option. But in the interest of prescribing a rule of thumb, web developers have reached a general consensus—unless your website has a specific reason to deliver unique features to mobile users, it’s better to go responsive.
 

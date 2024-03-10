@@ -4,11 +4,9 @@ title: What if Apple replaced all its Mac apps with Catalyst?
 date: 2019-04-14
 attribution: true
 original_site: Medium
-category:
-  - "[[Posts]]"
 tags:
   - posts
-permalink: 
+permalink: /marzipan
 status:
 ---
 ![An image of a laptop in the dark, half closed, with the backlight from the screen illuminating its keyboard and the surrounding surface.](/assets/laptop-marzipan.webp)
@@ -45,7 +43,7 @@ In this post, I've broken down every macOS system app and highlighted where its 
 
 With that massive caveat established (so don't @ me), let's jump in.
 
-### Jump to a section
+## Jump to a section
 
 - [iTunes](#itunes)
 - [Mail](#mail)

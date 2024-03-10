@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web
 ---
-
 ![Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.](/assets/woman-using-android-phone.jpg)
 
 Accessibility is a topic that in many ways is as old as the web. Because designers and developers have been focused on making digital products accessible for decades, there are many guidelines, standards, and even automated assessment tools that already exist to ensure websites are accessible. There are also regulations that many companies need to comply with, including the Americans with Disabilities Act, which has been updated to include digital product guidelines.
@@ -21,7 +20,7 @@ Designers should endeavor to define accessibility guidelines for the web and mob
 
 Product designers can’t claim to fully embrace user-centric design unless they design for the needs of *every* user. Below are a few target areas that expand upon the common guidelines for fonts, colors, and web markup to better address the technologies and use cases of modern users.
 
-#### Applying Accessible Design to Native App Navigation
+## Applying Accessible Design to Native App Navigation
 
 There are many paradigms and best practices for how mobile and web experiences to offer fluid into navigation. On mobile devices, standards put forth by Apple and Google help ensure that navigation is consistent between apps and predictable for new experiences. In many cases, simply complying with Apple's Human Interface Guidelines or Google's Material Design best practices can ensure an accessible experience of the box. However, there are some common themes that can help any kind of application or user experience prevent alienating the users who depend upon them.
 

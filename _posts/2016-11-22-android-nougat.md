@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/11/22/designing-android-apps-to-fit-every-screen-and-half-screen
 ---
-
 ![](/assets/android-nougat.jpg)
 
 ## How we got here

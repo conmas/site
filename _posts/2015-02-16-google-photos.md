@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2015/02/16/how-google-got-photos-right-users-expect-mobile-services-to-be-automatic
 ---
-
 ![](/assets/gundotra-google.jpg)
 
 As smartphone cameras become more capable, mobile photography has become a hotbed area for technical innovation and user experience improvements. Photos are storage hogs, and users take and share more and more photos online every year. How can mobile platforms better manage photos, and provide tools that make the status of photo data more obvious and accessible? Google+ managed to revolutionize mobile photography by understanding users’ needs and expectations—and it delivered a product built on algorithms and automation that solved real-world frustrations for millions of people.

@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters
 ---
-
 > This post was co-written with [Sean Samocki](http://www.runningincode.com).
 
 ![](/assets/health-ios-8.png)

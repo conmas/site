@@ -6,7 +6,6 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2014/12/12/apps-are-the-new-books-reading-goes-interactive
 ---
-
 ![](/assets/interactive-ebook.jpg)
 
 As far as young mobile users are concerned, apps are cool. Books, traditionally, aren’t. But as books increasingly look and feel like native apps, and as readers begin to expect interactive and informative content they’re accustomed to from the web, publishers have a massive opportunity to capitalize on the unmet need of reading experiences that take the form of engaging native apps.

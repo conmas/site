@@ -10,7 +10,7 @@ original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experie
 
 As more and more industries work to reinvent their products and services to align with mobile growth, major companies have invested heavily in ways to offer entirely new product experiences to their customers on the go. One persistent example is the banking industry—some of the world’s largest and most enduring brands have begun pivoting to accommodate an expected [300% explosion of mobile banking adoption](http://www.americanbanker.com/issues/177_243/mobile-banking-will-grow-300-percent-over-the-next-four-years-aite-1055318-1.html) among increasingly connected consumers. But they’re doing more than releasing a shoddy mobile app—many of these companies are completely reimagining their businesses to attract younger, tech-hungry audiences and engage with new generations of mobile bankers.
 
-### From teller to telephone
+## From teller to telephone
 
 When the iPhone and other platforms introduced their app marketplaces, major banks were among the first to adopt new technologies and launch rudimentary banking apps. Often, these entailed basic webviews of their [adaptive mobile sites](http://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design) and offered simple ways to view account balances and make transfers. These functions seemed to be a natural fit on mobile, but soon new companies began building true native apps that allowed for features like mobile check deposit using a smartphone camera—ideas that were uniquely mobile and impossible on other devices. The stakes had been raised, and the price of entry now called for innovative ideas beyond what was possible on the company website.
 
@@ -20,7 +20,7 @@ These apps began to attract a new kind of banking customer, whose priorities ext
 
 Startups like [Simple](https://www.simple.com/) aimed to demystify the banking experience for a new generation of mobile users, and thousands of early adopters signed up for “beta” access to become a member. Besides its lack of overdraft fees and account minimums, Simple focused on a minimal design and leading customer service, all rolled up into a robust and straightforward mobile app. With Simple, bankers don’t even have the complexity of checking or savings accounts—like Gmail, it encourages users to assign labels called “Goals” to their dollars, mentally setting them aside for a future vacation or purchase.
 
-### Streamlining the bottom line
+## Streamlining the bottom line
 
 Traditional banks weren’t the only ones to reimagine money for mobile. Technology startups like PayPal focused not on the accruement or management of money, but instead on new avenues to use it. PayPal ignited an entire industry of online payment providers by allowing users to either link up their bank accounts or carry a balance within PayPal to complete purchases on sites across the web. It was now possible for internet users to accept and make payments not only without a brick and mortar bank location, but without necessarily interacting with their bank accounts at all.
 

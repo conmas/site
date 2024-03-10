@@ -15,7 +15,7 @@ However, there are certain types of apps that are as relevant in a television co
 
 Specifically, an outlet for brands to make a positive impact is in the realm of home health and fitness. Most people work out in their homes, rather than at the gym, and a pocket industry of instructional workout content has sprung up to support this interest. With [the new capabilities of Apple TV](/2015/09/10/apple-tv-siri-app-store/), brands have an opportunity to make these at-home fitness experiences more connected and personalized than ever before.
 
-### An Apple TV a day keeps the doctor away
+## An Apple TV a day keeps the doctor away
 
 The television is the centerpiece of millions of living rooms, with a unique degree of reverence and importance designated by its focused placement in front of the most comfortable seating in the house. And many people prepare and eat a majority of their meals within range of their television, a fact that has spawned entire channels dedicated to instructional cooking content intended to be followed in real time, or perhaps consumed and saved for later.
 
@@ -34,7 +34,7 @@ Further, [the interactive nature of Apple TV](/2015/09/10/apple-tv-siri-app-stor
 
 Not sure how to flambé without singeing your eyebrows? Click the on-screen tooltip to see an instructional video. Not sure where to buy those health-food ingredients for a particular recipe? Click the button in the overlay to find a nearby store. With tvOS, this kind of programming can become more powerful and immersive than ever before.
 
-### From couch potato to couch Apple
+## From couch potato to couch *Apple*?
 
 Of course, the other side to fitness is activity, and Apple TV provides new ways for lifestyle and fitness brands to extend their reach into users’ living rooms. Technological formats for instructional workout videos are nothing new—they’ve been ubiquitous since the VHS tape, and have enormous brands entirely dedicated to them. But beyond the DVD are wholly interactive experiences that provide real-time feedback and personalized coaching, replicating the gym training experience in the home.
 
