@@ -85,6 +85,13 @@ time {
   line-height: 1.5;
 }
 
+.date-label {
+  color: var(--tx-2);
+  font-size: .9rem;
+  padding-right: .5em;
+  font-variant-numeric: tabular-nums;
+}
+
 #site-title {
   color: var(--tx) !important;
 }
