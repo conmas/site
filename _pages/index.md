@@ -16,7 +16,7 @@ More [about me](/about). See what I’m up to [now](/now).
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 10 %}
     <li>
-      {{ note.last_modified_at | date: "%Y-%m-%d" }} <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      <span style="color:hsl(0, 0%, 50%)">{{ note.date | date: "%Y-%m-%d" }}</span> <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -32,6 +32,5 @@ I’ve written extensively over the years for various blogs and websites, some m
       <span style="color:hsl(0, 0%, 50%)">{{ post.date | date: "%Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
     </li>
   {% endfor %}
-  <li><a href="/writing">See all posts →</a></li>
 </ul>
 
