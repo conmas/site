@@ -16,7 +16,7 @@ More [about me](/about). See what I’m up to [now](/now).
   {% assign recent_notes = site.notes | sort: "last_modified_at_timestamp" | reverse %}
   {% for note in recent_notes limit: 10 %}
     <li>
-      <span style="color:hsl(0, 0%, 50%)">{{ note.date | date: "%Y-%m-%d" }}</span> <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
+      <span style="color:hsl(0, 0%, 50%)">{{ note.date | date: "%Y" }}</span> <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
