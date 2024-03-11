@@ -70,8 +70,8 @@ time {
 }
 
 li::marker {
-  color: var(--tx-2);
-  font-size: 0.9em;
+  color: var(--tx-3);
+  font-size: 0.5em;
 }
 
 .caption {
@@ -88,6 +88,11 @@ li::marker {
   color: var(--tx-3);
   font-size: 0.8rem;
   line-height: 1.5;
+}
+
+.footer-links a {
+  margin-left: 1em;
+  color: var(--tx-3);
 }
 
 .date-label {
@@ -195,11 +200,6 @@ a {
     color: var(--tx);
     background: var(--ui-2);
   }
-}
-
-.footer-link {
-  margin-left: 1em;
-  color: var(--tx-3);
 }
 
 nav { margin: 1em 0 3em; }
