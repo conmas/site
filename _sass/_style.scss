@@ -69,6 +69,11 @@ time {
   margin: 0.5em 0 1em;
 }
 
+li::marker {
+  color: var(--tx-2);
+  font-size: 0.75em;
+}
+
 .caption {
   color: var(--tx-2);
   font-size: 0.8rem;
