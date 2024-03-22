@@ -33,8 +33,7 @@ These are meaningful, insightful, helpful, interesting, or funny to *me*, but yo
   
 > Ask people about themselves. Listen to what they have to say. Assume everyone you meet just wants to feel understood.
   
-> Round up to whole bills when tipping at restaurants.
->> Related: everyone should work a job in the service industry at some point in their lives. You can tell when someone hasn’t.
+> Everyone should work a job in the service industry at some point in their lives. You can tell when someone hasn’t.
   
 > Live every day as if you know it's all going to work out.
 >> Also: Live every day as if you've deliberately come back in time to this one day, to enjoy it.[^3]
