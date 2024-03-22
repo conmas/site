@@ -14,5 +14,6 @@ I want to make [wonderful](/make-something-wonderful) products. Shipping useful 
 
 I’m passionate about accessibility, data privacy, and em dashes. I rarely use social media, but when I do, I post about Apple, productivity apps, and smart home platforms. Otherwise, you’ll typically find me drinking coffee and talking with my hands. 
 
+- [Résumé](/resume)
 - [Now](/now)
 - [Colophon](/colophon)
