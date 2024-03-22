@@ -4,7 +4,7 @@ title: Make something wonderful
 date: 2023-07-26
 permalink: /make-something-wonderful
 tags: quote
-image: https://book.stevejobsarchive.com/photos/photo-34~1500.webp
+image: /assets/steve-with-macintosh.webp
 ---
 <div class="caption">Steve Jobs stopping to watch someone use a Macintosh in 1984.</div>
 <br>

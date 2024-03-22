@@ -3,7 +3,7 @@ layout: note
 title: Pioneer plaque
 date: 2024-03-22
 permalink: /pioneer-plaque
-image: https://upload.wikimedia.org/wikipedia/commons/2/22/GPN-2000-001621-x.jpg
+image: /assets/pioneer-plaque.jpg
 ---
 
 The *Pioneer 10* and *11* probes launched by NASA in 1972 and 1973 were the first manmade objects with sufficient escape velocity to exit the solar system. While this feat has since been matched by other space probes, the engineers took that opportunity to consider the longevity of what they were sending into the void. These little machines would travel further from home than anything our civilization had yet produced, and as they hurtled through interstellar space for eons to come, in all likelihood they would outlast our civilization and the Earth itself.
