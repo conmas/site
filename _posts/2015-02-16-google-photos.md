@@ -3,7 +3,7 @@ layout: post
 title: How Google got photos right
 date: 2015-02-16
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/02/16/how-google-got-photos-right-users-expect-mobile-services-to-be-automatic
 image: /assets/gundotra-google.jpg
 image_alt: Image of Google executive Vic Gundotra introducing new Google+ photos features on stage, flanked by a large grid of photographs.

@@ -4,10 +4,13 @@ title: Material design for consumer apps
 permalink: /material-design
 date: 2014-07-31
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/07/31/what-does-googles-material-design-mean-for-consumer-brand-apps
 image: /assets/material-design-neon.png
 image_alt: Illustration of Material Design components across a laptop, tablet, and phone form factor in neon green and purple colors.
+topics:
+  - "[[Material Design]]"
+  - "[[Google]]"
 ---
 In recent years, Google has put an increased emphasis on the design and consistency of its products’ web and mobile interfaces. At this year’s I/O developer conference, the company announced its latest design initiative for the web and Android, which it dubbed “[Material Design](https://www.google.com/design/spec/material-design/introduction.html).” We sat down with [Andy Detskas](https://www.andydetskas.com), an interactive designer at Punchkick, and talked about what these new design guidelines mean for consumer brands and their Android apps.
 

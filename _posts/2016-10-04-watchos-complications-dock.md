@@ -3,7 +3,7 @@ layout: post
 title: watchOS gets less complicated with complications & dock
 date: 2016-10-04
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/10/04/watchos-gets-less-complicated-with-complications-the-dock
 image: /assets/apple-watch-dock-hero.jpg
 image_alt: Image of a person's arm wearing an Apple Watch, resting on a table.

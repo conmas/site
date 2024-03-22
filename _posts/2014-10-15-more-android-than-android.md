@@ -4,10 +4,13 @@ title: More Android than Android
 permalink: /more-android-than-android
 date: 2014-10-15
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/10/17/more-android-than-android-nexus-player-targets-the-living-room
 image: /assets/nexus-6.jpg
 image_alt: Image of a Nexus 6 device sitting on a table next to a pen, a notepad, and a bowl with kiwi, figs, and almonds.
+topics:
+  - "[[Android]]"
+  - "[[Google]]"
 ---
 ## Android’s new poster child {#nexus-6}
 

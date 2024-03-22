@@ -3,7 +3,7 @@ layout: post
 title: Mobile is not enough
 date: 2014-12-16
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/12/16/a-mobile-app-isnt-enough-users-expect-tablet-wearable-views
 image: /assets/android-wear-wearable.jpg
 image_alt: Image of a person using an Android Wear smartwatch in an urban winter scene.

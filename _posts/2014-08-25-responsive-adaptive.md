@@ -3,7 +3,7 @@ layout: post
 title: Responsive versus adaptive web design
 date: 2014-08-25
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design
 image: /assets/responsive.png
 image_alt: Illustration of responsive design across devices.

@@ -3,7 +3,7 @@ layout: post
 title: Incentive-based design
 date: 2016-04-05
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/04/05/how-incentive-based-design-can-maximize-app-engagement
 image: /assets/incentive-based-design.jpeg
 image_alt: A man smiles while showing another man something on an iPad, presumably a delightful incentive-based design pattern.

@@ -3,7 +3,7 @@ layout: post
 title: Siri on steroids
 date: 2015-04-27
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/04/27/siri-on-steroids-taking-virtual-assistants-to-the-next-level
 image: /assets/flight-map.webp
 image_alt: Close-up image of a flight tracking visualization.

@@ -3,7 +3,7 @@ layout: post
 title: What to expect at Apple’s October event
 date: 2014-10-09
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/10/09/what-to-expect-at-apples-october-16-ipad-event
 image: https://www.macworld.com/wp-content/uploads/2022/04/iPad-Air-2013_flat_frontback-800.jpg?quality=50&strip=all&w=800
 ---

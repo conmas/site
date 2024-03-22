@@ -1,10 +1,11 @@
 ---
-layout: post
-title: Berkley One
+layout: note
+title: Berkley One producer portal
 permalink: /berkley
 date: 2018-10-14
 tags:
-  - Client
-  - Project
+  - clients
+  - projects
+image:
 ---
 Case study coming soon. Return [home](/).

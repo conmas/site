@@ -3,7 +3,7 @@ layout: post
 title: Apple Music’s design is broken
 date: 2015-08-17
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/08/17/apple-musics-ux-design-is-broken-heres-how-apple-is-fixing-it
 image: /assets/apple-music-devices.jpeg
 image_alt: Image of Apple Music running on various devices, including a MacBook, iPad, Apple Watch, and iPhone.

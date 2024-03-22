@@ -3,7 +3,7 @@ layout: post
 date: 2014-08-27
 title: All banking is mobile banking
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile
 image: /assets/google-wallet-iphone.jpg
 image_alt: Image of a hand holding an iPhone, showing a transaction in the Google Wallet app for transferring money to a friend.

@@ -4,7 +4,7 @@ title: PhotoKit helps developers call the shots
 date: 2014-10-30
 permalink: /ios-8-photokit
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/10/30/ios-8-in-context-photokit-helps-developers-call-the-shots
 image: /assets/ios-8-photokit.jpg
 image_alt: Illustration of the PhotoKit icon flanked by out-of-focus iPhone screenshots, tiled at an isometric angle.

@@ -3,10 +3,12 @@ layout: post
 title: Microsoft reflects on its website’s 20-year history
 date: 2014-08-07
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/08/07/microsoft-highlights-their-websites-20-year-history
 image: /assets/msft-www.jpg
 image_alt: Screenshot of a retro Microsoft website, as it appeared in 1994.
+topics:
+  - "[[Microsoft]]"
 ---
 Today, Microsoft shared an archived version of its website as it appeared in 1994, at the dawn of the web as we know it today. The page features an unformatted headline welcoming visitors to the company’s “World Wide Web Server,” and features a space-themed image menu that provided links to many of the company’s products and services. The links have been updated to direct modern visitors to Wikipedia pages explaining these 20-year-old products, and a line suggesting that users whose “browser doesn’t support images” use a “text menu” instead, underscoring the massive changes in web browser capabilities since then.
 

@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about
 tags:
-  - Meta
+  - meta
 ---
 ![Headshot of Connor Mason.](assets/headshot.jpeg)
 # Hi, I’m Connor.

@@ -3,7 +3,7 @@ layout: post
 title: What’s in a font? Working with San Francisco
 date: 2015-05-20
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/05/20/whats-in-a-font-working-with-san-francisco-on-apple-watch
 image: /assets/apple-watch-hig-sf-font.jpg
 image_alt: Screenshot of typeface documentation for the San Francisco display font, showing sizes and alignment guides.

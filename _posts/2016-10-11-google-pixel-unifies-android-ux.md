@@ -6,6 +6,7 @@ attribution: true
 original_site: Punchkick
 original_url: https://www.punchkick.com/blog/2016/10/11/with-its-new-pixel-google-seeks-to-unify-android-user-experience
 image: /assets/google-assistant-pixel.jpeg
+image: {{image}}
 image_alt: Photograph of a person using Google Assistant on an Android phone to check traffic on their route to work.
 ---
 Last week, Google held a rare product event to introduce its first-generation “Made by Google” product line, the centerpiece of which was an all-new handset called Google Pixel. Pixel—along with its 5.5-inch cousin, the Pixel XL—is a flagship Android smartphone from the stewards of Android themselves. They boast top-of-the-line hardware specs, an industry-leading camera system, and a minimalist design aesthetic reminiscent of Google’s Cupertino rival. But more interesting than what Pixel actually does is what it represents—Google is no longer entrusting Android hardware manufacturers to set the standard for the industry, and has begun setting the bar itself.

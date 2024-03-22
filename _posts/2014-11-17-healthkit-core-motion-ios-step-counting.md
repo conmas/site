@@ -3,7 +3,7 @@ date: 2014-11-17
 title: Comparing HealthKit &amp; Core Motion
 layout: post
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/11/17/using-healthkit-core-motion-optimize-ios-step-counters
 image: /assets/health-ios-8.png
 image_alt: Image of iPhones showing data visualizations from the Health app.

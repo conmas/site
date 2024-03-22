@@ -3,7 +3,7 @@ layout: post
 title: Wearables will reinvent theme parks, concerts, event venues
 date: 2014-08-11
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/software/android/2014/08/11/wearables-will-reinvent-theme-parks-concerts-and-big-event-venues
 image: /assets/android-wear-concert.jpg
 image_alt: Image of a concert attendee holding up their arms, with an Android Wear watch visible.

@@ -3,7 +3,7 @@ layout: post
 title: Extend iOS app brand experience to Apple Watch
 date: 2015-04-27
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/05/21/how-to-extend-your-ios-app-brand-experience-to-apple-watch
 image: /assets/apple-watch-iphone.jpg
 image_alt: Image of Apple Watch next to iPhone, showing overlapping apps and capabilities.

@@ -3,7 +3,7 @@ layout: post
 title: Designing effective watchOS apps
 date: 2016-10-10
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/10/10/designing-watchos-apps-to-be-more-user-friendly-and-effective
 image: /assets/apple-watch-weather.jpg
 image_alt: A photograph of a person wearing an Apple Watch and using the Weather app for watchOS.

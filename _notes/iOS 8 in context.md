@@ -4,8 +4,8 @@ title: iOS 8 in context
 permalink: /ios-8-in-context
 date: 2014-09-01
 tags:
-  - Punchkick
   - Writing
+original_site: "[[Punchkick]]"
 ---
 
 ## Introduction

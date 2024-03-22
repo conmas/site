@@ -4,10 +4,12 @@ title: iTunes is dead, long live iTunes
 date: 2014-11-13
 permalink: /itunes-is-dead
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/11/13/itunes-is-dead-long-live-itunes-apple-is-phasing-out-beats-music
 image: /assets/itunes-store.png
 image_alt: An image of the iTunes Store running on a MacBook Air, iPad, and iPhone.
+topics:
+  - "[[iTunes]]"
 ---
 When digital music first entered the mainstream in the early 2000s, there were very few reputable and legal ways to download coveted MP3 files. Countless gray-area download services and file sharing communities sprouted up, not because of some malcontent or ill will toward the record industry, but because obtaining digital music legitimately was complicated and difficult. Apple sought to fill the void with its iTunes Store, and in so doing managed to upend the record industry forever. iTunes didn’t just distribute music: it offered new ways to discover and enjoy music across all of users’ digital devices. The service soon became the number one music retailer in the United States, besting brick-and-mortar CD sales from retail giants. But its days were numbered: as streaming advanced and companies began taking advantage of modern web technologies, iTunes lost its edge. As users’ expectations around music consumption shifted, the industry began to adopt a new perspective: the future of music is about providing *access* to content, not ownership. Despite its missteps, Apple is beginning to make plays that will ensure iTunes maintains its dominant position well into the future.
 

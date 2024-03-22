@@ -3,11 +3,11 @@ layout: page
 title: Colophon
 permalink: /colophon
 tags:
-  - Meta
+  - meta
 ---
 # Colophon
 
-This site is designed, developed, written, and published by [Connor Mason](/about) in the suburbs of Chicago. 
+This site is designed, developed, written, and published by [Connor Mason](About%20(WolfCo).md) in the suburbs of Chicago. 
 
 Posts and pages are written in [Markdown](https://daringfireball.net/projects/markdown) using [Obsidian](https://obsidian.md) and [iA Writer](https://ia.net/writer). Templates, layouts, and development files are written and managed using [Nova](https://nova.app).
 

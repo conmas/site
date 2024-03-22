@@ -3,7 +3,7 @@ layout: post
 title: Apps are the new books
 date: 2014-12-12
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/12/12/apps-are-the-new-books-reading-goes-interactive
 image: /assets/interactive-ebook.jpg
 image_alt: Photograph of a user using an interactive ebook on an iPad, zooming in on an image of a monkey.

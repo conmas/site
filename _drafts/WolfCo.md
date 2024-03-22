@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: note
 title: WolfCo
 permalink: /wolfco
 date: 2020-04-13
 tags:
-  - Project
-  - Freelance
+  - projects
+  - freelance
 ---
 Case study coming soon. Return [home](/).

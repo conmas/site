@@ -4,7 +4,7 @@ title: Facebook forever
 permalink: /facebook-forever
 date: 2014-08-04
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2014/08/04/facebook-forever-assimilating-every-great-mobile-experience
 image: /assets/zuckerberg-facebook-social-graph.webp
 image_alt: An image of Facebook CEO Mark Zuckerberg presenting at a conference, with a large visualization of the Facebook social graph behind him.

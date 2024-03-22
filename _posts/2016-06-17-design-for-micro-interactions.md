@@ -3,7 +3,7 @@ layout: post
 title: Designing apps for micro-interactions
 date: 2016-06-17
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/06/17/how-to-design-apps-for-micro-interactions
 image: /assets/nexus-lifestyle-ice.jpg
 image_alt: An image of a man using a Nexus smartphone, with another man creating an ice sculpture behind him for some reason, out of focus.

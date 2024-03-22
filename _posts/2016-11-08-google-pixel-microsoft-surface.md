@@ -3,9 +3,10 @@ layout: post
 title: Pixel and Surface are turning the electronics industry on its head
 date: 2016-11-08
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/11/08/pixel-and-surface-are-turning-the-electronics-industry-on-its-head
-image: /assets/microsoft-surface-book.jpeg
+image:
+  "{ image }": 
 image_alt: A photograph of someone using a Microsoft Surface device with a stylus in tablet orientation.
 ---
 Even with the Cubs winning the World Series and national politics inspiring breathless headlines, perhaps one of the strangest things about 2016 has been the transformation of some of the industry’s biggest hardware companies. Between the big three operating system makers—Google with Android, Apple with iOS, and Microsoft with Windows—a dramatic shift in strategic thinking for each company has become clear in the last few months.

@@ -3,7 +3,7 @@ layout: post
 title: Google builds its a product empire with Nexus and Chromecast
 date: 2015-10-01
 attribution: true
-original_site: Punchkick
+original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2015/10/01/with-nexus-and-chromecast-google-has-built-a-product-empire
 image: /assets/google-nexus-chromecast-hardware.jpg
 image_alt: An image showing Android phones and Chromecast devices arranged in a spiral pattern.
