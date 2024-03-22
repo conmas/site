@@ -5,8 +5,7 @@ date: 2016-11-08
 attribution: true
 original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/11/08/pixel-and-surface-are-turning-the-electronics-industry-on-its-head
-image:
-  "{ image }": 
+image: /assets/microsoft-surface-book.jpeg
 image_alt: A photograph of someone using a Microsoft Surface device with a stylus in tablet orientation.
 ---
 
