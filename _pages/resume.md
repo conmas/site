@@ -75,7 +75,7 @@ Defined and priced solutions for custom iOS and Android applications, web apps, 
 
 Freelance copywriting, design, and sales consulting. Took on projects during the pandemic.
 
-- [WolfCo](https://wolfco.us) branding, brand voice & style guide, presentation theme, and website (2020).
+- [WolfCo](https://wolfco.us) branding, brand voice & style guide, presentation theme, and website content (2020).
 - More projects to be added soon.
 
 ## Emerging Marketing
