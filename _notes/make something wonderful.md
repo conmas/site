@@ -4,7 +4,9 @@ title: Make something wonderful
 date: 2023-07-26
 permalink: /make-something-wonderful
 tags: quote
+image: https://book.stevejobsarchive.com/photos/photo-34~1500.webp
 ---
+<caption>Steve Jobs stopping to watch someone use a Macintosh in 1984.</caption>
 
 > There’s lots of ways to be, as a person. And some people express their deep appreciation in different ways. But one of the ways that I believe people express their appreciation to the rest of humanity is to make something wonderful and put it out there.
 > <br><br>
