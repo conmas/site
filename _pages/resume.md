@@ -11,11 +11,8 @@ permalink: /resume
 This is a collection of roles, projects, and experiences that have contributed to my professional history. I’ll be keeping this page updated with links to related projects or apps from these roles and companies, or other notes, pictures, and anecdotes.
 
 ## McDonald’s
-
+Leader in the Global Technology organization at the corporate headquarters in Chicago.
 ![](/assets/mhq.jpg)
-
-Part of the Global Technology organization at the corporate headquarters in Chicago.
-
 ### Senior Director, Global Digital Products & Platforms
 <time>October 2022–present</time>
 
@@ -77,29 +74,31 @@ Freelance copywriting, design, and sales consulting. Took on projects during the
 - [WolfCo](/wolfco)
 - More projects to be added soon.
 
-![](/assets/emerging-marketing.jpg)
-
 ## Emerging Marketing
-Business-to-business marketing agency and web development firm in Columbus, Ohio.[^2]
 
 ### Creative Technologist
 <time>July 2013–July 2014</time>
 
-![](/assets/easton.jpg)
+![](/assets/emerging-marketing.jpg)
+
+Business-to-business marketing agency and web development firm in Columbus, Ohio.[^2] Brought on as a copywriter, later gained experience with technical writing, content strategy, search engine optimization, sales proposal preparation, graphic design and branding, web design, frontend web development, and learning about complex B2B industries and organizations.
 
 ## Apple
-Retail location at Easton Town Center in Columbus, Ohio.
 
 ### Genius
-<time>August 2011–October 2013 • Part-time</time>
+<time>August 2011–October 2013</time>
 
-![](/assets/ipad-config.jpg)
+![](/assets/easton.jpg)
+
+Worked part-time during college at an Apple retail location at Easton Town Center in Columbus, Ohio. First hired as a Specialist on the sales floor, later graduated to a Genius Bar technician and later Mac repair technician, with hands-on training and certification at Apple corporate headquarters in Cupertino.
 
 ## G & G, Inc.
-Apple equipment supplier for the education market in Cleveland, Ohio.
 
 ### iPad Configuration Technician
 <time>2011</time>
+
+![](/assets/ipad-config.jpg)
+Apple equipment supplier for the education market in Cleveland, Ohio. Spent the summer configuring hundreds of iPads for schools using Apple Configurator and the Apple Volume Purchase Program, and later published a configuration guide that automated repetitive tasks for teachers and school administrators.
 
 ---
 
@@ -108,7 +107,9 @@ Apple equipment supplier for the education market in Cleveland, Ohio.
 ![](https://c1.staticflickr.com/5/4090/5114800711_b4bf0092bf_b.jpg)
 
 ## The Ohio State University
-<time>2013 • Bachelor of Arts, English, Design • *summa cum laude*</time> [^3]
+<time>2013</time> 
+
+Received a Bachelor’s degree in English, with a focus on British and American literature and rhetoric, and a minor in Visual Communications Design. Graduated *summa [^3]
 
 [^1]: Acquired by Wipfli LLP in 2020.
 [^2]: Rebranded to Attaché in 2015.
