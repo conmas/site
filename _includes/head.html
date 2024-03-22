@@ -38,9 +38,15 @@
   <meta property="article:author" content="{{ site.url }}/">
   {% endif %}
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  
+  {% assign image_url = page.image %}
   {% if page.image %}
-  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
+    {% unless page.image contains 'https://' %}
+      {% assign image_url = site.baseurl | append: page.image %}
+    {% endunless %}
   {% else %}
-  <meta property="og:image" content="{{ site.baseurl }}/assets/og-image.jpeg">
+    {% assign image_url = site.baseurl | append: '/assets/og-image.jpeg' %}
   {% endif %}
+  <meta property="og:image" content="{{ image_url }}">
+
 </head>
