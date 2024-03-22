@@ -1,0 +1,34 @@
+---
+layout: writing
+date: 2014-08-27
+title: All banking is mobile banking
+attribution: true
+original_site: "[[Punchkick]]"
+original_url: https://www.punchkick.com/blog/2014/08/27/reinvent-banking-experience-win-mobile
+image: /assets/google-wallet-iphone.jpg
+image_alt: Image of a hand holding an iPhone, showing a transaction in the Google Wallet app for transferring money to a friend.
+---
+
+As more and more industries work to reinvent their products and services to align with mobile growth, major companies have invested heavily in ways to offer entirely new product experiences to their customers on the go. One persistent example is the banking industry—some of the world’s largest and most enduring brands have begun pivoting to accommodate an expected [300% explosion of mobile banking adoption](http://www.americanbanker.com/issues/177_243/mobile-banking-will-grow-300-percent-over-the-next-four-years-aite-1055318-1.html) among increasingly connected consumers. But they’re doing more than releasing a shoddy mobile app—many of these companies are completely reimagining their businesses to attract younger, tech-hungry audiences and engage with new generations of mobile bankers.
+
+## From teller to telephone
+
+When the iPhone and other platforms introduced their app marketplaces, major banks were among the first to adopt new technologies and launch rudimentary banking apps. Often, these entailed basic webviews of their [adaptive mobile sites](http://www.punchkick.com/blog/2014/08/25/what-are-responsive-adaptive-web-design) and offered simple ways to view account balances and make transfers. These functions seemed to be a natural fit on mobile, but soon new companies began building true native apps that allowed for features like mobile check deposit using a smartphone camera—ideas that were uniquely mobile and impossible on other devices. The stakes had been raised, and the price of entry now called for innovative ideas beyond what was possible on the company website.
+
+These apps began to attract a new kind of banking customer, whose priorities extended beyond the ability to make a withdrawal. New banking solutions like [Ally](http://www.ally.com/) not only prioritized the online banking experience, they made it their only experience, reducing overhead and allowing for the creation and management of a checking or savings account without ever visiting a brick and mortar storefront. Many online banks eschewed traditional luxuries like physical ATMs or even paper checks, instead prioritizing innovative new ways to get around the need for those analog tools like automatic bill pay and peer-to-peer payment systems.
+
+![Photograph of a Simple bank debit card package, strapped to a cardboard mailer reading “it’s a good day.”](/assets/simple-bank.jpg)
+
+Startups like [Simple](https://www.simple.com/) aimed to demystify the banking experience for a new generation of mobile users, and thousands of early adopters signed up for “beta” access to become a member. Besides its lack of overdraft fees and account minimums, Simple focused on a minimal design and leading customer service, all rolled up into a robust and straightforward mobile app. With Simple, bankers don’t even have the complexity of checking or savings accounts—like Gmail, it encourages users to assign labels called “Goals” to their dollars, mentally setting them aside for a future vacation or purchase.
+
+## Streamlining the bottom line
+
+Traditional banks weren’t the only ones to reimagine money for mobile. Technology startups like PayPal focused not on the accruement or management of money, but instead on new avenues to use it. PayPal ignited an entire industry of online payment providers by allowing users to either link up their bank accounts or carry a balance within PayPal to complete purchases on sites across the web. It was now possible for internet users to accept and make payments not only without a brick and mortar bank location, but without necessarily interacting with their bank accounts at all.
+
+![A promotional image of a person using tap-to-pay with an Android handset running Google Wallet in a retail store checkout.](/assets/google-wallet-contactless.jpg)
+
+But what about simplifying the transaction process further—what if transactions could be made from person to person? [Square](http://www.squareup.com), inventor of the mobile point-of-sale systems that are helping to define [the future of retail](http://www.punchkick.com/blog/2014/08/18/what-does-the-retailer-of-the-future-look-like), recently introduced [Square Cash]([https://square.com/cash](https://square.com/cash)), a way for smartphone or even email users to send money to friends over a minimalist mobile app. Other newcomers like [Venmo](https://venmo.com/) and even new products from existing finance giants like [Chase QuickPay](https://www.chase.com/online-banking/quickpay) are similarly designed to allow seamless cash transactions between two human beings, and eliminate many of the banking system holdups that historically plagued simple money transfers.
+
+With other obstacles removed, some of the largest internet companies are exploring new ways to make the business of money even more transparent. [Google Wallet](http://www.google.com/wallet) offers straightforward payment options and even its own balance much like PayPal, but goes one step further—the app for Android leverages many devices’ built-in NFC chips to replace the need for a wallet altogether. By linking their credit cards or drawing from their Google Wallet account balances, users can make payments in thousands of stores with the touch of their smartphone to terminals that support [MasterCard PayPass](http://www.mastercard.us/paypass.html) or [Visa PayWave](http://usa.visa.com/personal/security/card-technology/visa-paywave.jsp) NFC technologies. Coupled with a free debit card available at each users’ request, Google Wallet members can use the service almost entirely in lieu of traditional banks, although a regular checking account would still be required for direct or check deposit.
+
+All of these new products seem to make the banking experience cleaner and simpler for a generation enamored with mobile but standoffish toward traditional banking institutions. Apps like [Level](https://levelmoney.com/) even aim to water the message down to a single number—here’s the amount you can spend today. But this move toward obviousness doesn’t exclude longstanding banks with complex account systems, but rather offers financial businesses a unique opportunity to reexamine their products for mobile and engage with fresh customers. Just as mobile check deposit and ATM finder maps became the price of entry for new banking apps, soon users will expect new ways to think about their money wrapped up in elegant, slimmed-down user experiences—and every bank will need to adopt a mobile strategy to remain relevant.

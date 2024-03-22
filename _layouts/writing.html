@@ -1,0 +1,37 @@
+---
+layout: default
+---
+
+<article>
+  <h1>{{ page.title | markdownify }}</h1>
+  <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+    
+    {{ page.date | date: "%B %-d, %Y" }} • 
+    {% capture words %}
+      {{ page.content | number_of_words | minus: 250 | strip_newlines }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+      {{ words | plus: 250 | divided_by: 180 | round | append: " minute read" }}
+    {% endunless %}
+    
+    {% if page.attribution %}
+      • Originally published
+      {% if page.original_site and page.original_url %}
+        on <a href="{{ page.original_url }}">{{ page.original_site | remove: "[[" | remove: "]]" }}</a>
+      {% elsif page.original_site %}
+        on {{ page.original_site | remove: "[[" | remove: "]]" }}
+      {% else %}
+        elsewhere.
+      {% endif %}
+    {% endif %}
+  </time>
+  
+  {% if page.image %}
+    <img src="{{ page.image }}" alt="{{ page.image_alt | default: 'Related image' }}"/>
+  {% endif %}
+  
+  <div>
+    {{ content }}
+  </div>
+  
+</article>
