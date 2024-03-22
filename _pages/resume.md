@@ -11,8 +11,9 @@ permalink: /resume
 This is a collection of roles, projects, and experiences that have contributed to my professional history. I’ll be keeping this page updated with links to related projects or apps from these roles and companies, or other notes, pictures, and anecdotes.
 
 ## McDonald’s
-Leader in the Global Technology organization at the corporate headquarters in Chicago.
 ![](/assets/mhq.jpg)
+Leader in the Global Technology organization at the corporate headquarters in Chicago.
+
 ### Senior Director, Global Digital Products & Platforms
 <time>October 2022–present</time>
 
@@ -24,10 +25,10 @@ Our customer-facing products and commerce platforms support more than 75 global 
 - [McDelivery](https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcd-announces-targets-development-loyalty-membership-cloud-tech.html)
 - More projects to be added soon.
 
-![](/assets/roa.jpeg)
-
 ### Director, Global Digital Platforms
 <time>May 2021–October 2022</time>
+
+![](/assets/roa.jpeg)
 
 Led the engineering teams for customer-facing products and platforms, including the McDonald’s global mobile app, self-ordering kiosks, and global websites. Assembled a high-performing engineering and architecture team focused on globalization, standardization, and establishing a technical platform for scale.
 
@@ -42,9 +43,8 @@ In my first position at McDonald’s, I focused on the global mobile app and the
 - [MyMcDonald’s Rewards](https://corporate.mcdonalds.com/corpmcd/our-stories/article/loyalty-rewards.html)
 
 ## Punchkick
-Mobile-focused software development studio based in Chicago.[^1]
-
 ![](/assets/punchkick.jpg)
+Mobile-focused research, design, and software development product studio based in Chicago.[^1]
 
 ### Principal, Head of Product
 <time>May 2017–June 2019</time>
@@ -112,7 +112,7 @@ Apple equipment supplier for the education market in Cleveland, Ohio. Spent the 
 ![](https://c1.staticflickr.com/5/4090/5114800711_b4bf0092bf_b.jpg)
 
 ## The Ohio State University
-<time>2013</time> 
+<time>2013</time>
 
 Received a Bachelor’s degree in English, with a focus on British and American literature and rhetoric, and a minor in Visual Communications Design. Graduated *magna cum laude*. [^3]
 
