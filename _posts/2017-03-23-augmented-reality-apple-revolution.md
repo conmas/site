@@ -5,8 +5,7 @@ date: 2017-03-23
 attribution: true
 original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/software/2017/03/23/ar-is-apples-next-revolution-and-brands-should-follow-suit
-image:
-  "{ image }": 
+image: /assets/apple-arkit-2-lego-ipad.jpg
 image_alt: Photograph of a child playing with augmented reality features on an iPad, showing Lego characters on the screen as he points the camera to a Lego city in the real world.
 ---
 If recent rumors about this summer’s iOS 11 announcement and this fall’s iPhone hardware refresh are to be believed, Apple is going to be betting big on augmented reality. From iPhones without bezels to new Maps features that make use of the smartphone camera, theories abound about what Apple’s AR solution might ultimately look like. Customers are excited about what Apple might introduce, but completely at a loss as to what this new feature might actually feel like to use.
