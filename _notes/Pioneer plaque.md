@@ -3,19 +3,19 @@ layout: note
 title: Pioneer plaque
 date: 2024-03-22
 permalink: /pioneer-plaque
-image: https://upload.wikimedia.org/wikipedia/commons/0/02/Pioneer_plaque.svg
+image: https://upload.wikimedia.org/wikipedia/commons/2/22/GPN-2000-001621-x.jpg
 ---
 
 The *Pioneer 10* and *11* probes launched by NASA in 1972 and 1973 were the first manmade objects with sufficient escape velocity to exit the solar system. While this feat has since been matched by other space probes, the engineers took that opportunity to consider the longevity of what they were sending into the void. These little machines would travel further from home than anything our civilization had yet produced, and as they hurtled through interstellar space for eons to come, in all likelihood they would outlast our civilization and the Earth itself.
 
 The team designed a gold-anodized aluminum plaque intended to communicate with any extraterrestrial intelligences who might someday intercept it during its sojourn into interstellar space. Something akin to a signature from a proud civilization. This plaque presented the unique challenge of attempting to convey meaning to an unimaginable alien sentience, whose sensory capabilities and context for the universe could never be anticipated. How could we transmit a message without any common understanding, frame of reference, or *langua franca* for the interstellar neighborhood?
 
-![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Pioneer_plaque_sun.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/02/Pioneer_plaque.svg)
 
 In the end, they worked with Carl Sagan and included a few etched illustrations intended to establish a common understanding and impute some information about our species. This included:
 
 - An illustration of a hydrogen atom, the most abundant element in the universe. The small line beneath the atom establishes units of scale and time in binary, which are used elsewhere.
-- Figures of a nude human female and male, waving. [^1]
+- Figures of a nude human female and male, waving.[^1]
 - A background silhouette of the *Pioneer* spacecraft itself, for scale with the humans.
 - A visualization of the solar system and planets,[^2] with binary signifiers for their relative distances from the sun. There’s an arrow showing the spacecraft’s trajectory and planet of origin, Earth.[^3]
 - And finally, a radial map showing the sun's relative position to nearby pulsars, with their frequency denoted in binary, and a line showing its distance to the center of the Milky Way. The intention here was that, provided the spacecraft is recovered somewhere in our interstellar neighborhood, future observers would be able to triangulate the sun's position using whichever pulsars were familiar to them.[^4]
