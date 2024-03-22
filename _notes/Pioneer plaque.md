@@ -10,7 +10,7 @@ The *Pioneer 10* and *11* probes launched by NASA in 1972 and 1973 were the firs
 
 The team designed a gold-anodized aluminum plaque intended to communicate with any extraterrestrial intelligences who might someday intercept it during its sojourn into interstellar space. Something akin to a signature from a proud civilization. This plaque presented the unique challenge of attempting to convey meaning to an unimaginable alien sentience, whose sensory capabilities and context for the universe could never be anticipated. How could we transmit a message without any common understanding, frame of reference, or *langua franca* for the interstellar neighborhood?
 
-![](https://en.wikipedia.org/wiki/Pioneer_plaque#/media/File:Pioneer_plaque.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Pioneer_plaque_sun.svg)
 
 In the end, they worked with Carl Sagan and included a few etched illustrations intended to establish a common understanding and impute some information about our species. This included:
 
