@@ -1,6 +1,6 @@
 ---
 layout: writing
-title: '"*Ender’s Game*, nets, and Twitter harassment"'
+title: "*Ender’s Game* and Twitter harassment"
 date: 2019-02-10
 attribution: true
 original_site: Twitter

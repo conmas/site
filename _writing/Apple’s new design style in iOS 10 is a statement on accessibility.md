@@ -6,8 +6,7 @@ date: 2016-07-08
 attribution: true
 original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2016/07/08/apples-design-style-ios-10-accessibility
-image:
-  "{ image }": 
+image: /assets/ios-10-apple-music-iphone-6s.jpeg
 image_alt: An image of an iPhone 6s resting on a wooden table, running the Apple Music app in iOS 10. The home screen of Apple Music shows the new, bolder headers that are central to the new iOS 10 design aesthetic.
 ---
 

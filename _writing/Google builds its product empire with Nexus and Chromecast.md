@@ -1,6 +1,6 @@
 ---
 layout: writing
-title: Google builds its a product empire with Nexus and Chromecast
+title: Google builds its product empire with Nexus and Chromecast
 date: 2015-10-01
 attribution: true
 original_site: "[[Punchkick]]"

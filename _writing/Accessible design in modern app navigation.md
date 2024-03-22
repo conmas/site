@@ -5,8 +5,7 @@ date: 2017-01-17
 attribution: true
 original_site: "[[Punchkick]]"
 original_url: https://www.punchkick.com/blog/2017/01/17/accessible-design-in-modern-app-navigation-beyond-the-static-web
-image:
-  "{ image }": 
+image: /assets/woman-using-android-phone.jpg
 image_alt: Photograph of a woman using an embarrassingly ancient Android handset, sitting outdoors, smiling.
 ---
 

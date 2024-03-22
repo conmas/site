@@ -14,7 +14,7 @@ topics:
   - "[[Radiohead]]"
   - "[[Hail to the Thief]]"
 image: /assets/hail-to-the-thief.jpeg
-image_alt: Cropped image of the album cover for *Hail to the Thief* by Radiohead.
+image_alt: Cropped image of the album cover for Hail to the Thief by Radiohead.
 tags: [literature, school, college, posts, english]
 ---
 
