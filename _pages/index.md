@@ -26,10 +26,10 @@ More [about me](/about). See what I’m up to [now](/now).
 I’ve written extensively over the years for various blogs and websites, some my own, and some professionally. I’m in the process of migrating old blog posts, articles, and ebooks from Medium and other sites into this new home. This library is incomplete, but growing. Some links and assets aren’t working yet, so hang tight as I continue to restore them.
 
 <ul>
-  {% assign recent_posts = site.writing | sort: "last_modified_at_timestamp" %}
+  {% assign recent_posts = site.writing | sort: 'date' | reverse %}
   {% for post in recent_posts limit: 5 %}
     <li>
-      <span class="date-label">{{ post.date | date: "%Y" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+      <span class="date-label">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
