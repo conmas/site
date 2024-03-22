@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Boxers and bullfighters
 subtitle: A New Historicist Analysis of the Influence of the Lost Generation
 date: 2011-03-17

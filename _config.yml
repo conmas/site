@@ -21,6 +21,9 @@ collections:
   notes:
     output: true
     permalink: /:slug
+  writing:
+    output: true
+    permalink: /:year/:title
 
 defaults:
   - scope:
@@ -31,3 +34,8 @@ defaults:
       path: "_notes/**/*.md"
     values:
       layout: "note"
+  - scope:
+      path: ""
+      type: writing
+    values:
+      layout: "post"

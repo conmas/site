@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tablet wars&#58; how iPad is lapping the industry
 date: 2011-02-16
 attribution: true

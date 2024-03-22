@@ -1,5 +1,4 @@
 ---
-layout: post
 title: “Let me hear both sides”&#58; Radiohead and political discourse
 date: 2009-10-22
 published: 2009-10-21
