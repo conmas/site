@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The water’s clear and innocent&#58; Radiohead’s *King of Limbs*
+title: "The water’s clear and innocent&#58; Radiohead’s *King of Limbs*"
 date: 2011-02-25
 attribution: true
 original_site: The Masoni Review
