@@ -6,7 +6,7 @@ layout: page
 permalink: /resume
 ---
 
-# Work
+# Work history
 
 This is a collection of roles, projects, and experiences that have contributed to my professional history. I’ll be keeping this page updated with links to related projects or apps from these roles and companies, or other notes, pictures, and anecdotes.
 
@@ -61,6 +61,8 @@ Responsible for pitching and winning new clients and projects, maintaining a por
 
 Generated complex product backlogs for end-user applications and middleware APIs, including fully realized user stories and Gherkin acceptance criteria, and partnered with designers and developers to help bring each feature to life. Acted as a Scrum Certified Product Owner (CSPO) within the Agile-Scrum development team and consulted clients on Agile best practices and transformation.
 
+![](/assets/pikachu.heic)
+
 ### Pre-Sales Solution Architect
 <time>July 2014–December 2015</time>
 
@@ -69,9 +71,11 @@ Defined and priced solutions for custom iOS and Android applications, web apps, 
 ## Connote LLC
 <time>2019–present</time>
 
+![](/assets/connote.png)
+
 Freelance copywriting, design, and sales consulting. Took on projects during the pandemic.
 
-- [WolfCo](/wolfco)
+- [WolfCo](https://wolfco.us) branding, brand voice & style guide, presentation theme, and website (2020).
 - More projects to be added soon.
 
 ## Emerging Marketing
@@ -98,6 +102,7 @@ Worked part-time during college at an Apple retail location at Easton Town Cente
 <time>2011</time>
 
 ![](/assets/ipad-config.jpg)
+
 Apple equipment supplier for the education market in Cleveland, Ohio. Spent the summer configuring hundreds of iPads for schools using Apple Configurator and the Apple Volume Purchase Program, and later published a configuration guide that automated repetitive tasks for teachers and school administrators.
 
 ---
@@ -109,7 +114,7 @@ Apple equipment supplier for the education market in Cleveland, Ohio. Spent the 
 ## The Ohio State University
 <time>2013</time> 
 
-Received a Bachelor’s degree in English, with a focus on British and American literature and rhetoric, and a minor in Visual Communications Design. Graduated *summa [^3]
+Received a Bachelor’s degree in English, with a focus on British and American literature and rhetoric, and a minor in Visual Communications Design. Graduated *magna cum laude*. [^3]
 
 [^1]: Acquired by Wipfli LLP in 2020.
 [^2]: Rebranded to Attaché in 2015.
