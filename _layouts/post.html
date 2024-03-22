@@ -17,13 +17,16 @@ layout: default
     {% if page.attribution %}
       • Originally published
       {% if page.original_site and page.original_url %}
-        on <a href="{{ page.original_url }}">{{ page.original_site }}</a>
+        {% assign original_site_clean = page.original_site | remove: "[[" | remove: "]]" %}
+        on <a href="{{ page.original_url }}">{{ original_site_clean }}</a>
       {% elsif page.original_site %}
-        on {{ page.original_site }}</p>
+        {% assign original_site_clean = page.original_site | remove: "[[" | remove: "]]" %}
+        on {{ original_site_clean }}
       {% else %}
         elsewhere.
       {% endif %}
     {% endif %}
+
   </time>
   
   {% if page.image %}
