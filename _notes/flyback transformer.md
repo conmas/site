@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: note
 title: Flyback transformer
 date: 2024-02-25
 permalink: /flyback
