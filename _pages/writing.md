@@ -12,7 +12,7 @@ I’ve written extensively over the years for various blogs and websites, some m
   {% assign recent_posts = site.writing | sort: 'date' | reverse %}
   {% for post in recent_posts %}
 	<li>
-	  <span class="date-label">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | markdownify }}</a>
+	  <span class="date-label">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 	</li>
   {% endfor %}
 </ul>

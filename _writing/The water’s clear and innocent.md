@@ -1,6 +1,6 @@
 ---
 layout: writing
-title: "The water’s clear and innocent&#58; Radiohead’s *King of Limbs*"
+title: "The water’s clear and innocent&#58; Radiohead’s <em>King of Limbs</em>"
 date: 2011-02-25
 attribution: true
 original_site: The Masoni Review
