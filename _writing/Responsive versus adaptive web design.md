@@ -15,7 +15,7 @@ As new and more diverse device types have proliferated in recent years, the noti
 
 The iPhone—and, later, all iOS and Android devices—offered users the “full” web in a way they’d never experienced before on a mobile device. Rather than serving a watered-down version of webpages that Steve Jobs called the “baby internet” in his [2007 keynote presentation](https://www.youtube.com/watch?v=-3gw1XddJuc), the iPhone’s Safari web browser could render full HTML and CSS on a 3-inch screen. Thanks to multitouch panning and zooming, full desktop websites were not only accessible on a mobile screen, but also navigable.
 
-![](/assets/iphone-keynote.jpg)
+![](../assets/iphone-keynote.jpg)
 
 <div class="caption">The original iPhone was billed as one-third "internet communicator."</div>
 
@@ -35,7 +35,7 @@ Simultaneous updating of distinct desktop and mobile code bases seems a small pr
 
 Responsive websites use CSS modules called media queries to determine a user’s viewport size, after the website code has been downloaded to the user’s device. These media queries can then add or remove CSS rules to the site’s design, allowing the website to rearrange and resize its elements to accommodate different breakpoints—various screen widths that represent mobile, tablet, or desktop resolutions. While a responsive site’s CSS is slightly more cumbersome than that of a site designed exclusively for desktop or mobile, this unification means that web developers only have one code base to maintain, and eliminates any possible content-mirroring issues presented by adaptive sites. These instant design adjustments occur all in the code already loaded into the web browser, meaning users can watch these calculations and determine breakpoints in real time.
 
-![](/assets/punchkick-responsive.jpg)
+![](../assets/punchkick-responsive.jpg)
 
 > Wondering if a site is responsive? If you’re on a desktop or laptop with browser windows, resize the Punchkick website view now by grabbing the corner of your window with your cursor. Because our website is fully responsive, you can watch as content rearranges itself into different view sizes.
 
@@ -47,7 +47,7 @@ There’s no simple answer to whether adaptive or responsive design is better fo
 
 However, this shouldn’t imply that responsive is necessarily a better option—there are plenty of specific reasons why adaptive design could be more appropriate. The explanation comes down to understanding users’ priorities on desktop and mobile web. For mobile banking companies, mobile users might be interested in making quick transfers or checking account balances, while desktop users might need access to more in-depth documentation of their transaction histories. Desktop readers on news websites might be interested in viewing comment threads on a new article, whereas mobile users might be solely invested in the content itself. There are many reasons to consider adaptive design, but they all come down to addressing unique user needs on different devices.
 
-![](/assets/responsive-guide.jpg)
+![](../assets/responsive-guide.jpg)
 
 But that doesn’t mean that mobile sites should only address the concerns of the majority mobile user—there are use cases when transaction details and comments make sense for mobile, too. The key is finding a balance between immediate utility and discoverability, hiding more advanced or infrequently-used options but leaving every feature available. Users come to mobile websites with certain expectations, usually informed by their experiences on the desktop site. For this reason, mobile web best practices suggest feature parity with the full desktop site on both responsive and adaptive sites, even if certain options are tucked away in menus or toolbars. As long as common actions are available in every version of the site, and as long as actions uniquely relevant to certain devices are prioritized where necessary, users win.
 

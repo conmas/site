@@ -2,6 +2,7 @@
 
 Although there won’t be a fancy event to accompany the launch of Nexus 6 and 9 smart devices the announcements still merit attention. A blog post from Google is expected to officially reveal the new Nexus devices that will be the first to run the newest version of Android, codenamed L. Per usual, speculation has swirled around what these new devices will look like, feature, and cost—but what will be most impactful is Android L coming to life. 
 
+![](https://www.youtube.com/watch?v=dA6-GzDZfis)
 ### Android L
 
 Google’s newest operating system, Android L, has been available in beta for developers since its introduction at Google I/O this summer. Tomorrow, alongside the launch of new Nexus hardware from Google’s hardware partners, the next version of Android is expected to be released to the public after tomorrow’s rumored announcements. Most existing Nexus devices will receive the update over the air, as they are frequently the first to receive operating system updates, and other Android devices will gain access to the new version as carriers and manufacturers allow in the coming months. Android L introduces a number of cosmetic changes across the operating system, detailed in Google’s Material Design specifications from this June. But beneath the surface, L grants Android developers all-new backend improvements to increase speed and performance.
@@ -28,6 +29,6 @@ Because of its manufacturer, considering past trends of repurposing internal com
 
 Google released several ads teasing the yet-to-be-seen Nexus devices, and they are amazingly entertaining. Andy the Android character is seen in all different shapes and sizes celebrating together and flaunting the tagline “Be together. Not the same.” Google is likely making a jab at Apple’s one-size-fits-all mobile approach, but may also be saluting the push to unite all different types of devices under the newest operating system’s singular banner. Sit back and enjoy these clips.
 
-https://www.youtube.com/watch?v=dA6-GzDZfis
-https://www.youtube.com/watch?v=UfmRFIzheo8
-https://www.youtube.com/watch?v=hCCnqLzeQJQ
+
+![](https://www.youtube.com/watch?v=UfmRFIzheo8)
+![](https://www.youtube.com/watch?v=hCCnqLzeQJQ)

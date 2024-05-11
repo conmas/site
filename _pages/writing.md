@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Writing archive
-id: writing
 permalink: /writing
+original_site: "[[connormason.me]]"
 ---
 # Writing
 

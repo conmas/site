@@ -4,6 +4,8 @@ tags:
 title: Résumé
 layout: page
 permalink: /resume
+aliases:
+  - /resume
 ---
 
 # Work history
@@ -11,7 +13,7 @@ permalink: /resume
 This is a collection of roles, projects, and experiences that have contributed to my professional history. I’ll be keeping this page updated with links to related projects or apps from these roles and companies, or other notes, pictures, and anecdotes.
 
 ## McDonald’s
-![](/assets/mhq.jpg)
+![](../assets/mhq.jpg)
 Leader in the Global Technology organization at the corporate headquarters in Chicago.
 
 ### Senior Director, Global Digital Products & Platforms
@@ -28,7 +30,7 @@ Our customer-facing products and commerce platforms support more than 75 global 
 ### Director, Global Digital Platforms
 <time>May 2021–October 2022</time>
 
-![](/assets/roa.jpeg)
+![](../assets/roa.jpeg)
 
 Led the engineering teams for customer-facing products and platforms, including the McDonald’s global mobile app, self-ordering kiosks, and global websites. Assembled a high-performing engineering and architecture team focused on globalization, standardization, and establishing a technical platform for scale.
 
@@ -43,7 +45,7 @@ In my first position at McDonald’s, I focused on the global mobile app and the
 - [MyMcDonald’s Rewards](https://corporate.mcdonalds.com/corpmcd/our-stories/article/loyalty-rewards.html)
 
 ## Punchkick
-![](/assets/punchkick.jpg)
+![](../assets/punchkick.jpg)
 Mobile-focused research, design, and software development product studio based in Chicago.[^1]
 
 ### Principal, Head of Product
@@ -61,7 +63,7 @@ Responsible for pitching and winning new clients and projects, maintaining a por
 
 Generated complex product backlogs for end-user applications and middleware APIs, including fully realized user stories and Gherkin acceptance criteria, and partnered with designers and developers to help bring each feature to life. Acted as a Scrum Certified Product Owner (CSPO) within the Agile-Scrum development team and consulted clients on Agile best practices and transformation.
 
-![](/assets/pikachu.heic)
+![](../assets/pikachu.heic)
 
 ### Pre-Sales Solution Architect
 <time>July 2014–December 2015</time>
@@ -71,7 +73,7 @@ Defined and priced solutions for custom iOS and Android applications, web apps, 
 ## Connote LLC
 <time>2019–present</time>
 
-![](/assets/connote.png)
+![](../assets/connote.png)
 
 Freelance copywriting, design, and sales consulting. Took on projects during the pandemic.
 
@@ -83,7 +85,7 @@ Freelance copywriting, design, and sales consulting. Took on projects during the
 ### Creative Technologist
 <time>July 2013–July 2014</time>
 
-![](/assets/emerging-marketing.jpg)
+![](../assets/emerging-marketing.jpg)
 
 Business-to-business marketing agency and web development firm in Columbus, Ohio.[^2] Brought on as a copywriter, later gained experience with technical writing, content strategy, search engine optimization, sales proposal preparation, graphic design and branding, web design, frontend web development, and learning about complex B2B industries and organizations.
 
@@ -92,7 +94,7 @@ Business-to-business marketing agency and web development firm in Columbus, Ohio
 ### Genius
 <time>August 2011–October 2013</time>
 
-![](/assets/easton.jpg)
+![](../assets/easton.jpg)
 
 Worked part-time during college at an Apple retail location at Easton Town Center in Columbus, Ohio. First hired as a Specialist on the sales floor, later graduated to a Genius Bar technician and later Mac repair technician, with hands-on training and certification at Apple corporate headquarters in Cupertino.
 
@@ -101,7 +103,7 @@ Worked part-time during college at an Apple retail location at Easton Town Cente
 ### iPad Configuration Technician
 <time>2011</time>
 
-![](/assets/ipad-config.jpg)
+![](../assets/ipad-config.jpg)
 
 Apple equipment supplier for the education market in Cleveland, Ohio. Spent the summer configuring hundreds of iPads for schools using Apple Configurator and the Apple Volume Purchase Program, and later published a configuration guide that automated repetitive tasks for teachers and school administrators.
 
@@ -119,3 +121,5 @@ Received a Bachelor’s degree in English, with a focus on British and American 
 [^1]: Acquired by Wipfli LLP in 2020.
 [^2]: Rebranded to Attaché in 2015.
 [^3]: Transferred from Miami University in 2010.
+
+

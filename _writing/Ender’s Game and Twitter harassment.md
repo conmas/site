@@ -1,12 +1,16 @@
 ---
 layout: writing
-title: "<em>Ender’s Game</em> and Twitter harassment"
+title: <em>Ender’s Game</em> and Twitter harassment
 date: 2019-02-10
 attribution: true
 original_site: Twitter
-tags: [posts]
+tags:
+  - posts
 image: https://vignette.wikia.nocookie.net/ansible/images/d/dd/BattleRoomFilm.jpg
-image_alt: "Visual effects from the Ender's Game film showing the zero-gravity battle room."
+image_alt: Visual effects from the Ender's Game film showing the zero-gravity battle room.
+topics:
+  - "[[Orson Scott Card]]"
+  - "[[Ender’s Game]]"
 ---
 
 In the 1985 novel *Ender’s Game*, one of my favorite young adult sci-fi books, the “[Nets](https://enderverse.fandom.com/wiki/Nets)” are the equivalent of the Internet, where characters can instantly communicate with likeminded people around the world to discuss and debate big ideas. What’s most interesting about the Nets is that Orson Scott Card wrote about them 5 years before the World Wide Web was a reality in real life.

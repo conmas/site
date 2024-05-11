@@ -1,27 +1,23 @@
 ---
 layout: writing
 title: Gender and its discontents
-subtitle: An Analysis of Sex, Gender, and Politics in Le Guin & Haldeman
 attribution: true
 date: 2012-02-27
 tags:
-  - college
-  - english
-  - fantasy
-  - literature
+  - papers
   - school
+  - posts
 image: https://miro.medium.com/v2/resize:fit:800/1*8ZTIbRQvNimtyWjPvp0d1g.png
 class:
   - "[[Science Fiction & Fantasy|Science Fiction & Fantasy]]"
-category:
-  - "[[Essays]]"
-  - "[[Posts]]"
 topics:
   - "[[Science-fiction]]"
   - "[[Ursula La Guin]]"
   - "[[Joe Haldeman]]"
   - "[[The Forever War]]"
   - "[[The Left Hand of Darkness]]"
+aliases:
+  - An Analysis of Sex, Gender, and Politics in Le Guin & Haldeman
 ---
 Memorable literature has always had the ability to effect real social change through its addressing contemporary social and political issues, and science fiction is no exception. Published a mere five years apart, both *The Left Hand of Darkness* by Ursula La Guin and *The Forever War* by Joe Haldeman interact with issues of sex and gender head-on in ways indicative of the feminist movement’s influence on the authors and on culture as a whole. Both convincingly and compellingly engage with the mutability and abstraction of gender in two contexts—one as an alternate evolutionary path taken by an extraterrestrial species, the other as an evolutionary and technological inevitability for our own human species. Most interestingly in light of the Vietnam War whose shadow fell dramatically on the politics, art, and culture of the half-decade during which both novels were released, both novels offer the elimination or absence of either biological sex or heteronormativity as a possible solution to war. Perhaps most surprising and illuminative of all, the alien worlds and scenarios explored by the male, heterosexual protagonists of both novels cast heterosexuality and sexual dimorphism as the “other,” offering powerful examples of our own culture’s notions surrounding orientation and gender identity. In both Le Guin and Haldeman’s novels, the mutability and elimination of gender or sex help to shed light on our own civilization’s political treatment and expectations of gender identity and sexuality.
 

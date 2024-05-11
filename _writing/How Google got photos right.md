@@ -19,7 +19,7 @@ Google debuted its social network Google+ in 2010 as an assault on Facebook.[^1]
 
 In the course of its losing battle to attract users to its fledgling social platform, Google introduced some truly innovative and exciting web-based social features. Google Hangouts exploded into a powerhouse of web video conferencing and absorbed other Google chat properties like Google Talk and the short-lived Google+ Messenger. Google+ Sign-On became the standard authentication method for Google Play Services on Android, and helps connect millions of Android customers to their friends in games and other apps. But perhaps no Google+ feature was as impressive or adored as Photos—mainly because Google got photo management right.[^3]
 
-![](/assets/android-auto-awesome.jpg)
+![](../assets/android-auto-awesome.jpg)
 
 Google+ Photos reflects a clear understanding of users’ wants and an alignment with their interests. Whenever users snap a photo, the Google+ application on their phone automatically uploads it to their Google account on the cloud.[^4] Once there, the photos are algorithmically enhanced and organized into collections chronologically. Google customers now have an organized and beautifully optimized collection of every photo they’ve ever taken, and all they had to do was tap the shutter button.
 

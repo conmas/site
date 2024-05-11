@@ -1,11 +1,10 @@
 ---
 layout: note
-title: Bulk update image sizes in a directory 
+title: Bulk update image sizes in a directory
 date: 2024-03-10
 permalink: /bulk-update-image-widths
-tags: 
-  - tutorial
-  - utility
+tags:
+  - tutorials
 ---
 This script takes a specified directory, looks for images based on their file extensions (`.png`, `.jpg`, `.jpeg`, and more), and resizes them to a user-configurable width while maintaining their aspect ratio. The script then saves them to a target directory, rather than overwriting the original file, so you can confirm everything looks good.
 

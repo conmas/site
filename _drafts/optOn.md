@@ -4,9 +4,9 @@ title: optOn
 permalink: /opton
 date: 2018-09-27
 tags:
-  - clients
+  - companies/clients
   - projects
 ---
-![](/assets/opton-billboard.jpg)
+![](../assets/opton-billboard.jpg)
 
 Case study coming soon. Return [home](/).

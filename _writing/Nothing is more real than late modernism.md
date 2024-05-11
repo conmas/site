@@ -3,17 +3,18 @@ layout: writing
 title: Nothing is more real than late modernism
 date: 2011-06-07
 attribution: true
-tags: [college, english, literature]
+tags:
+  - papers
+  - posts
+  - school
 topics:
   - "[[Malone Dies]]"
   - "[[Samuel Beckett]]"
   - "[[Modernism]]"
-category:
-  - "[[Essays]]"
-  - "[[Posts]]"
-subtitle: "An Analysis of Samuel Beckett’s *Malone Dies*, Modernism, and Postmodernism"
 class:
   - "[[Twentieth-Century British Fiction]]"
+aliases:
+  - An Analysis of Samuel Beckett’s *Malone Dies*, Modernism, and Postmodernism
 ---
 
 The plays and prose of Samuel Beckett represent a curious middle point in twentieth-century literature as the “virtual hinge between ‘modernism’ and ‘postmodernism.’”[^1] His position as a sort of evolutionary missing link between the modernist movement and its successor provide for several disparate readings of his works, alternatively as the final throes of “late modernism or as the primary examples of postmodernist literature. Perhaps most frustrating among challenges facing those obsessive few attempting to categorize his works is the fact that his writing exhibits elements indicative of both traditions, and that his oft-incomprehensible style renders him near impossible to fully grasp. Beckett’s period of literary activity spans those decades when the modernist movement underwent its greatest transformations, morphing after the second World War into the late modernist blueprint for the postmodernism to follow. As Tyrus Miller mentions in his book on *Late Modernism*, categorization is difficult due in part to both “the impressive length of \[Beckett’s] literary career and \[to] his evolving but consistent corpus that spans from \[…] Joyce to uncompromising postmodern minimalism.”[^2] The author worked on the cutting edge of these schools, and through various progressive devices consistently pressed against the standards and ideals of the modernists and moved literature ever so gradually toward the revised postmodernist worldview. Because his work features both elements of late modernism and departures from the norm approaching prototypical postmodernism, Beckett fits snugly into neither category, and liminal works like *Malone Dies* are situated in a literary niche all their own.

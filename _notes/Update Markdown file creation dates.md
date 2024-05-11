@@ -3,9 +3,8 @@ layout: note
 title: Update Markdown file creation dates
 date: 2024-03-09
 permalink: /markdown-date-script
-tags: 
-  - tutorial
-  - utility
+tags:
+  - tutorials
 ---
 As I've migrated files between different [apps](https://stephango.com/file-over-app) over the years, in many cases the act of exporting or recreating notes has created inconsistency between the actual creation date (metadata in Finder) and the `date` metadata added to the top of the file in YAML front matter. 
 

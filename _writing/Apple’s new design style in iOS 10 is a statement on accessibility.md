@@ -16,7 +16,7 @@ Apple course-corrected some of these design decisions even before iOS 7’s rele
 
 With iOS 10, Apple is taking this refinement several massive steps further, undoing many of the user experience missteps that have plagued the operating system for years. Buttons look like buttons. Fonts and labels are easy to read—and hard to miss. Apple has brought the iOS 7 aesthetic into 2016 in a big way, and has deployed the new style across some of its flagship products and services first. But fonts and buttons seem like little tweaks, not a measured strategic direction. Why do they matter?
 
-![Three iPhones showing screenshots of iOS 7.](/assets/ios-7-design.png)
+![Three iPhones showing screenshots of iOS 7.](../assets/ios-7-design.png)
 
 <div class="caption">The software design aesthetic introduced with iOS 7 emphasized minimalism, clean lines, light typography, and bold colors—much like Apple’s hardware design always has.</div>
 
@@ -24,15 +24,15 @@ With iOS 10, Apple is taking this refinement several massive steps further, undo
 
 Whereas iOS 6 and earlier had relied upon gaudy, glossy buttons modeled after physical objects, buttons in iOS 7 famously looked basically like text labels, yielding countless examples of clickable buttons and static labels that looked indistinguishable from one another when the operating system was first introduced. Over the years, the ongoing need for refinement has brought Apple’s designers to a number of conclusions, including an accessibility option that puts borders around buttons, the prevalence of large-text buttons in on-boarding screens for iOS 9, and increased reliance on iconography rather than labels-and-buttons for common actions.
 
-![Before: Apple News onboarding screen in iOS 9. After: Revised fonts and buttons in iOS 10.](/assets/apple-news-before-after-ios-10.jpg)
+![Before: Apple News onboarding screen in iOS 9. After: Revised fonts and buttons in iOS 10.](../assets/apple-news-before-after-ios-10.jpg)
 
 With iOS 10, buttons are one of the biggest areas of focus and improvement from a user experience perspective. Gone are many examples of text-based buttons, particularly in first-launch on-boarding flows for many common apps and tasks. iOS 10 buttons look like buttons, taking on the tint color of iOS applications and taking a pill-shaped form that replaces the awkward and unclear text-based non-buttons from previous versions. This not only aids in user comprehension but also for developers’ intentionality, allowing preferred or default options to take further precedence over opt-out or “maybe later” options. 
 
-![Two screenshots of Apple Maps running on iPhones, showing the larger type styles and clearly defined buttons that are different from Apple’s previous design language as of iOS 10.](/assets/apple-maps-ios-10-design.jpg)
+![Two screenshots of Apple Maps running on iPhones, showing the larger type styles and clearly defined buttons that are different from Apple’s previous design language as of iOS 10.](../assets/apple-maps-ios-10-design.jpg)
 
 In apps like Maps, the hit targets for buttons that begin or end trips have never been more clear, helping with legibility and ease of tap for users who are likely focused on driving. Objects connected to the user’s iOS device via [HomeKit](/ios-8-homekit) are represented as distinct tiles in both the Home app itself and in the new Home controls within Control Center, helping users understand how to interact with and modify those devices. Apple Music saw one of the biggest overhauls, in part because of the [massive UX shortcomings of its first release](/2015/08/17/apple-music-design-broken/), which is defined by floating button-shaped objects for playlists and radio stations.
 
-![Screenshot of Apple Home running on an iPad, showing new iOS 10 design language elements with larger headers and clear button shapes for home accessories and scenes.](/assets/apple-home-ios-10-design.jpg)
+![Screenshot of Apple Home running on an iPad, showing new iOS 10 design language elements with larger headers and clear button shapes for home accessories and scenes.](../assets/apple-home-ios-10-design.jpg)
 
 These adjustments represent a new design vocabulary for Apple’s operating systems, relying less on translucency and text elements and reincorporating the object-oriented interface model that earlier versions of iOS relied upon. The term “skeuomorphism,” typically applied to the lavish felt or leather surfaces and extravagant flourishes that populated Apple’s software in iOS 6, actually describes the best practices Apple is implementing here. Distinct cards, like those that Material Design relies upon, are better and more immediately understood by humans than abstract representations of lists, text, and floating images. This is the good sort of skeuomorphic design—not designing a music player that looks and moves like a tape deck, but instead presenting discrete pieces of information as objects that users intuitively know how to engage with.
 
@@ -44,7 +44,7 @@ In addition, Apple is evolving their design style across its newest apps—inclu
 
 San Francisco was a font custom-designed for Apple’s purposes, starting with watchOS in 2014 and extending to all Apple’s operating systems in 2015. Now, the “black” variant rears its enormous and weighty head, gracing titles and subtitles in apps like News and Music. The new font weights are a stark contrast to the slender fonts that Apple employs across all its other apps, and it marks a strong and confident new personality for the apps that use it.
 
-![An image of Apple Music running on an iPad in iOS 10, showing large header text and larger touch targets than previous designs.](/assets/apple-music-ios-10-ipad.webp)
+![An image of Apple Music running on an iPad in iOS 10, showing large header text and larger touch targets than previous designs.](../assets/apple-music-ios-10-ipad.webp)
 
 Fonts are important—they imbue an interface with content and personality. But beyond that, the types of fonts that populate an interface can make the difference between something that’s legible to every user and something that alienates some. Heavy fonts are easier to read, and they’re certainly easier for customers with vision problems to see. But beyond that, these alterations make Apple Music and Apple News subject to users’ settings with Dynamic Type, an accessibility preference that scales the interface depending on the user’s vision capabilities. And this is perhaps the crux of Apple’s new crusade to bulk up and button down parts of iOS 10—these changes ensure that every user can enjoy it.
 

@@ -19,7 +19,7 @@ Apple Music’s successes and failures in user-experience design represent one o
 
 When users first open the Music app after updating to iOS 8.4, they are immediately presented with an all-new design featuring five tabs: For You, New, Radio, Connect, and My Music. The functionality from iOS 8.3 and before, the features that users have become accustomed to, have been collapsed into the My Music tab and now hide behind a singular drop-down view control. The other tabs present newcomers with a sign-up form for a free three-month trial of Apple Music.
 
-![](/assets/apple-music-onboarding.jpeg)
+![](../assets/apple-music-onboarding.jpeg)
 
 One major feature Apple Music inherits from [Beats Music](https://www.punchkick.com/blog/2014/05/29/apple-buys-beats-for-3-billion) is its onboarding flow, which is also one of the experiences that the new Apple Music handles best. When they select the custom-content For You tab, users are prompted to select genres and artists they like from a free-form stack of bubbles. Tapping on an item indicates you like it, double tapping signifies you love it, and holding down “pops” the bubble and eliminates that item from view.
 
@@ -35,7 +35,7 @@ Apple’s approach for familiarizing users with the app and its interface depend
 
 Organizing every song ever recorded is a tough problem, so it should come as no surprise that one of the toughest parts to understand about Apple Music is its navigational structure. Apple’s reliance on a tab navigation for Apple Music, versus a hamburger menu that might be able to contain more options, has made for a confusing interface due to oversimplified and mysteriously named sections.
 
-![](/assets/apple-music-for-you-tab.jpg)
+![](../assets/apple-music-for-you-tab.jpg)
 
 “For You” is a feed of incredibly tailored albums and playlists from Apple Music’s algorithmic recommendations engine and its team of human curators, and represents the unique value of the service. “New” is the home for popular and featured content in the Apple Music library. “Radio” is the home for both Beats 1, the service’s new 24-hour internet radio station, and radio stations based on an artist or genre, à la iTunes Radio in iOS 7 and Pandora before it. “Connect” is a strange artist-centric social network based loosely on iTunes Ping’s troubled legacy, and “My Music” is where purchased music, saved items from the Apple Music library, and playlists of all sorts coexist.
 
@@ -47,7 +47,7 @@ The situation only gets more complicated. A search icon appears on each tab of t
 
 At a certain point, users can have clicked through several levels of content—from a playlist in to an artist in that playlist, to associated artists, to albums by each artist—without the tab navigation changing or showing the path they took to get there. And each tab on Apple Music remembers its state: so as users pop between tabs, they could be a dozen screens deep into a specific artist they were investigating, and the only sign of where they are is a Back button. Breadcrumbs are invisible, leading users to reverse-engineer the path they took to get to any one screen on their own.
 
-![](/assets/apple-music-promo.jpeg)
+![](../assets/apple-music-promo.jpeg)
 
 The problem of organizing a near-infinite library of content is certainly not unique to Apple Music, but Apple’s insistence on tab-based navigation as the primary navigational structure certainly is. Spotify and Rdio both succumbed to a sidebar menu of available options, allowing them to organize features into buckets numbering more than five. Both Spotify and Rdio also prioritize search as a primary navigational mode, which may be contrary to Apple’s core experience of curation and discovery, but also addresses the problem of massive data sets better.
 
@@ -57,7 +57,7 @@ One area of unnecessary complexity that Apple is actively correcting are context
 
 In iOS 8.4, this menu with its myriad of options essentially took over the screen. In early betas of iOS 9, with the new spacing and typography added to contextual menus, the menu was too large for the screen. Apple quickly course-corrected and offered a condensed and simplified range of options in [more recent versions of the iOS 9 beta](https://www.punchkick.com/videos/2015/07/10/iphone-6s-orders-ios-9-beta-showtime-more-the-friday-five), demonstrating an awareness of problem areas and a willingness to find a creative solution.
 
-![](/assets/apple-music-context-menu-ios-9-10.jpg)
+![](../assets/apple-music-context-menu-ios-9-10.jpg)
 
 <div class="caption">Before and after of menus in Apple Music on iOS 9 beta releases.</div>
 
@@ -73,7 +73,7 @@ It goes without saying that Apple Music isn’t Apple’s first music product. T
 
 The Apple Music library is not a one-to-one match for the iTunes Store library, due to various licensing and contractual complications. While some users might only worry about not being able to stream The Beatles as part of their Apple Music subscription, the deeper issue is how to surface users’ purchased items while maintaining the context of the My Music library within the broader Apple Music and iTunes libraries.
 
-![](/assets/apple-music-ipad-beats-one.jpg)
+![](../assets/apple-music-ipad-beats-one.jpg)
 
 <div class="caption">Apple Music’s target persona permanently has paint-spattered hands.</div>
 

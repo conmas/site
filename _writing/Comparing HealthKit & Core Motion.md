@@ -17,7 +17,7 @@ Sound familiar? iOS 7 also provided some very similar functionality with the Cor
 
 Now developers have two options to create step and distance tracking applications: HealthKit and Core Motion. They both provide similar activity data with some caveats. Neither is superior to the other in every aspect, so it’s important for developers to recognize the parameters of the application you would like to build. Later, we will provide some hypothetical use cases for displaying this data and comparing the time it takes the system to supply this data between the two frameworks. The goal of this is to help developers create powerful and efficient applications by choosing the correct framework for their needs.
 
-![Apple’s official Health app in iOS 8, third-party fitness app Breeze, and an in-app modal view for apps to request access to HealthKit data.](/assets/healthkit-apps.png)
+![Apple’s official Health app in iOS 8, third-party fitness app Breeze, and an in-app modal view for apps to request access to HealthKit data.](../assets/healthkit-apps.png)
 
 ## HealthKit
 

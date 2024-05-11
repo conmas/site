@@ -1,15 +1,16 @@
 ---
 layout: writing
-title: "The water’s clear and innocent&#58; Radiohead’s <em>King of Limbs</em>"
+title: The water’s clear and innocent&#58; Radiohead’s <em>King of Limbs</em>
 date: 2011-02-25
 attribution: true
-category: "[[Posts]]"
-original_site: The Masoni Review
+category:
+  - "[[Posts]]"
+original_site: "[[Masoni Review]]"
 topics:
   - "[[Radiohead]]"
   - "[[The King of Limbs]]"
 ---
-<iframe width="800" height="450" src="https://www.youtube-nocookie.com/embed/cfOa1a8hYP8?si=5uElLa9JLC8Fbgdo&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/embed/cfOa1a8hYP8?si=hPjA4smHsRw9LKNf)
 
 Radiohead devotees are an interesting bunch. Since—along with millions of other fanatics the world over—my fandom of the Oxford experimental band borders on religious devotion, I was obviously ecstatic last week when the group announced the release of their eighth studio album, *The King of Limbs*. Being the followup to their 2007 album *In Rainbows*—which the popular media seems more inclined to remember for its pay-what-you-like distribution model than as a genuinely impressive artistic output—it’s easy to predict that no album due out in 2011 will prove as anticipated or as divisive as Radiohead’s latest. A band famous for routinely changing their sound from album to album, from grunge-era roots on 1994‘s *The Bends* to abstract and electronic epics like *OK Computer* and *Kid A* in 1997 and 2000 respectively, it was no surprise that this new album sounded rather different than anything the band had produced before. But despite its jarring electronic loops, computerized drums and disjointed, haunting ballads, *The King of Limbs* retained that ineffable quality that makes Radiohead so unique among their contemporaries—an emotional center as powerful and resonant as the highest points of “Fake Plastic Trees” some 15 years ago.
 

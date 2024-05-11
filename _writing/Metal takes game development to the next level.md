@@ -14,7 +14,7 @@ image_alt: Illustration of the Metal framework logo flanked by out-of-focus iPho
 
 ## SpriteKit, SceneKit, and Metal
 
-![](/assets/ipod-touch-spider-man.jpg)
+![](../assets/ipod-touch-spider-man.jpg)
 
 Since the iOS App Store first debuted in 2008, developers have explored new ways to build beautiful, engaging, and addictive interactive games for the new mobile platform. Just as earlier smartphones featured basic brick-breakers—a mini-game Apple itself built into many iPods in 2005 and 2006—the iPhone offered an opportunity for developers to capitalize on users’ spare attention during commutes or lengthy meetings. Apple itself isn’t ignorant of its platform’s gaming opportunity—the company’s first app for the iPhone was actually a basic Texas Hold ‘Em simulator that featured computer-generated poker rivals and then-leading graphics. But [the category has exploded](http://www.punchkick.com/blog/2014/09/11/pay-to-play-how-mobile-games-capture-our-attention-for-99-cents) into one of the iOS App Store’s most popular and lucrative, and iOS games have been elevated to attract the attention of leading designers, artists, and storytellers.
 
@@ -22,7 +22,7 @@ Apple has invested heavily in iOS gaming since then, introducing powerful graphi
 
 The business of building a video game involves effort from a wide range of disciplines, but the heavy lifting historically falls to software developers. Developers typically adopt one of many physics engines that define their game’s rules, including how gravity works within the game’s environments or how objects like characters and scenery interact with one another in physical space. These physics engines are assisted by programming interfaces (APIs) to relay instructions to the iOS device’s GPU, which helps compute the commands and display video game frames on the Retina display. Among the most popular of these APIs is OpenGL, or Open Graphics Library, which works across platforms and allows for rendering of 2D and 3D vector graphics. OpenGL runs on everything from iOS and [Android mobile phones](http://www.punchkick.com/blog/2013/07/24/google-introduces-android-4-3-jelly-bean) to desktop web browsers, but its approach is ripe for reinvention—although OpenGL has been actively developed and maintained since its initial release in 1992, certain common developer tasks are cumbersome and unintuitive.
 
-![](/assets/ipad-graphics-demo.jpeg)
+![](../assets/ipad-graphics-demo.jpeg)
 
 > “I’ve explored OpenGL, but it’s a lot of work to even draw basic game elements,” said Punchkick iOS engineer [J.C. Subida](https://www.linkedin.com/in/jcsubida/). 
 
@@ -50,7 +50,7 @@ Another massive addition to the iOS 8 graphics programming repertoire was inheri
 
 > “3D programming is pretty hard,” said Punchkick iOS engineer [Chris Cieslak](https://github.com/cieslak), “It’s much different than 2D programming. SceneKit gives us an Objective-C or Swift wrapper around 3D programming—it’s a dead-simple way to drop 3D objects and lighting into complex environments with minimal effort.”
 
-![](/assets/airplay-game-mirroring.png)
+![](../assets/airplay-game-mirroring.png)
 
 SceneKit gives developers a number of tools designed to make 3D game production quicker and easier, including a physics engine to define object motion through virtual space and a particle generator to create custom air effects and smoke for explosions. Coupled with SpriteKit, developers can take advantage of new lighting effects, per-pixel physics based on object shape, and collision detection to understand how objects within the game interact.
 
@@ -70,7 +70,7 @@ High-powered game developers already favor iOS for their latest titles, and Appl
 
 But, like SceneKit and SpriteKit, Metal’s importance extends far beyond video games. Graphics capabilities are relevant to a wide variety of popular iOS app categories outside of gaming—video editors, photo editors, and even audio editing software make use of the GPU to varying degrees. Rather than leaning on OpenGL to communicate tasks to the GPU, future multimedia app developers can leverage Metal to boost responsiveness and performance for graphics-intensive processes. The API doesn’t just shake up video games—it could usher in a new era of ultra-capable GPU-reliant applications for iPhones and iPads.
 
-![](/assets/ipod-touch-app-store-game-center.jpg)
+![](../assets/ipod-touch-app-store-game-center.jpg)
 
 Like many of the other developer additions in iOS 8, the graphics improvements in SceneKit, SpriteKit, and Metal are intended not only to address today’s developer challenges, but also to transform the future of iOS development overall. To that end, certain advanced performance features won’t be available on older iPads and iPhones (including the 5c) predating the A7 and A8 systems-on-a-chip. But these features position Apple not only to attract the attention of high-end game developers looking to make a performance impact on mobile, but also first-time game developers who are exploring iOS for the first time.
 

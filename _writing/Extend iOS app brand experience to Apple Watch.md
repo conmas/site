@@ -17,7 +17,7 @@ iOS apps can send images to their WatchKit extensions, including unique interfac
 
 On a more basic level, how can designers bridge the mobile and wearable divide with design? How similar should Watch apps be to the designs of their iOS counterparts, and in what ways should they be different? “In terms of strictly visual design, there needs to be a clear parallel between iOS and Watch with things like color, type, and iconography,” said Epstein. “Since Watch OS is a new platform, you need to give the user visual cues that these two apps are integrated and tied together. The main colors or the app icon might be some of the only customizable options—but that means you should definitely customize them. That’s how you can convey the same visual identity between iOS and Watch OS.”
 
-![](/assets/tesla-apple-watch.png)
+![](../assets/tesla-apple-watch.png)
 
 <div class="caption">Tesla's Apple Watch app includes unique diagrammatic illustrations and Watch-specific functionality.</div>
 
@@ -27,7 +27,7 @@ Behind visual design, Epstein has different ideas about what makes a good interf
 
 “There needs to be a reason for users to put the Watch app on their wrist, beyond not having to take their phone out of their pocket,” Epstein continued. “The Target iOS app, for example, lets you buy things online from a huge catalog of products. But that user experience doesn’t translate well to Apple Watch. So the Target app’s WatchKit extension lets customers look up individual items and find out where they’re located within the store. That’s a very Watch-specific feature, and it takes advantage of the unique capabilities that Apple Watch brings to the table.”
 
-![](/assets/uber-apple-watch.png)
+![](../assets/uber-apple-watch.png)
 
 <div class="caption">Uber's Watch app simplifies requesting a car, streamlining the process down to one button.</div>
 

@@ -26,7 +26,7 @@ Apple’s approach is different. Learning from the security frustrations Android
 
 Extensibility is an umbrella term for some of iOS’s most exciting features since the launch of the App Store. While its immediate implications seem more exciting to developers and power users, its long-term impact will be massive—years from now, nearly every iOS app will make use of some part of iOS 8’s Extensibility additions, and iOS users will marvel at the realization that they once lived their daily lives without app extensions. Extensibility is the purest representation of a new direction for Apple, one more friendly to developers and more accommodating of their requests. Extensibility also offers the largest opportunity for third-party developers and their apps since the App Store launched—with app extension bundles, there’s an entirely new landscape of native development to engage with customers on new levels.
 
-![](/assets/extensibility-ipad.png)
+![](../assets/extensibility-ipad.png)
 
 ### Notification Center Widgets
 
@@ -42,7 +42,7 @@ Now, developers can create interactive micro-apps that populate Notification Cen
 
 These widgets are fully interactive and can offer links to deep content within third-party apps, but are most useful in the form of glanceable, easily digestible static notifications. (Apple Watch will include a Notification Center iteration called “glances,” which will be accessible to developers from day one.) Notification Center widgets offer third-party developers a new touchpoint to engage with iOS users on their terms, and offer new immediate utility through a new and exciting medium.
 
-![](/assets/quicktype-keyboard.png)
+![](../assets/quicktype-keyboard.png)
 
 ### Third-Party Keyboards
 

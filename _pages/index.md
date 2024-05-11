@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Connor Mason
-id: home
 permalink: /
 ---
 # Hi, I’m Connor.

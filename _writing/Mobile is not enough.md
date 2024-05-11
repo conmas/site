@@ -13,7 +13,7 @@ When the App Store first launched on iOS, mobile users embraced any app designed
 
 With the advent of the iPad in 2010, Apple introduced dedicated interface principles that defined how iOS apps could be redesigned for the new 9.7-inch display. These apps, called “universal” in App Store parlance, shared one codebase and displayed different interface elements based on the device they were installed on. On Android, tablet versions of applications would similarly identify the device’s screen size and resolution to display appropriate interface elements. (If developers opted not to include tablet-specific designs, the apps would display letter-boxed mobile versions on iOS or stretched interfaces on Android.)
 
-![](/assets/woman-using-ipad-air-2.jpeg)
+![](../assets/woman-using-ipad-air-2.jpeg)
 
 > Think post-mobile: customers expect tablet and wearable app extensions, too.
 
@@ -21,6 +21,6 @@ Over time, users began to expect tablet-optimized versions of their favorite app
 
 For many apps, the work for Android Wear and Watch OS will be simple: both platforms make use of device notifications, and allow users to leverage interactive notifications directly on their watch. However, both Watch OS and Android Wear offer opportunities to expand a third-party app’s footprint on wearables. On Apple Watch, developers can use the WatchKit developer extension to build Watch OS–specific UI views and full Watch apps that expand and compliment their iOS version. Using Google Now voice interaction and watch-centric controls, Android Wear allows Android developers to extend and enhance their Android applications on wearables.
 
-![](/assets/android-wear-apps.jpg)
+![](../assets/android-wear-apps.jpg)
 
 As mobile technologies continue to evolve, expand, and miniaturize, developers have ever-growing opportunities to connect with users on the devices they’re most excited about. Tablets have captured users’ imaginations and begun reshaping how customers interact with digital devices. In coming years, as Apple Watch and Android Wear begin to see widespread adoption and routine iteration, developers can build experiences that engage users on their most intimate devices yet. Critically, just as users demand that third-party developers and brands build mobile apps—and “universal” tablet versions—millions of customers will begin to expect wearable views of their favorite mobile experiences. Going forward, the prospect of developing an app for iOS or Android might necessarily require considerations for tablet and wearable products.

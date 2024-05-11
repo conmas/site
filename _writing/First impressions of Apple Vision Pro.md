@@ -1,11 +1,13 @@
 ---
 date: 2024-02-26
-tags: [posts]
+tags:
+  - posts
 layout: writing
 title: First impressions of Apple Vision Pro
-excerpt: It’s incredible to relive your child’s birthday in 3D video, but that glosses over the fact you’re living the actual moment with a computer on your face.
 image: /assets/vision-pro.webp
 image_alt: Image of Connor Mason wearing an Apple Vision Pro headset in an Apple Store, talking with his hands.
+topics:
+  - "[[Apple Vision Pro]]"
 ---
 
 There’s tech in this thing that doesn’t seem like it should be possible. The extended reality features are the biggest thing for me—app windows casting shadows onto nearby surfaces will never cease to be mind-blowing to me. The persistence of windows you’ve placed around your environment feels incredible. Apps stick to the surfaces near you and remember their relative placement in space. Others at the Apple Store seemed to dismiss my excitement, but I maintain that ARKit plus all of the depth sensors in Vision Pro[^1] are among the most impressive pure technical achievements I’ve seen in my lifetime. 

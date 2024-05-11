@@ -3,9 +3,6 @@ layout: writing
 title: “Let me hear both sides”&#58; Radiohead and political discourse
 date: 2009-10-22
 published: 2009-10-21
-category:
-  - "[[Essays]]"
-  - "[[Posts]]"
 class:
   - "[[Life & Thought in American Literature]]"
 attribution: true
@@ -15,7 +12,10 @@ topics:
   - "[[Hail to the Thief]]"
 image: /assets/hail-to-the-thief.jpeg
 image_alt: Cropped image of the album cover for Hail to the Thief by Radiohead.
-tags: [literature, school, college, posts, english]
+tags:
+  - school
+  - posts
+  - papers
 ---
 
 In recent years, political platforms endorsed by rock musicians been elevated to a prominent position in popular culture and in the psyches of mainstream Americans. Artists with uncompromising ideologies from Bob Dylan to John Lennon have been able to affect dramatic change in our nation’s political sphere through the impact of their music in culture. Doubtless one of the most influential artistic forces in music today, experimental rock band Radiohead has defied conventions and shattered expectations for almost two decades. With each new album, the English musicians have reinvented their sound and musical style, blurring the lines dividing alternative rock, electronica and jazz while exceeding fans’ every expectation. While their influence in the world of music is incontrovertible, Radiohead recently took a distinctly more political turn with 2003’s *Hail to the Thief*, which, predictably, offered the band’s perspective on the contemporary political climate in the United States. Taking cues from conventional political calls to action like *Common Sense* by Thomas Paine, Radiohead exercised and advanced traditional modes of political discourse in this country.

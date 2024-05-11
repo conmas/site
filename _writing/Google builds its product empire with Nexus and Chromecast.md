@@ -21,7 +21,7 @@ The company’s online Google Store has never been more packed with products and
 
 Google’s Nexus handsets have long been the company’s outlet to showcase cutting-edge Android software features and capabilities, and this year’s offerings are no exception. The new Nexus 5X and Nexus 6P spearhead all-new hardware features like Android Sensor Hub—an all-in-one destination for sensor data from across the system, somewhat akin to [Apple’s M9 motion co-processor](/2014/11/17/healthkit-core-motion-ios-step-counting) in iPhones—and significantly improved camera systems. But outside of specs, the Nexus phones are the lynchpin of Google’s product strategy to attract quality-conscious smartphone buyers to the platform.
 
-![Photograph of a white Google Nexus 5X device resting on a table, flanked by plants.](/assets/google-nexus-5x.jpeg)
+![Photograph of a white Google Nexus 5X device resting on a table, flanked by plants.](../assets/google-nexus-5x.jpeg)
 
 <div class="caption">The gorgeous new Nexus 5X. (Image: <a href="https://store.google.com/">Google Store</a>)</div>
 
@@ -43,7 +43,7 @@ Google’s [consistent focus on Chromecast](https://www.punchkick.com/blog/2013/
 
 This week’s enhancements come mostly in the form of software updates, enabling new proactive downloading of certain video content and dual-screen video games on Android. But Chromecast’s app integrations—with partners like Hulu, Showtime, Netflix, and now Spotify—help users to discover the Google Cast platform and begin to imagine themselves using it. And why wouldn’t they? At $35, Chromecast is neatly half the price of the low-end Apple TV, and while AirPlay is better integrated across iOS, Google Cast has saddled itself to many of the core apps users will want to show on their TVs most often.
 
-![Image of Chromecast devices in three colors, yellow, black, and red.](/assets/chromecast-colors.png)
+![Image of Chromecast devices in three colors, yellow, black, and red.](../assets/chromecast-colors.png)
 
 <div class="caption">Chromecast in Lemonade, Black, and Coral. (Image: <a href="https://store.google.com/product/chromecast_2015">Google Store</a></div>
 
@@ -57,7 +57,7 @@ The sheer scale of Google’s myriad product offerings is staggering, especially
 
 In fact, Google’s wireless offerings are now directly competitive with some of Apple’s lesser-known peripherals. Following the [addition of audio support to Google’s Cast](https://www.punchkick.com/blog/2015/01/05/streaming-apps-take-note-google-cast-now-supports-audio) platform, the new Chromecast Audio is similar to the age-old AirPort Express, both of which enable users to retrofit their speaker systems to live in the audio streaming world. It’s a subtle difference in the positioning of each product, but consumer interest in updating their audio equipment for a wireless era seems as relevant now as it did [in 2004](http://www.apple.com/pr/library/2004/06/07Apple-Unveils-AirPort-Express-for-Mac-PC-Users.html).
 
-![An image of Android and Chromecast streaming devices, remotes, and game controllers arranged in a grid.](/assets/android-streaming-devices.png)
+![An image of Android and Chromecast streaming devices, remotes, and game controllers arranged in a grid.](../assets/android-streaming-devices.png)
 
 <div class="caption">Google dives deep into the stream of TV and audio with Chromecast, Chromecast Audio, Nexus Player, and NVIDIA Shield.</div>
 
@@ -65,7 +65,7 @@ In fact, Google’s wireless offerings are now directly competitive with some of
 
 Pixel has been the codename for Google’s line of premium and high-powered Chrome OS notebooks, and Tuesday’s event expanded the Pixel family to include a new transformable tablet-and-keyboard product called the Pixel C.[^7] Pixel C is a powerful Android tablet designed to snap into a magnetic keyboard accessory, much like the Microsoft Surface or Surface Pro, an inspiration shared by Apple’s new iPad Pro. Pixel C is expensive for an Android tablet at $499, but showcases Google’s intention for Android to power premium workplace computer solutions alongside Chrome OS, which has come to dominate the education space.
 
-![Photograph of three people collaborating in a workplace environment with a Chromebook Pixel laptop in front of them.](/assets/chromebook-pixel-google.webp)
+![Photograph of three people collaborating in a workplace environment with a Chromebook Pixel laptop in front of them.](../assets/chromebook-pixel-google.webp)
 
 <div class="caption">Image: [Google Store](https://store.google.com/magazine/chromebook_pixel_2015_magazine)</div>
 
@@ -75,7 +75,7 @@ What is Google’s play with the Pixel C? Certainly it can’t just be ticking o
 
 Pixel is the proverbial Cadillac of the Google lineup. Just as car manufacturers debut their latest innovations in top-end sports cars that few people ever buy, and just as Apple showcases its hardware prowess in the Mac Pro that few of their customers even realize exists, the Pixel family represents an opportunity for Google to build the devices its web services deserve. Many of the innovations Google debuts in these and future Pixel products—like ultra–high-resolution displays, multi-microphone arrays, or inductive-charging Bluetooth keyboards—will trickle their way down to other products in the lineup. 
 
-![An image of three Chromebook Pixels stacked on top of one another, with the top one’s lid opened to the chromeOS desktop.](/assets/chromebook-pixel.png)
+![An image of three Chromebook Pixels stacked on top of one another, with the top one’s lid opened to the chromeOS desktop.](../assets/chromebook-pixel.png)
 
 But Google’s eagerness to strut its industrial design stuff with ambitious new hardware demonstrates its resolve to become a product company to be reckoned with. These new Android devices aren’t vaporware like the Nexus Q or [Google Glass](https://www.punchkick.com/blog/2014/07/10/developer-review-of-google-glass-use-cases-part-ii) before them—Google is making confident strides in the realm of consumer hardware, and seems poised to become a major player in nearly every product category. And this ambition promises to guide the ongoing iteration of Android and Chrome hardware and software.
 

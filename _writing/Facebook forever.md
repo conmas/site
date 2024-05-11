@@ -30,7 +30,7 @@ But the overlap didn’t matter. Rather than investing in its existing products 
 
 Facebook has since used Instagram as the proving ground for a few new photo messaging initiatives. Since the rise in Snapchat’s popularity and the failure of the company’s Poke competitor, Facebook has used Instagram as the outlet for two new services, [Instagram Direct](http://blog.instagram.com/post/69789416311/instagram-direct) and their recently-leaked [Bolt](http://www.punchkickinteractive.com/blog/2014/07/30/instagram-launches-new-messaging-app-bolt). These messengers hope to leverage Instagram’s incredible popularity to deliver Facebook the Snapchat rival they apparently crave, and feature no explicit relationship to Facebook itself. In theory, future users of Instagram’s Bolt might have no idea that the mobile experience was developed by the same company responsible for Poke and [Slingshot](http://sling.me) — and that’s precisely how Facebook wants it.
 
-![An image of an iPhone 4s running WhatsApp.](/assets/whatsapp-mobile.jpg)
+![An image of an iPhone 4s running WhatsApp.](../assets/whatsapp-mobile.jpg)
 
 A more significant example is Facebook’s highly publicized purchase of [WhatsApp](http://www.whatsapp.com/) for $19 billion in 2013. Facebook purchased the mobile messaging service despite its complete feature overlap with Messenger, and has continued to operate the app and community separate from the rest of Facebook. While it’s conceivably possible that Facebook could have merged WhatsApp with Messenger, growing its user base by more than 200 million, the company seems contented with allowing the service to carry on unaltered. This is perhaps because WhatsApp is targeted at a different market than Messenger, with clients available for platforms like BlackBerry and Symbian, and attracts international interest for its affordability versus traditional SMS messaging.
 
@@ -44,7 +44,7 @@ These remixed versions of the full Facebook experience underscore the company’
 
 Facebook wants to have as large of a presence on your smartphone’s home screen as they possibly can, no matter who you are or what your interests may be. To that end, they’ve invested billions of dollars and the immense weight of the company’s mobile development resources to develop differentiated mobile experiences that, while they might not advertise the fact, are controlled by Facebook. Next, we’ll investigate how Facebook aims to grow their apps’ feature sets to address as many mobile use cases as possible — and replace any rival apps in the process.
 
-![A stylized photograph of Mark Zuckerberg holding a microphone and speaking.](/assets/zuckerberg-microphone.jpg)
+![A stylized photograph of Mark Zuckerberg holding a microphone and speaking.](../assets/zuckerberg-microphone.jpg)
 
 ## Growing mobile features to include everything {#growing-mobile}
 
@@ -58,7 +58,7 @@ For Facebook’s mobile apps, like those of many other web-first companies, the 
 
 The iPhone and Android mobile apps have seen several new capabilities added to the “More” tab in recent months, including [a new way to find and meet up with friends based on their locations](http://www.punchkickinteractive.com/blog/2014/06/12/facebook-releases-11-0-update-for-nearby-friends-on-ios) and even [a new way to “Save” items](http://newsroom.fb.com/news/2014/07/introducing-save-on-facebook/) like articles, restaurants, and TV shows to review later. Similar to read-it-later apps like [Pocket](https://getpocket.com/) or [Instapaper](https://www.instapaper.com), the new feature is designed to help users feel less overwhelmed by the volume of content in their News Feed and allow them to digest the links and pages at a more convenient time or on another device. This news comes just over two years after [Facebook acquired read-it-later startup Spool](http://techcrunch.com/2012/07/14/facebooks-latest-acqui-hire-spool-the-instapaper-on-steroids/), which offered a Chrome extension and iOS app until 2012. Interestingly, the Save button isn’t currently available in [Facebook’s news and reading iOS app, Paper](http://www.facebook.com/paper).
 
-![Three iPhones showing different ways to use the Facebook Save feature, including timeline posts, places, and TV or movies.](/assets/facebook-save-feature.webp)
+![Three iPhones showing different ways to use the Facebook Save feature, including timeline posts, places, and TV or movies.](../assets/facebook-save-feature.webp)
 
 Since [Facebook users spend much of their online time reading through their News Feeds](http://www.emarketer.com/Article/Social-Usage-Involves-More-Platforms-More-Often/1010019), this new Save feature could see widespread adoption and use—perhaps more than competing services like Instapaper and Pocket. The goal is to minimize the number of times a user would need to open a non-Facebook app, so Facebook is committed to covering as many bases as possible. Other new initiatives include a [media recognition service](http://www.theverge.com/2014/5/21/5738222/facebook-will-be-listening-when-you-post-your-next-status-update-shazam) built into the status editor that directly competes with existing services like [SoundHound](https://www.soundhound.com/) and [Shazam](http://www.shazam.com/), as well as a [Deals](https://www.facebook.com/notes/facebook/introducing-deals/446183422130) platform that allows restaurants and businesses to offer time and location-sensitive offers to customers, much like [Groupon](http://www.groupon.com) or [Yelp](http://www.yelp.com).
 
@@ -68,7 +68,7 @@ Along similar ecommerce lines, Facebook has been testing a new [“Buy” button
 
 Besides the development of tablet versions and the steady match toward feature parity with their web interface, Facebook has begun [splicing their branded app’s core services](http://www.punchkickinteractive.com/blog/2014/07/28/what-does-foursquares-two-app-strategy-mean-for-mobile) into a handful of single-purpose apps. [Messenger](https://www.facebook.com/mobile/messenger) combined Facebook Chat and so-called “Inbox” messages in 2011, and represented a departure from their previous one-app-to-rule-them-all model. Now, users could chat with their Facebook friends without ever downloading the main Facebook app — and people loved it. Since then, Facebook has dabbled with single-purpose brand app endeavors like Snapchat clone [Facebook Poke](http://newsroom.fb.com/news/2012/12/introducing-poke-for-mobile/) and photos client [Facebook Camera](http://newsroom.fb.com/news/2012/05/introducing-facebook-camera/), but none have seen the attention from both the public and from Facebook’s developers that Messenger has enjoyed.
 
-![Promotional image announcing Facebook Messenger, with hands holding phones running both Android and iOS apps.](/assets/facebook-messenger-introduction.png)
+![Promotional image announcing Facebook Messenger, with hands holding phones running both Android and iOS apps.](../assets/facebook-messenger-introduction.png)
 
 > Messenger is billed as “free texting from Facebook.”
 
@@ -86,7 +86,7 @@ In just over a decade, Facebook has grown its user base to unimaginable heights 
 
 Facebook’s plan for the future started [in 2007 with the launch of Facebook Platform](https://www.facebook.com/notes/facebook/platform-is-here/2437282130), a suite of services and APIs that allow developers and users to engage with Facebook content across the web and through different apps. Developers can build on the network’s accrued “social graph” of connections between its users to enhance their apps and offer more utility to users. They can skip developing a custom login and accounts system by deploying Facebook Connect, which allows users to sign into a new app or service by simply entering their Facebook account credentials. Facebook was investing in new ways for users to passively and seamlessly move between apps using Facebook, and major companies like Spotify moved to support them.
 
-![Image showing a person holding an iPhone running the Lyft mobile app, with a “Login with Facebook” button prominently featured.](/assets/facebook-login-lyft.png)
+![Image showing a person holding an iPhone running the Lyft mobile app, with a “Login with Facebook” button prominently featured.](../assets/facebook-login-lyft.png)
 
 From their unique established position, Facebook has sought to become the de facto solution for a persistent identity online. Just as many services require an email address, and many others have adhered to the [OpenID](http://en.wikipedia.org/wiki/OpenID) authentication protocol in the past, Facebook wants to centralize and standardize users’ disparate login information across the web and mobile. In fact, the company announced at their [semi-annual developer conference F8](https://fbf8.com/) the addition of [Anonymous Login](http://www.punchkick.com/blog/2014/04/30/facebooks-f8-conference-announces-new-login-experience-and-graph-api-2-0) to the Facebook Connect API, allowing users to sign into apps with their Facebook accounts without sharing any of their data with those apps. Sharing data isn’t the most important aspect of Facebook’s login button—it’s the convenience and pervasiveness of the button itself.
 
@@ -100,7 +100,7 @@ To that end, Facebook also announced a new initiative to kick-start fresh compan
 
 Technology, as an industry, will never stop evolving. Just as the market has pivoted to mobile in recent years with the explosion of smartphones, tablets, and wearables, Facebook wagers that the next emerging technology will come in the form of virtual reality—and they’re not alone. As Facebook was acquiring Kickstarter darling [Oculus](http://www.oculusvr.com/) earlier this year, companies like Sony with their [Project Morpheus](http://blog.us.playstation.com/2014/03/18/introducing-project-morpheus/) and Samsung with their rumored [Gear VR headset](http://www.theverge.com/2014/7/8/5881921/samsung-gear-vr-headset-leaked) have been positioning themselves to cash in on the predicted next wave of consumer technology. 
 
-![Photograph of a man wearing an Oculus Rift VR headset, looking up, and smiling.](/assets/oculus-ellis-hamburger-verge.jpg)
+![Photograph of a man wearing an Oculus Rift VR headset, looking up, and smiling.](../assets/oculus-ellis-hamburger-verge.jpg)
 
 <div class="caption">Source: <a href="http://www.theverge.com/">The Verge</a></div>
 

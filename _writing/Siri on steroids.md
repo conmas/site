@@ -30,7 +30,7 @@ So, that’s a lot of theory. What kind of experience would a quantum computer d
 
 There are products already that aggregate data and simulate similar experiences, like Google Now for Android. [Google Now](https://www.punchkick.com/blog/2015/01/30/google-now-introduces-app-integrations-to-connect-with-audiences-in-new-ways) accesses information like your Gmail messages, calendar appointments, or weather and traffic conditions to provide contextual and timely information right from the launcher. As services get more access to information, and as the backend computers processing the data become exponentially more powerful, this experience won’t need to be simulated—it will be real.
 
-![](/assets/cortana-vs-siri.png)
+![](../assets/cortana-vs-siri.png)
 
 “The next step is for the system to take care of things without you having to ask,” said Norton. “If you schedule a meeting with someone in San Francisco, and add it to your work calendar, you could authorize your phone to make flight and hotel accommodations automatically, and charge your company credit card.” The idea takes the notion of a virtual assistant to new heights. “Someday, I expect that I’ll schedule something out of town, and the first time I’ll have to think about it is when the Uber arrives at my house to take me to the airport. My phone will already have my boarding pass, my hotel key, and everything else ready to go.”
 

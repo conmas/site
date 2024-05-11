@@ -12,7 +12,7 @@ image_alt: Illustration of the Messages app icon flanked by out-of-focus iPhone 
 
 {% include ios-8-intro.html %}
 
-![](/assets/imessage-phones.png)
+![](../assets/imessage-phones.png)
 
 ## iMessage
 

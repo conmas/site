@@ -3,16 +3,17 @@ layout: writing
 title: Boxers and bullfighters
 date: 2011-03-17
 attribution: true
-tags: [posts, college, english, literature, music, school]
+tags:
+  - posts
+  - music
+  - school
+  - papers
 topics:
   - "[[The National]]"
   - "[[Ernest Hemingway]]"
   - "[[The Sun Also Rises]]"
   - "[[Boxer]]"
   - "[[Lost Generation]]"
-category:
-  - "[[Essays]]"
-  - "[[Posts]]"
 class:
   - "[[Writing for English Majors]]"
 ---

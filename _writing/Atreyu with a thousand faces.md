@@ -3,11 +3,13 @@ layout: writing
 title: Atreyu with a thousand faces
 date: 2011-03-03
 attribution: true
-tags: [posts, school]
-category:
-  - "[[Posts]]"
+tags:
+  - posts
+  - school
+  - papers
+class:
+  - "[[German Fairy Tales]]"
 ---
-
 Until relatively recently, literary history has trended towards the fantastic. These were fairy stories, dealing with supernatural beings, forces of nature, and the oft-hapless humans who interact with each. Along with this tradition of magical circumstances came the popularity of human protagonists, fishes-out-of-water “with a thousand faces” upon whom readers might map their own experiences, questions, and significance. Even as the commonness of “fairy tales” in popular literature seemed to wane, this monomythic hero persisted and was adapted to explore entirely new fantastic realms. In *The Neverending Story*, the dichotomy of reader and hero is complicated by a third layer, a metafictional fantasy world that becomes indistinguishable, and perhaps one with, everyday reality. However, just like in blockbuster special-effects spectacles like *Star Wars* and the simple fables upon whom its mythic structure was based, Bastian in *The Neverending Story* functions as a “hero with a thousand faces” to become relatable and familiar to readers treading water in an impossible fantasy realm.
 
 While heroes like those found in modern film trilogies were more commonly found in Greek and Roman epic poems, the fairy tales of the Brothers Grimm featured their fair share of human protagonists cast unsuspectingly into unfamiliar territories, like Hansel and Gretel combating cannibalistic forest-dwellers and Little Red Riding Hood fending off preying anthropomorphized wolves. Additionally, heroes such as Knight Huldbrand in Fouqué’s *Undine* and Anselmus in E.T.A. Hoffman’s *The Golden Pot*, two ordinary humans who stumble one way or another into the domain of the magical, enrich this literary trope. It’s a tested and proven strategy for engrossing readers into your story and helping gently introduce headier or less realistic concepts, characters or events—working effectively in everything from the aforementioned tales to modern equivalents, such as the *Harry Potter* series with its raised-by-muggles titular hero, or the innocent hobbits from the remote Shire in *The Lord of the Rings*.
