@@ -11,8 +11,6 @@ This page is inspired by the [`/now`](https://nownownow.com/about) page project,
 
 ## Work
 
-
-
 I’m working as a product and engineering leader at McDonald’s, focused on a few interesting product and technology challenges that few other companies have. These include:
 
 - Modernizing a legacy digital commerce platform and native apps.
@@ -22,7 +20,7 @@ I’m working as a product and engineering leader at McDonald’s, focused on a 
 
 ## Personal 
 
-I’m currently <script>document.write(`${(new Date()-new Date("1991-07-26T13:44:00Z"))/1000/60/60/24/365.25}`)</script> years old and counting.
+I’m currently <script>document.write(`${((new Date()-new Date("1991-07-26T13:44:00Z"))/1000/60/60/24/365.25).toFixed(2)}`)</script> years old and counting.
 
 Outside of work, I’m focused on life in the Chicago suburbs with my wife Abby and three-year-old son Miles. I’m increasingly (trying to) focus on my health, and I’m now <script>document.write`${(new Date()-new Date("2023-03-21T00:00:00Z"))/1000/60/60/24/365.25 | 0}+' years,'+{((new Date()-new Date("2023-03-21T00:00:00Z"))/1000/60/60/24 % 365.25)/30.44 | 0} + ' months'`);</script> sober.
 
