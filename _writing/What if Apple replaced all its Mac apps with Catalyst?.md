@@ -29,6 +29,7 @@ From a strategic standpoint, this makes a world of sense for today’s Apple. Ra
 But this approach also leaves a ton of questions. What happens to established AppKit apps on the Mac, especially those that are getting kind of long in the tooth? Should we expect Apple to revamp them with Mac-first features, or replace them with their iOS brethren in a future release?
 
 This month, iOS developer celebrities [Steve Troughton-Smith](https://twitter.com/stroughtonsmith/status/1114261872029700098) and [Guilherme Rambo](https://9to5mac.com/2019/04/10/macos-10-15-itunes-standalone-apps/) uncovered evidence that Apple intended to replace iTunes with a suite of new Catalyst apps for Podcasts, Music, and TV in this fall’s release of macOS 10.15. According to the pair, Apple Books for macOS would also be replaced by a Catalyst port of its iOS app, which was redesigned in version 11.3. This is the long-heralded break-up of iTunes, which Mac enthusiasts have been clamoring about for more than a decade. But at what cost?
+
 ![Screenshot of the iTunes app, showing an array of tiles promoting its replacement, Apple Music.](../assets/itunes-apple-music.webp)
 
 <div class="caption">With all these Apple Music banners and promotions, it seems like even iTunes is wondering why in the hell you're using iTunes.</div>
@@ -73,7 +74,6 @@ As Macworld pointed out, there are a plethora of more advanced features that mak
 
 Further, users can shop for music on the iTunes Store, something that is still relegated to an awkward purple app on iOS. Given that purchasing and downloading TV shows and movies are blessedly covered by the new Apple TV app, I suspect this is a gap that will be short-lived, and likely glossed over by iOS 13 this summer. But there are also media formats native to iTunes that aren’t yet supported by the Apple Music app, like iTunes LP. (Hopefully, iTunes Extras will be fully supported by the Catalyst TV app.) iTunes also has a bunch of other often-overlooked features from its days as the flagship Apple software product, like internet radio and Home Sharing—not to mention the ability to manage content and operating system updates for every iPod, iPhone, iPad, and Apple TV ever built. It’s a [Cronenberg monster](https://rickandmorty.fandom.com/wiki/Cronenbergs?file=S1e6_cronenberg_russia.png) of every one of Apple’s Next Big Things™ since 2003.
 
-![[itunes-track-metadata-editor.webp]]
 ![Screenshot of the iTunes track metadata editor with lots of fields and options. The track is “In the Flowers” by Animal Collective.](../assets/itunes-track-metadata-editor.webp)
 
 <div class="caption">Someone from the future who has only ever known the world of Spotify and Apple Music would think this info panel is insane. Why would you need to modify the track’s metadata? Hasn’t the platform provider already handled that for you? Why would you even need to think about the fact that the song you’re listening to is a file in a computer at all?</div>
@@ -90,7 +90,6 @@ I’ll come right out and say it, Apple Mail is both my favorite and least favor
 
 But this isn’t about Mail versus other clients, it’s about Mail for Mac versus Mail for iOS. They’re pretty similar in terms of design, and for the most part check all the boxes your average email user might demand. But they’re from two completely different decades, and it shows.
 
-![[apple-mail-font-settings.webp]]
 ![Screenshot of the Apple Mail preferences screen, showing different layout, fonts, and color options.](../assets/apple-mail-font-settings.webp)
 
 <div class="caption">The option to change the message list font may seem like a vestigial organ here, but that’s because I have the modern three-column layout applied to Mail. The "Classic Layout" from Mac OS X 10.0 Cheetah, when it was still called MailViewer.</div>
@@ -105,7 +104,6 @@ Unless the Catalyst version of Mail can support this ecosystem of plug-ins, I si
 
 Contacts is different in that its core functionality is already pretty well matched across both platforms. You can create and manage contacts, add fields and photos, or share a contact whether you’re on a Mac, iPad, or iPhone. It’s not going to change the world, but it’s a pretty nifty app.
 
-![[apple-contacts-template.webp]]
 ![Screenshot of the Contacts app preferences window on macOS, showing advanced vCard template options.](../assets/apple-contacts-template.webp)
 
 <div class="caption">You can modify default fields to appear on a new contact record, which is handy, I guess. You can also select the vCard Format you’re using on the next tab (3.0 or 2.1), something I suspect people asked each other all the time back when this app was called Address Book.</div>
