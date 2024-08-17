@@ -1,11 +1,8 @@
 ---
-tags:
-  - meta
+tags: [meta]
 title: Résumé
 layout: page
 permalink: /resume
-aliases:
-  - /resume
 ---
 
 # Work history

@@ -2,7 +2,6 @@
 layout: page
 title: Writing archive
 permalink: /writing
-original_site: "[[connormason.me]]"
 ---
 # Writing
 
@@ -11,8 +10,6 @@ I’ve written extensively over the years for various blogs and websites, some m
 <ul>
   {% assign recent_posts = site.writing | sort: 'date' | reverse %}
   {% for post in recent_posts %}
-	<li>
-	  <span class="date-label">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-	</li>
+	<li><span class="date-label">{{ post.date | date: "%Y • %m" }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>

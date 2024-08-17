@@ -2,8 +2,7 @@
 layout: page
 title: Colophon
 permalink: /colophon
-tags:
-  - meta
+tags: [meta]
 ---
 # Colophon
 
