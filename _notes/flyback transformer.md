@@ -4,11 +4,14 @@ title: Flyback transformer
 date: 2024-02-25
 permalink: /flyback
 ---
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ce8_GSulrrY?si=gwPD7OgfM_zoT3zS&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 There's a type of electrical component called a *flyback transformer*, which was used in cathode ray tube displays, including Macs, until the mid-2000s.
 
 I first came across this term in September 2013 when I was working as a Genius in Apple retail, attending training in Cupertino. At the time, the only Macs that included a flyback transformer that were still supported for on-site repairs where [eMacs](https://en.wikipedia.org/wiki/EMac), the education-only version of the iMac that was ultimately discontinued in 2006, and which was the last CRT computer display Apple ever made. Because this machine could theoretically still be brought into an Apple store for service, we received training on how to safely disassemble and repair it.
 
-I say "safely," and in the context of other computers the focus of the training was preoccupied with safely handling the electrical components for their sake, so as not to fry them with static electricity from your fingers. In the case of the eMac and its flyback transformer, however, the concern was about the repairperson's safety. As with other CRTs, if you mishandled the components and touched the flyback transformer, there was a risk it could discharge its store of electricity through your body and kill you.
+I say "safely," and in the context of other computers the focus of the training was preoccupied with safely handling the electrical components for their sake, so as not to fry them with static electricity from your fingers. In the case of the eMac and its [flyback transformer](https://en.wikipedia.org/wiki/Flyback_transformer), however, the concern was about the repairperson's safety. As with other CRTs, if you mishandled the components and touched the flyback transformer, there was a risk it could discharge its store of electricity through your body and kill you.
 
 Repairing a computer could *kill* you. I'd never considered this a possibility. I'd had very little exposure to CRT monitors, or repairing them for that matter, but I remember feeling at the time like this was something people should have been talking about.
 
