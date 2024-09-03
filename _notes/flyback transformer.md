@@ -15,7 +15,7 @@ Repairing a computer could *kill* you. I'd never considered this a possibility. 
 What made this stranger was that its repair procedure was an inversion of the usual electrical grounding protocol—unlike other computers, which required the repairperson to be grounded to prevent static electricity from damaging circuitboards, being grounded actually increased the electrical discharge risk posed by the CRT and flyback transformer.
 
 <iframe width="730" height="410" src="https://www.youtube-nocookie.com/embed/7cM5tRMC1e0?si=HBOa57eXUWNwmjNr&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*Video showing the teardown procedure for an eMac. The technician describes the flyback transformer and electrocution risk at the [nine-minute mark](https://youtu.be/7cM5tRMC1e0?si=K0iOtXrrLzHUGAUo&t=540).*
+> Video showing the teardown procedure for an eMac. The technician describes the flyback transformer and electrocution risk at the [nine-minute mark](https://youtu.be/7cM5tRMC1e0?si=K0iOtXrrLzHUGAUo&t=540).
 
 For our training, they actually had us open one up and go through a repair. We were cautioned during classroom training that this hands-on exercise was coming, and we all listened intently, taking notes. When the time came to disassemble the machine, I remember the delicacy—reverence—with which I handled the flyback transformer.
 
